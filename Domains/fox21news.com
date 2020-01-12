@@ -1,0 +1,9 @@
+www.fox21news.com
+v1-1.api.fox21news.com
+www.v1-1.api.fox21news.com
+fox21news.com
+www.fox21news.com
+deals.fox21news.com
+media.fox21news.com
+secure.fox21news.com
+www.secure.fox21news.com

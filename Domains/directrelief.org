@@ -1,0 +1,4 @@
+www.directrelief.org
+autodiscover.directrelief.org
+mail.directrelief.org
+secure.directrelief.org

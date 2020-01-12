@@ -1,0 +1,15 @@
+www.kunc.org
+ftp.kunc.org
+hiddencolorado.kunc.org
+hybrid.kunc.org
+www.hybrid.kunc.org
+m.kunc.org
+autodiscover.kunc.org
+kuncex.kunc.org
+owa.kunc.org
+owa.kunc.org
+www.owa.kunc.org
+refugee.kunc.org
+support.kunc.org
+wildfire.kunc.org
+xtra.kunc.org

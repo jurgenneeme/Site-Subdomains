@@ -1,0 +1,14 @@
+www.gestalten.com
+buynow.gestalten.com
+dgvcms2011.gestalten.com
+dgvtv.gestalten.com
+digital.gestalten.com
+en.gestalten.com
+fonts.gestalten.com
+news.gestalten.com
+pdb.gestalten.com
+shop.gestalten.com
+us.gestalten.com
+usfonts.gestalten.com
+usshop.gestalten.com
+stage.www.gestalten.com

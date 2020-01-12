@@ -1,0 +1,9 @@
+www.lesbian8.com
+lesbian8.com
+www.lesbian8.com
+lesbian8.com
+m.lesbian8.com
+www.lesbian8.com
+m.lesbian8.com
+media.lesbian8.com
+zc1hv.lesbian8.com

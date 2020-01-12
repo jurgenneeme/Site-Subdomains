@@ -1,0 +1,9 @@
+www.pahomepage.com
+beta.pahomepage.com
+pahomepage.com
+www.pahomepage.com
+finance.pahomepage.com
+media.pahomepage.com
+shareit.pahomepage.com
+sports.pahomepage.com
+www2.pahomepage.com

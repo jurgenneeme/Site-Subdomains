@@ -1,0 +1,9 @@
+www.anruan.com
+api.anruan.com
+game.anruan.com
+image.anruan.com
+m.anruan.com
+mf.anruan.com
+mimg.anruan.com
+soft.anruan.com
+wimage.anruan.com

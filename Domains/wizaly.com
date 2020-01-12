@@ -1,0 +1,9 @@
+www.wizaly.com
+app.wizaly.com
+mail.wizaly.com
+t.wizaly.com
+tk-abt-com.wizaly.com
+tk-svsound-com.wizaly.com
+tkairfrance.wizaly.com
+tkmsccruisescom.wizaly.com
+tv.wizaly.com

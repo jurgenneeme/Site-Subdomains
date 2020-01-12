@@ -1,0 +1,13 @@
+www.colta.ru
+archives.colta.ru
+m.colta.ru
+www.m.colta.ru
+m.colta.ru
+www.m.colta.ru
+colta.ru
+m.colta.ru
+www.colta.ru
+www.m.colta.ru
+os.colta.ru
+colta.ru
+www.colta.ru

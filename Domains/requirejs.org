@@ -1,0 +1,3 @@
+www.requirejs.org
+m.requirejs.org
+wap.requirejs.org

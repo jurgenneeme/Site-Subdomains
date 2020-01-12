@@ -1,0 +1,2 @@
+forum.froxlor.org
+redmine.froxlor.org

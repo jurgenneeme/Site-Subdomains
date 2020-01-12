@@ -1,0 +1,14 @@
+www.newsfactor.com
+bpm-today.newsfactor.com
+business.newsfactor.com
+cio-today.newsfactor.com
+newsfactor.com
+www.newsfactor.com
+enterprise-linux-it.newsfactor.com
+enterprise-security-today.newsfactor.com
+enterprise-windows-it.newsfactor.com
+images.newsfactor.com
+mail.newsfactor.com
+sci.newsfactor.com
+science.newsfactor.com
+wireless.newsfactor.com

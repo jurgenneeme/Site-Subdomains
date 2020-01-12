@@ -1,0 +1,14 @@
+www.phlearn.com
+access.phlearn.com
+cdn.phlearn.com
+phlearn.com
+www.phlearn.com
+phlearn.com
+statics.phlearn.com
+www.phlearn.com
+host.email1.phlearn.com
+host.email2.phlearn.com
+host.email3.phlearn.com
+o1.hello.phlearn.com
+help.phlearn.com
+statics.phlearn.com

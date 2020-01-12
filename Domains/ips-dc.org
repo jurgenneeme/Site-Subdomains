@@ -1,0 +1,12 @@
+www.ips-dc.org
+act.ips-dc.org
+action.ips-dc.org
+host.ips-dc.org
+www.host.ips-dc.org
+mail.ips-dc.org
+ns2.ips-dc.org
+autodiscover.ips-dc.org
+mail.ips-dc.org
+ips-dc.org
+www.ips-dc.org
+pacificfreeze.ips-dc.org

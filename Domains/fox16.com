@@ -1,0 +1,9 @@
+www.fox16.com
+beta.fox16.com
+fox16.com
+www.fox16.com
+events.fox16.com
+finance.fox16.com
+m.fox16.com
+media.fox16.com
+www2.fox16.com

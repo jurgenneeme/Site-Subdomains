@@ -1,0 +1,10 @@
+www.latticehq.com
+gitlab.latticehq.com
+help.latticehq.com
+hr.latticehq.com
+keplergroup.latticehq.com
+logrocket.latticehq.com
+lr.latticehq.com
+router.latticehq.com
+uploads.latticehq.com
+weg.latticehq.com

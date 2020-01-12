@@ -1,0 +1,12 @@
+www.winonadailynews.com
+circulars.winonadailynews.com
+m.winonadailynews.com
+winonadailynews.com
+www.winonadailynews.com
+contest.winonadailynews.com
+games.winonadailynews.com
+li.winonadailynews.com
+m.winonadailynews.com
+m.nowhiring.winonadailynews.com
+nowhiring.winonadailynews.com
+www.nowhiring.winonadailynews.com

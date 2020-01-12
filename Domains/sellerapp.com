@@ -1,0 +1,9 @@
+www.sellerapp.com
+api.sellerapp.com
+cdn.sellerapp.com
+cli.sellerapp.com
+sellerapp.com
+www.sellerapp.com
+crm.sellerapp.com
+dashboard.sellerapp.com
+idevaffiliate.sellerapp.com

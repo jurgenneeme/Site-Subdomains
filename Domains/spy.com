@@ -1,0 +1,9 @@
+g--spy.com
+www.g--spy.com
+www.spy.com
+spy.com
+www.spy.com
+email.spy.com
+click.email.spy.com
+pages.email.spy.com
+view.email.spy.com

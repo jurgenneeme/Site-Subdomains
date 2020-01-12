@@ -1,0 +1,11 @@
+www.wgem.com
+addins.wgem.com
+addins.wgem.com
+www.addins.wgem.com
+dub.wgem.com
+horizon.wgem.com
+link.wgem.com
+m.wgem.com
+my.wgem.com
+on.wgem.com
+sendit.wgem.com

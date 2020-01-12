@@ -1,0 +1,9 @@
+mail.tenkmo.com
+tenkmo.com
+www.tenkmo.com
+tenkmo.com
+www.tenkmo.com
+i.tenkmo.com
+www.i.tenkmo.com
+s.tenkmo.com
+www.s.tenkmo.com

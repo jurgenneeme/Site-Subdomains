@@ -1,0 +1,16 @@
+www.sendtric.com
+blog.sendtric.com
+ci.sendtric.com
+nonexistent.wp.sendtric.com
+wp.sendtric.com
+sendtric.com
+www.sendtric.com
+prod.sendtric.com
+www.sendtric.com
+gen.sendtric.com
+ngen.sendtric.com
+prod.sendtric.com
+staging.sendtric.com
+gen.sendtric.com
+gen.staging.sendtric.com
+wp.sendtric.com

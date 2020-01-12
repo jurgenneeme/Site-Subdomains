@@ -1,0 +1,17 @@
+www.baa.org
+hopkinton.baa.org
+autodiscover.baa.org
+baaex1.baa.org
+mail.baa.org
+www.mail.baa.org
+media.baa.org
+mg.baa.org
+baa.org
+www.baa.org
+autodiscover.baa.org
+baa.org
+mail.baa.org
+www.baa.org
+raceday.baa.org
+registration.baa.org
+watchlive.baa.org

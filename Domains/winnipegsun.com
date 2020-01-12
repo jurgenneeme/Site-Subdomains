@@ -1,0 +1,16 @@
+preprod.winnipegsun.com
+winnipegsun.com
+www.winnipegsun.com
+classifieds.winnipegsun.com
+flyercity.winnipegsun.com
+tu9srvbirvvtmtukcgluzy5jagfydgjlyxqubmv0.g00.winnipegsun.com
+tu9srvbirvvtmtukd3d3lm5hbm92axnvci5pbw00.g00.winnipegsun.com
+janrain.winnipegsun.com
+link.winnipegsun.com
+enews.lists.winnipegsun.com
+local.winnipegsun.com
+m.winnipegsun.com
+preprod.winnipegsun.com
+scores.winnipegsun.com
+storage.winnipegsun.com
+wcmimages.winnipegsun.com

@@ -1,0 +1,12 @@
+www.tuttomercatoweb.com
+m.tuttomercatoweb.com
+tuttomercatoweb.com
+www.tuttomercatoweb.com
+tuttomercatoweb.com
+www.tuttomercatoweb.com
+feeds.tuttomercatoweb.com
+m.tuttomercatoweb.com
+store.tuttomercatoweb.com
+tmwawards.tuttomercatoweb.com
+tmwnews.tuttomercatoweb.com
+ydtzzw.tuttomercatoweb.com

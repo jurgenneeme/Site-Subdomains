@@ -1,0 +1,14 @@
+www.unifi-ai.com
+admin.unifi-ai.com
+www.dev.unifi-ai.com
+fprint.unifi-ai.com
+fprint-api.unifi-ai.com
+fprint-deviceman.unifi-ai.com
+fprint-static.unifi-ai.com
+ips-beta.unifi-ai.com
+ips-web1.unifi-ai.com
+ips-web2.unifi-ai.com
+ips1.unifi-ai.com
+ips1stg.unifi-ai.com
+monitoring.unifi-ai.com
+ops.unifi-ai.com

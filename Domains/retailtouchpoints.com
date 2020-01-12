@@ -1,0 +1,14 @@
+www.retailtouchpoints.com
+beta.retailtouchpoints.com
+ccs.retailtouchpoints.com
+retailtouchpoints.com
+www.retailtouchpoints.com
+db.retailtouchpoints.com
+www.db.retailtouchpoints.com
+dev.retailtouchpoints.com
+hub.retailtouchpoints.com
+beta.mediakit.retailtouchpoints.com
+poll.retailtouchpoints.com
+webinars.retailtouchpoints.com
+www1.retailtouchpoints.com
+www3.retailtouchpoints.com

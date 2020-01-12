@@ -1,0 +1,14 @@
+www.aberdeennews.com
+articles.aberdeennews.com
+circulars.aberdeennews.com
+aberdeennews.com
+m.aberdeennews.com
+www.aberdeennews.com
+jobs.aberdeennews.com
+local.aberdeennews.com
+m.aberdeennews.com
+salesevent.aberdeennews.com
+signon.aberdeennews.com
+signon.aberdeennews.com
+www.signon.aberdeennews.com
+weather.aberdeennews.com

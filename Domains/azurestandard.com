@@ -1,0 +1,15 @@
+www.azurestandard.com
+affiliates.azurestandard.com
+affiliates.azurestandard.com
+www.affiliates.azurestandard.com
+api.azurestandard.com
+azurestandard.com
+www.azurestandard.com
+hl.azurestandard.com
+hl2.azurestandard.com
+img.azurestandard.com
+mail.azurestandard.com
+mail2.azurestandard.com
+podcast.azurestandard.com
+www.podcast.azurestandard.com
+try.azurestandard.com

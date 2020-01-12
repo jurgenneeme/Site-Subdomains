@@ -1,0 +1,13 @@
+www.week.com
+addins.week.com
+www.addins.week.com
+week.com
+www.week.com
+mail.week.com
+weekmail1.week.com
+weekmail2.week.com
+www.mail.week.com
+mail.week.com
+www.mail.week.com
+media.week.com
+on.week.com

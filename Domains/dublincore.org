@@ -1,0 +1,9 @@
+www.dublincore.org
+dcevents.dublincore.org
+dcpapers.dublincore.org
+lists.dublincore.org
+dublincore.org
+lrmi.dublincore.org
+www.dublincore.org
+stage.dublincore.org
+wiki.dublincore.org

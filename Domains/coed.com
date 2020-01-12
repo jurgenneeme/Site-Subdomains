@@ -1,0 +1,10 @@
+www.coed.com
+adtest.coed.com
+coed.com
+www.coed.com
+coed.com
+vipgo.coed.com
+www.coed.com
+shop.coed.com
+videos.coed.com
+vipgo.coed.com

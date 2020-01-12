@@ -1,0 +1,12 @@
+www.stanleyhotel.com
+c.stanleyhotel.com
+mobile.stanleyhotel.com
+reservations.stanleyhotel.com
+reservations.stanleyhotel.com
+www.reservations.stanleyhotel.com
+stn-agilysys2.stanleyhotel.com
+stn-agilysys2.stanleyhotel.com
+www.stn-agilysys2.stanleyhotel.com
+tickets.stanleyhotel.com
+vpn.stanleyhotel.com
+www.vpn.stanleyhotel.com

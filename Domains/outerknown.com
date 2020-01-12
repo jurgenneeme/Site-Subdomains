@@ -1,0 +1,10 @@
+www.outerknown.com
+archive.outerknown.com
+www.archive.outerknown.com
+cdn1.outerknown.com
+outerknown.com
+www.outerknown.com
+letters.outerknown.com
+returns.outerknown.com
+www.returns.outerknown.com
+sfiycb.outerknown.com

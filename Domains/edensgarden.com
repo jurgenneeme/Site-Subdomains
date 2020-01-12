@@ -1,0 +1,9 @@
+www.edensgarden.com
+affiliates.edensgarden.com
+edensgarden.com
+www.edensgarden.com
+old.edensgarden.com
+opencart.edensgarden.com
+www.old.edensgarden.com
+www.opencart.edensgarden.com
+rs.edensgarden.com

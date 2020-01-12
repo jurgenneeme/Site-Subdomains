@@ -1,0 +1,16 @@
+www.fontsinuse.com
+assets.fontsinuse.com
+www.assets.fontsinuse.com
+artistsbooksandmultiples.blogspot.com.fontsinuse.com
+catan.com.fontsinuse.com
+assets.fontsinuse.com
+fontsinuse.com
+www.fontsinuse.com
+fontsinuse.com
+www.fontsinuse.com
+local.fontsinuse.com
+media.fontsinuse.com
+beta.mobile.fontsinuse.com
+origin.fontsinuse.com
+parallel.fontsinuse.com
+ww.fontsinuse.com

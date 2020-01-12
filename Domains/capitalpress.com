@@ -1,0 +1,9 @@
+www.capitalpress.com
+capitalpress.com
+www.capitalpress.com
+mail.capitalpress.com
+marketplace.capitalpress.com
+marketplace.capitalpress.com
+www.marketplace.capitalpress.com
+subscription.capitalpress.com
+www.subscription.capitalpress.com

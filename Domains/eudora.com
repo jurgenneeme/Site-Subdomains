@@ -1,0 +1,11 @@
+www.eudora.com
+ads.eudora.com
+ads1.eudora.com
+adserver.eudora.com
+adserver1.eudora.com
+adserver2.eudora.com
+adserver3.eudora.com
+adserver4.eudora.com
+ftp.eudora.com
+jump.eudora.com
+takethisout.eudora.com

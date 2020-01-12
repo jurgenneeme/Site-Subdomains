@@ -1,0 +1,11 @@
+www.smartocto.com
+api.smartocto.com
+api-staging.smartocto.com
+smartocto.com
+www.smartocto.com
+divolte.smartocto.com
+hartvannederland.smartocto.com
+measure.smartocto.com
+measure-staging.smartocto.com
+omroepwest.smartocto.com
+tentacles.smartocto.com

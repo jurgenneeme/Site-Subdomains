@@ -1,0 +1,10 @@
+www.optcorp.com
+optcorp.com
+www.optcorp.com
+data.optcorp.com
+new.optcorp.com
+www.new.optcorp.com
+news.optcorp.com
+nhvrzm.optcorp.com
+print.optcorp.com
+www.print.optcorp.com

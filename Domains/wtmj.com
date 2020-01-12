@@ -1,0 +1,12 @@
+www.wtmj.com
+circulars.wtmj.com
+mediaassets.620wtmj.com
+mediaassets.wtmj.com
+sharing.620wtmj.com
+sharing.wtmj.com
+wtmj.com
+www.wtmj.com
+media2.wtmj.com
+mediaassets.wtmj.com
+on.wtmj.com
+support.wtmj.com

@@ -1,0 +1,10 @@
+www.tribdem.com
+m.tribdem.com
+tribdem.com
+www.tribdem.com
+communityautoconnection.tribdem.com
+login.tribdem.com
+m.tribdem.com
+mail.tribdem.com
+newspaperads.tribdem.com
+obituaries.tribdem.com

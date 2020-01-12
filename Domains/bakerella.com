@@ -1,0 +1,16 @@
+www.bakerella.com
+dev.bakerella.com
+host2.bakerella.com
+www.host2.bakerella.com
+host3.bakerella.com
+host3.bakerella.com
+www.host3.bakerella.com
+m.bakerella.com
+bakerella.com
+cpanel.bakerella.com
+mail.bakerella.com
+vps.bakerella.com
+webdisk.bakerella.com
+webmail.bakerella.com
+www.bakerella.com
+www.vps.bakerella.com

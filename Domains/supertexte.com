@@ -1,0 +1,12 @@
+www.supertexte.com
+mail.supertexte.com
+supertexte.com
+www.supertexte.com
+supertexte.com
+www.supertexte.com
+cpanel.supertexte.com
+mail.supertexte.com
+supertexte.com
+webdisk.supertexte.com
+webmail.supertexte.com
+www.supertexte.com

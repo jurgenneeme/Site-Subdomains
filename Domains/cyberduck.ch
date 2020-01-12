@@ -1,0 +1,9 @@
+www.cyberduck.ch
+blog.cyberduck.ch
+crash.cyberduck.ch
+media.cyberduck.ch
+svn.cyberduck.ch
+test.cyberduck.ch
+trac.cyberduck.ch
+update.cyberduck.ch
+version.cyberduck.ch

@@ -1,0 +1,15 @@
+www.coolest-gadgets.com
+cdn.coolest-gadgets.com
+coolest-gadgets.com
+www.coolest-gadgets.com
+coolest-gadgets.com
+cpanel.coolest-gadgets.com
+mail.coolest-gadgets.com
+webdisk.coolest-gadgets.com
+webmail.coolest-gadgets.com
+www.coolest-gadgets.com
+coolestgadgets.coolest-gadgets.com
+www.coolestgadgets.coolest-gadgets.com
+forums.coolest-gadgets.com
+store.coolest-gadgets.com
+uk.coolest-gadgets.com

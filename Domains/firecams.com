@@ -1,0 +1,17 @@
+www.firecams.com
+be.firecams.com
+blog.firecams.com
+chatroulette.firecams.com
+firecams.com
+www.firecams.com
+cs.firecams.com
+de.firecams.com
+fi.firecams.com
+fr.firecams.com
+hppapi.firecams.com
+it.firecams.com
+m.firecams.com
+pl.firecams.com
+promo.firecams.com
+pt.firecams.com
+se.firecams.com

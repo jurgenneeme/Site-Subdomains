@@ -1,0 +1,10 @@
+www.hitek.fr
+admin.hitek.fr
+api.hitek.fr
+box.hitek.fr
+dev.hitek.fr
+forum.hitek.fr
+geekbox.hitek.fr
+sex.hitek.fr
+static.hitek.fr
+store.hitek.fr

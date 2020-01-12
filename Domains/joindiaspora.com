@@ -1,0 +1,15 @@
+www.joindiaspora.com
+blog.joindiaspora.com
+joindiaspora.com
+www.joindiaspora.com
+alpha.joindiaspora.com
+blog.joindiaspora.com
+joindiaspora.com
+pivots.joindiaspora.com
+tom.joindiaspora.com
+www.joindiaspora.com
+conference.joindiaspora.com
+devblog.joindiaspora.com
+email.joindiaspora.com
+mailservices.joindiaspora.com
+pivots.joindiaspora.com

@@ -1,0 +1,9 @@
+www.jakdojade.pl
+krakow.jakdojade.pl
+lublin.jakdojade.pl
+m.jakdojade.pl
+maps.jakdojade.pl
+poznan.jakdojade.pl
+trojmiasto.jakdojade.pl
+warszawa.jakdojade.pl
+wroclaw.jakdojade.pl

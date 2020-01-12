@@ -1,0 +1,10 @@
+www.eastoregonian.com
+eastoregonian.com
+www.eastoregonian.com
+forum.eastoregonian.com
+local.eastoregonian.com
+m.eastoregonian.com
+print.eastoregonian.com
+subscription.eastoregonian.com
+subscription.eastoregonian.com
+www.subscription.eastoregonian.com

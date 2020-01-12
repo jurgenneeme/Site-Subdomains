@@ -1,0 +1,10 @@
+www.mcescher.com
+mcescher.com
+www.mcescher.com
+ns1.mcescher.com
+ns2.mcescher.com
+server.mcescher.com
+store.mcescher.com
+store.mcescher.com
+www.store.mcescher.com
+webtest.mcescher.com

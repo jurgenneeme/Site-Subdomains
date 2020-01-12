@@ -1,0 +1,10 @@
+www.twice.com
+fans.twice.com
+jobs.twice.com
+jype.twice.com
+live.twice.com
+m.twice.com
+mobile.twice.com
+prod.twice.com
+stg.twice.com
+www.sweet.as.sugar.cold.as.ice.you.hurt.me.once.i.will.break.you.twice.com

@@ -1,0 +1,12 @@
+www.4icu.org
+host.4icu.org
+host.4icu.org
+www.host.4icu.org
+mail.4icu.org
+ns1.4icu.org
+ns2.4icu.org
+4icu.org
+www.4icu.org
+4icu.org
+mail.4icu.org
+www.4icu.org

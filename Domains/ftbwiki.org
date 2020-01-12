@@ -1,0 +1,11 @@
+www.ftbwiki.org
+dev.ftbwiki.org
+forums.ftbwiki.org
+m.ftbwiki.org
+nocache.ftbwiki.org
+dev.ftbwiki.org
+ftbwiki.org
+nocache.ftbwiki.org
+pbc.ftbwiki.org
+pdc.ftbwiki.org
+phc.ftbwiki.org

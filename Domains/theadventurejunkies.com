@@ -1,0 +1,10 @@
+www.theadventurejunkies.com
+theadventurejunkies.com
+www.theadventurejunkies.com
+www.xperience.theadventurejunkies.com
+xperience.theadventurejunkies.com
+community.theadventurejunkies.com
+store.theadventurejunkies.com
+summit.theadventurejunkies.com
+tours.theadventurejunkies.com
+www.tours.theadventurejunkies.com

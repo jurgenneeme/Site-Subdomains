@@ -1,0 +1,14 @@
+www.merrymaids.com
+autodiscover.merrymaids.com
+merrymaids.com
+www.merrymaids.com
+e.merrymaids.com
+f.e.merrymaids.com
+eorder.merrymaids.com
+jobs.merrymaids.com
+join.merrymaids.com
+mobilesales.merrymaids.com
+musthaves.merrymaids.com
+request.merrymaids.com
+rntcalendar.merrymaids.com
+secure.merrymaids.com

@@ -1,0 +1,12 @@
+www.ostraining.com
+ostraining.com
+www.ostraining.com
+deploy.ostraining.com
+deploy.ostraining.com
+www.deploy.ostraining.com
+embedpress.ostraining.com
+gatorforms.ostraining.com
+marketing.ostraining.com
+partners.ostraining.com
+perfect-web.ostraining.com
+publishpress.ostraining.com

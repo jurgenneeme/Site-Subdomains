@@ -1,0 +1,9 @@
+www.promptalert.com
+cvsinbound2018.promptalert.com
+email.promptalert.com
+na4-webservices.promptalert.com
+na5-webservices.promptalert.com
+na6-webservices.promptalert.com
+portal.promptalert.com
+public.promptalert.com
+sms-callback-web-role.promptalert.com

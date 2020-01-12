@@ -1,0 +1,12 @@
+www.crazyforus.com
+admin.crazyforus.com
+apistore.crazyforus.com
+app.crazyforus.com
+crazyforus.com
+www.crazyforus.com
+development.crazyforus.com
+news.crazyforus.com
+pwa.crazyforus.com
+shop.crazyforus.com
+shop.crazyforus.com
+www.shop.crazyforus.com

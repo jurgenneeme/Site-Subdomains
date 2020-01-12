@@ -1,0 +1,10 @@
+www.telemagazyn.pl
+clnbze.telemagazyn.pl
+extra.telemagazyn.pl
+nowy.telemagazyn.pl
+telemagazyn.pl
+www.telemagazyn.pl
+rabaty.telemagazyn.pl
+sr.telemagazyn.pl
+stary.telemagazyn.pl
+status.telemagazyn.pl

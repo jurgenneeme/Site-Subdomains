@@ -1,0 +1,10 @@
+www.whynopadlock.com
+beta.whynopadlock.com
+whynopadlock.com
+www.whynopadlock.com
+dev.whynopadlock.com
+mysql-01.whynopadlock.com
+mysql-02.whynopadlock.com
+scans.whynopadlock.com
+staging.whynopadlock.com
+web-01.whynopadlock.com

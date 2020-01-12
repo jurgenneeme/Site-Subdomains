@@ -1,0 +1,17 @@
+www.theindependent.com
+classifieds.theindependent.com
+checkout.theindependent.com
+myaccount.theindependent.com
+deploy-checkout.theindependent.com
+deploy-myaccount.theindependent.com
+dev-checkout.theindependent.com
+dev-myaccount.theindependent.com
+preprod-checkout.theindependent.com
+preprod-myaccount.theindependent.com
+test-checkout.theindependent.com
+test-myaccount.theindependent.com
+m.theindependent.com
+theindependent.com
+www.theindependent.com
+m.theindependent.com
+salesevents.theindependent.com

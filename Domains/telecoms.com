@@ -1,0 +1,13 @@
+www.telecoms.com
+baskerville.telecoms.com
+blog.telecoms.com
+circulation.telecoms.com
+jobs.telecoms.com
+loadbalancer.telecoms.com
+marketing.telecoms.com
+media.telecoms.com
+media2.telecoms.com
+new.telecoms.com
+news.telecoms.com
+shop.telecoms.com
+webinars.telecoms.com

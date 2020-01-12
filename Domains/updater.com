@@ -1,0 +1,15 @@
+www.updater.com
+changeofaddressform.updater.com
+updater.com
+www.updater.com
+edwin.demo.updater.com
+get.updater.com
+help.updater.com
+helpdesk.updater.com
+homesafe.updater.com
+links.updater.com
+program.updater.com
+reconcierges.updater.com
+api.sandbox.updater.com
+www.api.sandbox.updater.com
+tech.updater.com

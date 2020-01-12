@@ -1,0 +1,11 @@
+test.theshabbycreekcottage.com
+theshabbycreekcottage.com
+www.theshabbycreekcottage.com
+cf.theshabbycreekcottage.com
+cf.theshabbycreekcottage.com
+theshabbycreekcottage.com
+www.theshabbycreekcottage.com
+theshabbycreekcottage.com
+www.theshabbycreekcottage.com
+dev.theshabbycreekcottage.com
+test.theshabbycreekcottage.com

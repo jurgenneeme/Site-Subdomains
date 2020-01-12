@@ -1,0 +1,14 @@
+www.applealmond.com
+app.applealmond.com
+www.app.applealmond.com
+book.applealmond.com
+buy.applealmond.com
+applealmond.com
+www.applealmond.com
+dev.applealmond.com
+fun.applealmond.com
+live.applealmond.com
+previous.applealmond.com
+r.applealmond.com
+share.applealmond.com
+shop.applealmond.com

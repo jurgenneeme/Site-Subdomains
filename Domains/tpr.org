@@ -1,0 +1,13 @@
+www.tpr.org
+directory.tpr.org
+lists.tpr.org
+m.tpr.org
+mail.tpr.org
+newsboss.tpr.org
+opal.tpr.org
+www.mtpr.org
+www.tpr.org
+secure.tpr.org
+secure.tpr.org
+www.secure.tpr.org
+stream1.tpr.org

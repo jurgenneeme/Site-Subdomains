@@ -1,0 +1,14 @@
+www.1tac.com
+blog.1tac.com
+checkout.1tac.com
+www.checkout.1tac.com
+1tac.com
+www.1tac.com
+go.1tac.com
+new.1tac.com
+outlet.1tac.com
+safetysiren.1tac.com
+sale.1tac.com
+www.sale.1tac.com
+staging.1tac.com
+stagingv2.1tac.com

@@ -1,0 +1,11 @@
+www.learcapital.com
+assets.learcapital.com
+blog.learcapital.com
+gold.learcapital.com
+news.learcapital.com
+offer.learcapital.com
+offers.learcapital.com
+pricefeed.learcapital.com
+foxbusiness.pricefeed.learcapital.com
+mobileapp.pricefeed.learcapital.com
+tv.learcapital.com

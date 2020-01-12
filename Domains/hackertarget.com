@@ -1,0 +1,13 @@
+www.hackertarget.com
+api.hackertarget.com
+api.hackertarget.com
+www.api.hackertarget.com
+cdn.hackertarget.com
+hackertarget.com
+www.hackertarget.com
+nettools.hackertarget.com
+scanserver08.hackertarget.com
+scanserver11.hackertarget.com
+scanserver12.hackertarget.com
+static.hackertarget.com
+status.hackertarget.com

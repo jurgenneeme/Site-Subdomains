@@ -1,0 +1,17 @@
+www.starherald.com
+checkout.starherald.com
+myaccount.starherald.com
+deploy-checkout.starherald.com
+deploy-myaccount.starherald.com
+dev-checkout.starherald.com
+dev-myaccount.starherald.com
+preprod-checkout.starherald.com
+preprod-myaccount.starherald.com
+test-checkout.starherald.com
+test-myaccount.starherald.com
+m.starherald.com
+starherald.com
+www.starherald.com
+hiring.starherald.com
+jobs.starherald.com
+m.starherald.com

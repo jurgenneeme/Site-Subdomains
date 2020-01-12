@@ -1,0 +1,11 @@
+www.trendir.com
+cdn.trendir.com
+cdn.dev.trendir.com
+dev.trendir.com
+cdn.trendir.com
+trendir.com
+www.trendir.com
+dev.trendir.com
+cdn.dev.trendir.com
+server1.trendir.com
+www.server1.trendir.com

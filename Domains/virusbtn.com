@@ -1,0 +1,10 @@
+www.virusbtn.com
+calgary.virusbtn.com
+virusbtn.com
+www.virusbtn.com
+list.virusbtn.com
+lists.virusbtn.com
+old.virusbtn.com
+spamtrial.virusbtn.com
+vancouver.virusbtn.com
+www2.virusbtn.com

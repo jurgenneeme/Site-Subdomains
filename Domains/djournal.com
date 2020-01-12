@@ -1,0 +1,9 @@
+www.djournal.com
+ads.djournal.com
+bizbuzz.djournal.com
+churches.djournal.com
+doublecoverage.djournal.com
+m.djournal.com
+memo.djournal.com
+photos.djournal.com
+preprally.djournal.com

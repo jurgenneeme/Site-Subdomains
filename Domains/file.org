@@ -1,0 +1,17 @@
+www.file.org
+assets.file.org
+assets.file.org
+www.assets.file.org
+cdn1.file.org
+cdn3.file.org
+dl01eu.file.org
+dl01us.file.org
+kcdn.file.org
+file.org
+www.file.org
+file.org
+File.org
+www.file.org
+test.file.org
+test.file.org
+www.test.file.org

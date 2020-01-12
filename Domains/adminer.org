@@ -1,0 +1,4 @@
+www.adminer.org
+demo.adminer.org
+adminer.org
+www.adminer.org

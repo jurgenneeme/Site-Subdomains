@@ -1,0 +1,10 @@
+www.trekmovie.com
+autodiscover.trekmovie.com
+autodiscover.trekmovie.com
+cpanel.trekmovie.com
+mail.trekmovie.com
+webdisk.trekmovie.com
+webmail.trekmovie.com
+img.trekmovie.com
+mail.trekmovie.com
+webdisk.trekmovie.com

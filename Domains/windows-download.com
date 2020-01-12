@@ -1,0 +1,14 @@
+www.windows-download.com
+cpanel.windows-download.com
+mail.windows-download.com
+webdisk.windows-download.com
+webmail.windows-download.com
+windows-download.com
+www.windows-download.com
+cpanel.windows-download.com
+mada-informatique.windows-download.com
+www.mada-informatique.windows-download.com
+ns1.windows-download.com
+ns2.windows-download.com
+webdisk.windows-download.com
+webmail.windows-download.com

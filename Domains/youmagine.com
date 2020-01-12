@@ -1,0 +1,9 @@
+www.youmagine.com
+api.youmagine.com
+assets.youmagine.com
+blog.youmagine.com
+cloudslicer-status.youmagine.com
+api.youmagine.com
+www.youmagine.com
+jam.youmagine.com
+stats.youmagine.com

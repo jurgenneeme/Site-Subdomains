@@ -1,0 +1,13 @@
+www.webfoundation.org
+data.webfoundation.org
+donations.webfoundation.org
+fortheweb.webfoundation.org
+intertip.webfoundation.org
+iodc-standards.webfoundation.org
+labs.webfoundation.org
+www.labs.webfoundation.org
+mail.webfoundation.org
+ns2.webfoundation.org
+webfoundation.org
+www.webfoundation.org
+public.webfoundation.org

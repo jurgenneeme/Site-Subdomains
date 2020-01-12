@@ -1,0 +1,8 @@
+www.android-x86.org
+blog.android-x86.org
+calendar.android-x86.org
+docs.android-x86.org
+git.android-x86.org
+mail.android-x86.org
+sites.android-x86.org
+www2.android-x86.org

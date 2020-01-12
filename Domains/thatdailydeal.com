@@ -1,0 +1,9 @@
+www.thatdailydeal.com
+meatball.thatdailydeal.com
+thatdailydeal.com
+www.thatdailydeal.com
+images.thatdailydeal.com
+meatball.thatdailydeal.com
+subs.thatdailydeal.com
+api.textdeals.thatdailydeal.com
+txtdeals.thatdailydeal.com

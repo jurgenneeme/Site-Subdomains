@@ -1,0 +1,9 @@
+www.lostateminor.com
+assets.lostateminor.com
+assets-origin.lostateminor.com
+cdn0.lostateminor.com
+cdn4.lostateminor.com
+lostateminor.com
+www.lostateminor.com
+shop.lostateminor.com
+staging.lostateminor.com

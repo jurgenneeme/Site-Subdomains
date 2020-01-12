@@ -1,0 +1,13 @@
+www.queenmary.com
+queenmary.com
+www.queenmary.com
+dev.queenmary.com
+www.dev.queenmary.com
+dev.queenmary.com
+www.dev.queenmary.com
+mail.queenmary.com
+www.mail.queenmary.com
+shop.queenmary.com
+synxis.queenmary.com
+tickets.queenmary.com
+travelclick.queenmary.com

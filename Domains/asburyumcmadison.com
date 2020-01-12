@@ -1,0 +1,11 @@
+www.asburyumcmadison.com
+305.asburyumcmadison.com
+advent.asburyumcmadison.com
+www.advent.asburyumcmadison.com
+autodiscover.asburyumcmadison.com
+fathom.asburyumcmadison.com
+ftp.asburyumcmadison.com
+mail.asburyumcmadison.com
+prayercare.asburyumcmadison.com
+reignforest.asburyumcmadison.com
+women.asburyumcmadison.com

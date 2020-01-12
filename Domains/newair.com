@@ -1,0 +1,9 @@
+www.newair.com
+cdn.newair.com
+newair.com
+www.newair.com
+login.newair.com
+www.login.newair.com
+register.newair.com
+register.newair.com
+www.register.newair.com

@@ -1,0 +1,12 @@
+blog.tucsonweekly.com
+admin.tucsonweekly.com
+a.tucsonweekly.com
+m.tucsonweekly.com
+posting.tucsonweekly.com
+p.tucsonweekly.com
+tucsonweekly.com
+www.tucsonweekly.com
+dating.tucsonweekly.com
+www.dating.tucsonweekly.com
+m.tucsonweekly.com
+posting.tucsonweekly.com

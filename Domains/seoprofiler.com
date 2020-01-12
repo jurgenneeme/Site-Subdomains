@@ -1,0 +1,14 @@
+www.seoprofiler.com
+blog.seoprofiler.com
+blog.seoprofiler.com
+www.blog.seoprofiler.com
+seoprofiler.com
+www.seoprofiler.com
+staging.seoprofiler.com
+www.seoprofiler.com
+staging20.seoprofiler.com
+www.seoprofiler.com
+newsletter.seoprofiler.com
+newsletter.seoprofiler.com
+www.newsletter.seoprofiler.com
+staging.seoprofiler.com

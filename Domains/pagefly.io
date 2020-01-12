@@ -1,0 +1,14 @@
+www.pagefly.io
+apps.pagefly.io
+cdn.pagefly.io
+demo.pagefly.io
+dev.pagefly.io
+developer.pagefly.io
+developers.pagefly.io
+dict.pagefly.io
+links.email.pagefly.io
+media.pagefly.io
+shopify.pagefly.io
+www.shopify.pagefly.io
+storefly.pagefly.io
+test.pagefly.io

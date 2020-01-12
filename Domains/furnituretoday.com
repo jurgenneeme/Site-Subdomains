@@ -1,0 +1,9 @@
+www.furnituretoday.com
+autodiscover.furnituretoday.com
+dev.furnituretoday.com
+digipub.furnituretoday.com
+email.furnituretoday.com
+info.furnituretoday.com
+qa.furnituretoday.com
+stage.furnituretoday.com
+www3.furnituretoday.com

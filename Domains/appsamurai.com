@@ -1,0 +1,14 @@
+www.appsamurai.com
+api.appsamurai.com
+beta.appsamurai.com
+campaign.appsamurai.com
+click.appsamurai.com
+appsamurai.com
+www.appsamurai.com
+dashboard.appsamurai.com
+dev.appsamurai.com
+help.appsamurai.com
+monetization.appsamurai.com
+postback.appsamurai.com
+ui.qa.appsamurai.com
+theme.appsamurai.com

@@ -1,0 +1,15 @@
+cdn.healevate.com
+healevate.com
+cdn.dev.healevate.com
+dev.healevate.com
+cdn.dev2.healevate.com
+dev2.healevate.com
+cdn.healevate.com
+healevate.com
+www.healevate.com
+dev2.healevate.com
+healevate.com
+www.healevate.com
+healevate.com
+www.healevate.com
+dev2.healevate.com

@@ -1,0 +1,10 @@
+www.thefabricator.com
+ads.thefabricator.com
+cdn.thefabricator.com
+thefabricator.com
+www.thefabricator.com
+directory.thefabricator.com
+image.thefabricator.com
+static.thefabricator.com
+videos.thefabricator.com
+wss.thefabricator.com

@@ -1,0 +1,16 @@
+www.hoteldel.com
+autodiscover.hoteldel.com
+hoteldel.com
+www.hoteldel.com
+discover.hoteldel.com
+masterplan2022.hoteldel.com
+opera.hoteldel.com
+autodiscover.hoteldel.com
+hdc43.ds.hoteldel.com
+outlook.hoteldel.com
+www.outlook.hoteldel.com
+store.hoteldel.com
+vpn.hoteldel.com
+www.vpn.hoteldel.com
+webmail.hoteldel.com
+www.webmail.hoteldel.com

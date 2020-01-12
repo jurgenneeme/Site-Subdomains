@@ -1,0 +1,17 @@
+www.takecareof.com
+cdn.takecareof.com
+jingtest.takecareof.com
+origin.takecareof.com
+takecareof.com
+www.takecareof.com
+origin.takecareof.com
+takecareof.com
+www.takecareof.com
+takecareof.com
+www.takecareof.com
+get.takecareof.com
+links.takecareof.com
+origin.takecareof.com
+try.takecareof.com
+try.takecareof.com
+www.try.takecareof.com

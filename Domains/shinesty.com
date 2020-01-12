@@ -1,0 +1,12 @@
+www.shinesty.com
+blog.shinesty.com
+blog2.shinesty.com
+blogs.shinesty.com
+checkout.shinesty.com
+checkout.shinesty.com
+www.checkout.shinesty.com
+shinesty.com
+www.shinesty.com
+help.shinesty.com
+madlabs.shinesty.com
+trk.shinesty.com

@@ -1,0 +1,10 @@
+www.howdesign.com
+blog.howdesign.com
+howdesign.com
+www.howdesign.com
+forum.howdesign.com
+inhowse.howdesign.com
+parse.howdesign.com
+subscriptions.howdesign.com
+tv.howdesign.com
+wwwcdn.howdesign.com

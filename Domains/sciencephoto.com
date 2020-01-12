@@ -1,0 +1,17 @@
+www.sciencephoto.com
+catalogue.sciencephoto.com
+download.sciencephoto.com
+downloads.sciencephoto.com
+sciencephoto.com
+www.sciencephoto.com
+sciencephoto.com
+spl-live-06.sciencephoto.com
+www.sciencephoto.com
+email.sciencephoto.com
+lcs.sciencephoto.com
+lcs.sciencephoto.com
+www.lcs.sciencephoto.com
+mailer.sciencephoto.com
+media.sciencephoto.com
+spl-live-06.sciencephoto.com
+stories.sciencephoto.com

@@ -1,0 +1,11 @@
+www.emojicopy.com
+emojicopy.com
+www.emojicopy.com
+emojicopy.com
+prod.emojicopy.com
+www.emojicopy.com
+prod.emojicopy.com
+wwww.emojicopy.com
+dev.emojicopy.com
+prod.emojicopy.com
+wwww.emojicopy.com

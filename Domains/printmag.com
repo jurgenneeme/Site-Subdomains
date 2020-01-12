@@ -1,0 +1,9 @@
+www.printmag.com
+blog.printmag.com
+dev.printmag.com
+imprint.printmag.com
+regionaldesignannual.printmag.com
+renew.printmag.com
+subscriptions.printmag.com
+uat.printmag.com
+wwwcdn.printmag.com

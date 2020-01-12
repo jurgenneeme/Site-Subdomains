@@ -1,0 +1,6 @@
+www.laphamsquarterly.org
+annotated.laphamsquarterly.org
+dev.laphamsquarterly.org
+legacy.laphamsquarterly.org
+laphamsquarterly.org
+www.laphamsquarterly.org

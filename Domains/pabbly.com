@@ -1,0 +1,17 @@
+www.pabbly.com
+accounts.pabbly.com
+apidocs.pabbly.com
+assets.pabbly.com
+custom.pabbly.com
+payments.pabbly.com
+pabbly.com
+www.pabbly.com
+emails.pabbly.com
+forms.pabbly.com
+onboarding.pabbly.com
+payments.pabbly.com
+psadmin.pabbly.com
+test.pabbly.com
+testpayments.pabbly.com
+testusers.pabbly.com
+verify.pabbly.com

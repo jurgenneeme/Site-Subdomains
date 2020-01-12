@@ -1,0 +1,12 @@
+www.azgfd.com
+accounts.azgfd.com
+azgfd.com
+www.azgfd.com
+draw.azgfd.com
+fishandboataz.azgfd.com
+fishaz.azgfd.com
+internal-draw-beta-bd38a1.azgfd.com
+license.azgfd.com
+raa.azgfd.com
+store.azgfd.com
+usedwc.azgfd.com

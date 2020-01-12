@@ -1,0 +1,11 @@
+www.tvseriesfinale.com
+cdn.tvseriesfinale.com
+tvseriesfinale.com
+www.tvseriesfinale.com
+ns1.tvseriesfinale.com
+ns2.tvseriesfinale.com
+ns3.tvseriesfinale.com
+ns4.tvseriesfinale.com
+ns5.tvseriesfinale.com
+ns6.tvseriesfinale.com
+staging.tvseriesfinale.com

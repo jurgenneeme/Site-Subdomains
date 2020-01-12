@@ -1,0 +1,16 @@
+www.moovly.com
+api.moovly.com
+assets.moovly.com
+cms.moovly.com
+dashboard.moovly.com
+developer.moovly.com
+editor.moovly.com
+gallery.moovly.com
+cdenv.generator.moovly.com
+generators.moovly.com
+help.moovly.com
+o1.mailings.moovly.com
+renders.moovly.com
+oauth.services.moovly.com
+user.services.moovly.com
+www-new.moovly.com

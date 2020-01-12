@@ -1,0 +1,9 @@
+www.decaturdaily.com
+adserver.decaturdaily.com
+archive.decaturdaily.com
+decaturdaily.com
+m.decaturdaily.com
+www.decaturdaily.com
+legacy.decaturdaily.com
+m.decaturdaily.com
+smtp.decaturdaily.com

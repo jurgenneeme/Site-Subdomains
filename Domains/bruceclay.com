@@ -1,0 +1,13 @@
+www.bruceclay.com
+blog.bruceclay.com
+cgi.bruceclay.com
+bruceclay.com
+www.bruceclay.com
+email.bruceclay.com
+eu-en.bruceclay.com
+images.bruceclay.com
+in-en.bruceclay.com
+jp-en.bruceclay.com
+me-en.bruceclay.com
+resources.bruceclay.com
+secure.bruceclay.com

@@ -1,0 +1,7 @@
+www.deluge-torrent.org
+dev.deluge-torrent.org
+download.deluge-torrent.org
+forum.deluge-torrent.org
+git.deluge-torrent.org
+deluge-torrent.org
+www.deluge-torrent.org

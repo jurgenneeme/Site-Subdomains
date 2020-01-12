@@ -1,0 +1,15 @@
+www.whatech.com
+ascend.whatech.com
+cpanel.ascend.whatech.com
+mail.ascend.whatech.com
+webdisk.ascend.whatech.com
+webmail.ascend.whatech.com
+www.ascend.whatech.com
+cdn.whatech.com
+cdn.whatech.com
+www.cdn.whatech.com
+clk.whatech.com
+whatech.com
+www.whatech.com
+vls1.whatech.com
+www.vls1.whatech.com

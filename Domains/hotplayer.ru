@@ -1,0 +1,12 @@
+www.hotplayer.ru
+d2.hotplayer.ru
+www.d2.hotplayer.ru
+d3.hotplayer.ru
+www.d3.hotplayer.ru
+d4.hotplayer.ru
+www.d4.hotplayer.ru
+d5.hotplayer.ru
+d5.hotplayer.ru
+www.d5.hotplayer.ru
+hotplayer.ru
+www.hotplayer.ru

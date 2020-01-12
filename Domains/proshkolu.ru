@@ -1,0 +1,15 @@
+www.proshkolu.ru
+data12.proshkolu.ru
+data4.proshkolu.ru
+data5.proshkolu.ru
+data7.proshkolu.ru
+donate.proshkolu.ru
+download12.proshkolu.ru
+download3.proshkolu.ru
+download4.proshkolu.ru
+img10.proshkolu.ru
+img11.proshkolu.ru
+img12.proshkolu.ru
+img2.proshkolu.ru
+img3.proshkolu.ru
+img7.proshkolu.ru

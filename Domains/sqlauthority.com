@@ -1,0 +1,11 @@
+www.sqlauthority.com
+blog.sqlauthority.com
+www.blog.sqlauthority.com
+blog.sqlauthority.com
+www.blog.sqlauthority.com
+sqlauthority.com
+www.sqlauthority.com
+go.sqlauthority.com
+www.go.sqlauthority.com
+search.sqlauthority.com
+www.search.sqlauthority.com

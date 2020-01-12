@@ -1,0 +1,9 @@
+www.crf-usa.org
+crfmail.crf-usa.org
+crfntserver.crf-usa.org
+crfntserver1.crf-usa.org
+crfntserver1.crf-usa.org
+www.crfntserver1.crf-usa.org
+crfntservermail.crf-usa.org
+historyday.crf-usa.org
+test.crf-usa.org

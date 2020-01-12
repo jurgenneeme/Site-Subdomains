@@ -1,0 +1,15 @@
+www.alesis.com
+autodiscover.alesis.com
+www.com.alesis.com
+alesis.com
+www.alesis.com
+community.alesis.com
+dev.alesis.com
+downloads.alesis.com
+en.alesis.com
+www.en.alesis.com
+gtelectronics.alesis.com
+iwww.alesis.com
+community.m.alesis.com
+t.alesis.com
+w.alesis.com

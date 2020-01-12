@@ -1,0 +1,9 @@
+www.jsdelivr.com
+api.jsdelivr.com
+api.jsdelivr.com
+www.api.jsdelivr.com
+blog.jsdelivr.com
+jsdelivr.com
+www.jsdelivr.com
+data.jsdelivr.com
+mail.jsdelivr.com

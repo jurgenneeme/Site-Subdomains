@@ -1,0 +1,12 @@
+www.cyrillitsa.ru
+fund.cyrillitsa.ru
+mt.cyrillitsa.ru
+news.cyrillitsa.ru
+www.news.cyrillitsa.ru
+cyrillitsa.ru
+www.cyrillitsa.ru
+cyrillitsa.ru
+mail.cyrillitsa.ru
+pop.cyrillitsa.ru
+smtp.cyrillitsa.ru
+www.cyrillitsa.ru

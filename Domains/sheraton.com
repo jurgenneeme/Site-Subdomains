@@ -1,0 +1,11 @@
+www.sheraton.com
+autodiscover.sheraton.com
+brasil.sheraton.com
+www.brasil.sheraton.com
+autodiscover.arabellasheraton.com
+autodiscover.sheraton.com
+deal.sheraton.com
+deals.sheraton.com
+internet.sheraton.com
+transformation.sheraton.com
+travel.sheraton.com

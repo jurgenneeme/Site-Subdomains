@@ -1,0 +1,9 @@
+www.newschannel10.com
+newschannel10.com
+www.newschannel10.com
+m.newschannel10.com
+www.newschannel10.com
+link.newschannel10.com
+local.newschannel10.com
+m.newschannel10.com
+seeiton10.newschannel10.com

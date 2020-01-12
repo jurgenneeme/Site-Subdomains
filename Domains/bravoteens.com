@@ -1,0 +1,12 @@
+www.bravoteens.com
+bravoteenswww.bravoteens.com
+cdn.bravoteens.com
+bravoteens.com
+www.bravoteens.com
+htmlbravoteenswww.bravoteens.com
+img.bravoteens.com
+m.bravoteens.com
+oops.bravoteens.com
+screenshots.bravoteens.com
+static.bravoteens.com
+vids.bravoteens.com

@@ -1,0 +1,6 @@
+www.waterfootprint.org
+staging.waterfootprint.org
+waterfootprint.org
+www.waterfootprint.org
+staging.waterfootprint.org
+temp.waterfootprint.org

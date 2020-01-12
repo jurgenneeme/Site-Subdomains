@@ -1,0 +1,11 @@
+www.telegraphherald.com
+telegraphherald.com
+www.telegraphherald.com
+subscribe.dev.telegraphherald.com
+www.subscribe.dev.telegraphherald.com
+gameday.telegraphherald.com
+store.telegraphherald.com
+subscribe.telegraphherald.com
+subscribe.telegraphherald.com
+www.subscribe.telegraphherald.com
+tweet.telegraphherald.com

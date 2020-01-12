@@ -1,0 +1,10 @@
+www.podiatrytoday.com
+podiatrytoday.com
+www.podiatrytoday.com
+podiatrytoday.com
+staging.podiatrytoday.com
+www.podiatrytoday.com
+dev.podiatrytoday.com
+kim.podiatrytoday.com
+mail.podiatrytoday.com
+staging.podiatrytoday.com

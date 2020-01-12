@@ -1,0 +1,13 @@
+www.chaptercheats.com
+chaptercheats.com
+www.chaptercheats.com
+chaptercheats.com
+img.chaptercheats.com
+www.chaptercheats.com
+db.chaptercheats.com
+www.db.chaptercheats.com
+img.chaptercheats.com
+test.chaptercheats.com
+web.chaptercheats.com
+www.web.chaptercheats.com
+ww2.chaptercheats.com

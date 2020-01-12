@@ -1,0 +1,12 @@
+www.dogecoin.com
+blog.dogecoin.com
+discuss.dogecoin.com
+doger.dogecoin.com
+seed.doger.dogecoin.com
+forum.dogecoin.com
+foundation.dogecoin.com
+mail.dogecoin.com
+mail.dogecoin.com
+www.mail.dogecoin.com
+ns1.dogecoin.com
+seed.dogecoin.com

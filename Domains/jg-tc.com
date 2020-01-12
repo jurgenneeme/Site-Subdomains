@@ -1,0 +1,13 @@
+www.jg-tc.com
+advault.jg-tc.com
+autodiscover.jg-tc.com
+autos.jg-tc.com
+circulars.jg-tc.com
+jg-tc.com
+m.jg-tc.com
+www.jg-tc.com
+contest.jg-tc.com
+li.jg-tc.com
+local.jg-tc.com
+m.jg-tc.com
+portal.jg-tc.com

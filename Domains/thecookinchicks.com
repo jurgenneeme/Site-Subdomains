@@ -1,0 +1,12 @@
+www.thecookinchicks.com
+coffeeandkiddos.thecookinchicks.com
+www.coffeeandkiddos.thecookinchicks.com
+autodiscover.thecookinchicks.com
+cpanel.thecookinchicks.com
+mail.thecookinchicks.com
+webmail.thecookinchicks.com
+thecookinchicks.com
+www.thecookinchicks.com
+mail.thecookinchicks.com
+smokinguy.thecookinchicks.com
+www.smokinguy.thecookinchicks.com

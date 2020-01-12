@@ -1,0 +1,14 @@
+www.imangelapowers.com
+autodiscover.imangelapowers.com
+imangelapowers.com
+mail.imangelapowers.com
+www.imangelapowers.com
+autodiscover.imangelapowers.com
+cpanel.imangelapowers.com
+imangelapowers.com
+mail.imangelapowers.com
+webdisk.imangelapowers.com
+webmail.imangelapowers.com
+www.imangelapowers.com
+mail.imangelapowers.com
+webdisk.imangelapowers.com

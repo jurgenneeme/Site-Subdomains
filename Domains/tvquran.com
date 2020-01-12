@@ -1,0 +1,11 @@
+www.tvquran.com
+download.tvquran.com
+tvquran.com
+www.tvquran.com
+tvquran.com
+www.tvquran.com
+download.tvquran.com
+forum.tvquran.com
+serv1.tvquran.com
+serv2.tvquran.com
+web.tvquran.com

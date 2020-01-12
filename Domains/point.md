@@ -1,0 +1,16 @@
+www.point.md
+i.point.md
+informer.point.md
+leaflet.point.md
+m.point.md
+map.point.md
+m.point.md
+point.md
+www.point.md
+point.md
+www.point.md
+money.point.md
+news.point.md
+old.point.md
+opelrent.point.md
+tv.point.md

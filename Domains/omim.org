@@ -1,0 +1,15 @@
+www.omim.org
+api.omim.org
+beta.omim.org
+data.omim.org
+litrack.omim.org
+mirror.omim.org
+api.omim.org
+mirror.omim.org
+api2.omim.org
+mirror2.omim.org
+data.omim.org
+omim.org
+www.omim.org
+staging.omim.org
+www2.omim.org

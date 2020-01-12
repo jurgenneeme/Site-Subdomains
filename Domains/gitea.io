@@ -1,0 +1,17 @@
+www.gitea.io
+blog.gitea.io
+code.gitea.io
+coverage.gitea.io
+discourse.gitea.io
+dl.gitea.io
+docs.gitea.io
+drone.gitea.io
+forum.gitea.io
+gitea.io
+www.gitea.io
+lgtm.gitea.io
+pangu.gitea.io
+status.gitea.io
+storage.gitea.io
+try.gitea.io
+drone.try.gitea.io

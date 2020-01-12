@@ -1,0 +1,9 @@
+www.jwz.org
+grendel.jwz.org
+mail.jwz.org
+mail.jwz.org
+mta-sts.jwz.org
+staging.jwz.org
+traitor.jwz.org
+jwz.org
+www.jwz.org

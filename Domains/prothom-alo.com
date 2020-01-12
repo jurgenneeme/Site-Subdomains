@@ -1,0 +1,15 @@
+www.prothom-alo.com
+archive.prothom-alo.com
+bd.prothom-alo.com
+paimages.prothom-alo.com
+paloimages.prothom-alo.com
+profiles.prothom-alo.com
+paloimages.prothom-alo.com
+prothom-alo.com
+testpaloimages.prothom-alo.com
+www.prothom-alo.com
+en.prothom-alo.com
+epaper.prothom-alo.com
+m.prothom-alo.com
+paloimages.prothom-alo.com
+testpaloimages.prothom-alo.com

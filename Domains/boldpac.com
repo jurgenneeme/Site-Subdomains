@@ -1,0 +1,12 @@
+www.boldpac.com
+act.boldpac.com
+go.boldpac.com
+boldpac.com
+staging.boldpac.com
+boldpac.com
+www.boldpac.com
+boldpac.com
+staging.boldpac.com
+www.boldpac.com
+go.boldpac.com
+staging.boldpac.com

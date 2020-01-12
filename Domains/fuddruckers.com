@@ -1,0 +1,13 @@
+www.fuddruckers.com
+autodiscover.fuddruckers.com
+blog.fuddruckers.com
+fuddruckers.com
+www.fuddruckers.com
+giftcards.fuddruckers.com
+giftcardsupplies.fuddruckers.com
+order.fuddruckers.com
+order.fuddruckers.com
+www.order.fuddruckers.com
+orders.fuddruckers.com
+www.orders.fuddruckers.com
+pciportal.fuddruckers.com

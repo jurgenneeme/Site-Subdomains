@@ -1,0 +1,9 @@
+www.avsim.com
+advertising.avsim.com
+advertising.avsim.com
+avsim.com
+www.avsim.com
+forums.avsim.com
+ftp.avsim.com
+lb.avsim.com
+library.avsim.com

@@ -1,0 +1,12 @@
+ads.universityworldnews.com
+api.universityworldnews.com
+universityworldnews.com
+www.universityworldnews.com
+universityworldnews.com
+webmail.universityworldnews.com
+www.universityworldnews.com
+mail.universityworldnews.com
+news.universityworldnews.com
+news2.universityworldnews.com
+status.universityworldnews.com
+track.universityworldnews.com

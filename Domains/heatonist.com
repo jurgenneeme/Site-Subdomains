@@ -1,0 +1,10 @@
+www.heatonist.com
+admin.heatonist.com
+labs.heatonist.com
+admin-stage.heatonist.com
+labs-stage.heatonist.com
+heatonist.com
+www.heatonist.com
+subscription.heatonist.com
+subscription.heatonist.com
+www.subscription.heatonist.com

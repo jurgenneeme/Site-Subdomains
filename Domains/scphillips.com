@@ -1,0 +1,13 @@
+www.scphillips.com
+blog.scphillips.com
+test.blog.scphillips.com
+scphillips.com
+www.scphillips.com
+gareth.scphillips.com
+gareth2.scphillips.com
+morsecode.scphillips.com
+test.morsecode.scphillips.com
+test.scphillips.com
+tlctest.scphillips.com
+tlcweb3.scphillips.com
+woodcraft.scphillips.com

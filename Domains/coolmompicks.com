@@ -1,0 +1,10 @@
+www.coolmompicks.com
+cdn.coolmompicks.com
+coolmompicks.com
+www.coolmompicks.com
+eats.coolmompicks.com
+m.coolmompicks.com
+web01.coolmompicks.com
+www.web01.coolmompicks.com
+web02.coolmompicks.com
+www.web02.coolmompicks.com

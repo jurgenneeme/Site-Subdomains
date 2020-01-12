@@ -1,0 +1,13 @@
+www.beardbrand.com
+alliance.beardbrand.com
+blog.beardbrand.com
+careers.beardbrand.com
+club.beardbrand.com
+beardbrand.com
+www.beardbrand.com
+go.beardbrand.com
+shop.beardbrand.com
+www.shop.beardbrand.com
+support.beardbrand.com
+team.beardbrand.com
+tumblr.beardbrand.com

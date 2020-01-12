@@ -1,0 +1,14 @@
+www.betakit.com
+cdn.betakit.com
+cdn4.betakit.com
+betakit.com
+www.betakit.com
+betakit.com
+cdn.betakit.com
+www.betakit.com
+betakit.com
+cdn.betakit.com
+jobs.betakit.com
+www.betakit.com
+jobs.betakit.com
+sub.betakit.com

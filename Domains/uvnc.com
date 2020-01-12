@@ -1,0 +1,9 @@
+www.uvnc.com
+forum.uvnc.com
+forum2.uvnc.com
+httpssupport1.uvnc.com
+sc.uvnc.com
+sponsor2.uvnc.com
+sponsor4.uvnc.com
+support1.uvnc.com
+webmail.uvnc.com

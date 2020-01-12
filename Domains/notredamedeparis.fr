@@ -1,0 +1,4 @@
+www.notredamedeparis.fr
+mx1.notredamedeparis.fr
+mx2.notredamedeparis.fr
+webmail.notredamedeparis.fr

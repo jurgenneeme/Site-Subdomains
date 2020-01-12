@@ -1,0 +1,9 @@
+www.clickindia.com
+ahmedabad.clickindia.com
+ernakulam.clickindia.com
+fapp1.clickindia.com
+gurgaon.clickindia.com
+hyderabad.clickindia.com
+kolkata.clickindia.com
+patna.clickindia.com
+wap.clickindia.com

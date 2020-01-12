@@ -1,0 +1,11 @@
+www.greenday.com
+m.greenday.com
+mx.greenday.com
+preorder.greenday.com
+preorder.greenday.com
+www.preorder.greenday.com
+secure.greenday.com
+splash.greenday.com
+store.greenday.com
+store.greenday.com
+www.store.greenday.com

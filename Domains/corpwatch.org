@@ -1,0 +1,7 @@
+www.corpwatch.org
+api.corpwatch.org
+community.corpwatch.org
+croctail.corpwatch.org
+lists.corpwatch.org
+corpwatch.org
+www.corpwatch.org

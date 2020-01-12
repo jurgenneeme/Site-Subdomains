@@ -1,0 +1,12 @@
+www.knewz.com
+dr.knewz.com
+knewz.com
+www.knewz.com
+knewz.com
+www.knewz.com
+knewz.com
+searchapi.knewz.com
+www.knewz.com
+dr.knewz.com
+searchapi.knewz.com
+tags.knewz.com

@@ -1,0 +1,9 @@
+www.visitsanantonio.com
+hotels.visitsanantonio.com
+hotels.visitsanantonio.com
+www.hotels.visitsanantonio.com
+login.visitsanantonio.com
+www.login.visitsanantonio.com
+media.visitsanantonio.com
+partners.visitsanantonio.com
+save.visitsanantonio.com

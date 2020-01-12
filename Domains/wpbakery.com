@@ -1,0 +1,16 @@
+www.wpbakery.com
+wpbakery.com
+www.wpbakery.com
+demo.wpbakery.com
+go.wpbakery.com
+ipv6.wpbakery.com
+kb.wpbakery.com
+support.wpbakery.com
+test.support.wpbakery.com
+updates.wpbakery.com
+vc.wpbakery.com
+www.vc.wpbakery.com
+vc.wpbakery.com
+www.vc.wpbakery.com
+vc-cc-templates.wpbakery.com
+version.wpbakery.com

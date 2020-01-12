@@ -1,0 +1,17 @@
+www.gemplers.com
+autodiscover.gemplers.com
+gemplers.com
+sip.gemplers.com
+gemplers.com
+www.gemplers.com
+m.gemplers.com
+prod.gemplers.com
+www.gemplers.com
+prod.gemplers.com
+www.gemplers.com
+info.gemplers.com
+link.gemplers.com
+m.gemplers.com
+shop.gemplers.com
+smetrics.gemplers.com
+static.gemplers.com

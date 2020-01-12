@@ -1,0 +1,5 @@
+www.vpr.org
+app.vpr.org
+archive.vpr.org
+donate.vpr.org
+projects.vpr.org

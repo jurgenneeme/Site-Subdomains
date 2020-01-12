@@ -1,0 +1,15 @@
+www.sezane.com
+api.sezane.com
+api-v2.sezane.com
+auth.sezane.com
+blog.sezane.com
+m.caisse.sezane.com
+sezane.com
+www.sezane.com
+img.sezane.com
+jobs.sezane.com
+www.jobs.sezane.com
+journal.sezane.com
+m.sezane.com
+media.sezane.com
+static.sezane.com

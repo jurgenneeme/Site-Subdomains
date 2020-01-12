@@ -1,0 +1,10 @@
+www.newtimes.ru
+box1.newtimes.ru
+box2.newtimes.ru
+dev.newtimes.ru
+donate.newtimes.ru
+mail.newtimes.ru
+old.newtimes.ru
+podpiska.newtimes.ru
+newtimes.ru
+www.newtimes.ru

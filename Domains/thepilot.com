@@ -1,0 +1,11 @@
+www.thepilot.com
+archives.thepilot.com
+m.thepilot.com
+thepilot.com
+www.thepilot.com
+thepilot.com
+www.thepilot.com
+m.thepilot.com
+www.thepilot.com
+jobs.thepilot.com
+services.thepilot.com

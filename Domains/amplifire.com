@@ -1,0 +1,11 @@
+www.amplifire.com
+api.amplifire.com
+amplifire.com
+www.amplifire.com
+info.amplifire.com
+kf1.amplifire.com
+pearson.amplifire.com
+pearson-xl.amplifire.com
+service.amplifire.com
+synaptivlearning-dev.amplifire.com
+synaptivlearning-qa.amplifire.com

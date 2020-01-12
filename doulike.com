@@ -1,0 +1,12 @@
+www.doulike.com
+cms.doulike.com
+mail2.doulike.com<BR>mail.doulike.com
+mail3.doulike.com<BR>mail.doulike.com
+doulike.com<BR>www.doulike.com
+fr.doulike.com
+mail.doulike.com
+mail2.doulike.com
+photo.doulike.com
+s.doulike.com
+static.doulike.com
+support.doulike.com

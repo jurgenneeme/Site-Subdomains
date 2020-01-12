@@ -1,0 +1,12 @@
+www.dkny.com
+dkny.com
+www.dkny.com
+e.dkny.com
+p1-063159.e.dkny.com
+p1-108159.e.dkny.com
+t.e.dkny.com
+p1-063157.t.e.dkny.com
+p1-108032.t.e.dkny.com
+myny.dkny.com
+promo.myny.dkny.com
+stores.dkny.com

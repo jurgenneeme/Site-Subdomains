@@ -1,0 +1,8 @@
+www.scintilla.org
+autodiscover.scintilla.org
+cpanel.scintilla.org
+mail.scintilla.org
+scintilla.org
+webdisk.scintilla.org
+webmail.scintilla.org
+www.scintilla.org

@@ -1,0 +1,12 @@
+www.hsi.org
+action.hsi.org
+autodiscover.hsi.org
+donate.hsi.org
+legacy.hsi.org
+meet.hsi.org
+nameadog.hsi.org
+lyncdiscover.hsi.org
+meet.hsi.org
+hsi.org
+www.hsi.org
+sip.hsi.org

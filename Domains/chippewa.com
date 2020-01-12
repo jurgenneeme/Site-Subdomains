@@ -1,0 +1,17 @@
+www.chippewa.com
+addrop.chippewa.com
+advault.chippewa.com
+circulars.chippewa.com
+chippewa.com
+m.chippewa.com
+www.chippewa.com
+contest.chippewa.com
+ee.chippewa.com
+click1.email.chippewa.com
+eproofs.chippewa.com
+games.chippewa.com
+li.chippewa.com
+local.chippewa.com
+admin.local.chippewa.com
+m.chippewa.com
+portal.chippewa.com

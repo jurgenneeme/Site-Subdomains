@@ -1,0 +1,10 @@
+www.thedailystar.com
+circulars.thedailystar.com
+m.thedailystar.com
+thedailystar.com
+www.thedailystar.com
+findnsave.thedailystar.com
+login.thedailystar.com
+m.thedailystar.com
+old.thedailystar.com
+photos.thedailystar.com

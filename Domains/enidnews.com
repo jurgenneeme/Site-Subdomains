@@ -1,0 +1,10 @@
+www.enidnews.com
+circulars.enidnews.com
+enidnews.com
+m.enidnews.com
+www.enidnews.com
+findnsave.enidnews.com
+login.enidnews.com
+m.enidnews.com
+mail.enidnews.com
+photos.enidnews.com

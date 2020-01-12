@@ -1,0 +1,15 @@
+www.ubuntulinux.org
+archive.ubuntulinux.org
+ru.archive.ubuntulinux.org
+cdimage.ubuntulinux.org
+ftp.ubuntulinux.org
+ubuntulinux.org
+www.ubuntulinux.org
+packages.ubuntulinux.org
+patches.ubuntulinux.org
+planet.ubuntulinux.org
+popcon.ubuntulinux.org
+releases.ubuntulinux.org
+se.releases.ubuntulinux.org
+shipit.ubuntulinux.org
+torrent.ubuntulinux.org

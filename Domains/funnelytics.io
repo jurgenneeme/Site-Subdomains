@@ -1,0 +1,16 @@
+www.funnelytics.io
+academy.funnelytics.io
+app.funnelytics.io
+cdn.funnelytics.io
+courses.funnelytics.io
+feedback.funnelytics.io
+go.funnelytics.io
+help.funnelytics.io
+funnelytics.io
+www.funnelytics.io
+news.funnelytics.io
+order.funnelytics.io
+providers.funnelytics.io
+staging-cdn.funnelytics.io
+staging-track.funnelytics.io
+track.funnelytics.io

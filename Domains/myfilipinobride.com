@@ -1,0 +1,15 @@
+www.myfilipinobride.com
+autodiscover.myfilipinobride.com
+cpanel.myfilipinobride.com
+mail.myfilipinobride.com
+myfilipinobride.com
+webdisk.myfilipinobride.com
+webmail.myfilipinobride.com
+www.myfilipinobride.com
+cpanel.myfilipinobride.com
+mail.myfilipinobride.com
+myfilipinobride.com
+webdisk.myfilipinobride.com
+webmail.myfilipinobride.com
+www.myfilipinobride.com
+webdisk.myfilipinobride.com

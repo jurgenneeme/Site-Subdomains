@@ -1,0 +1,11 @@
+www.ghasedak24.com
+blog.ghasedak24.com
+www.blog.ghasedak24.com
+blog.ghasedak24.com
+blog.ghasedak24.com.blog.ghasedak24.com
+www.blog.ghasedak24.com
+cdn.ghasedak24.com
+www.cdn.ghasedak24.com
+charter.ghasedak24.com
+ghasedak24.com
+www.ghasedak24.com

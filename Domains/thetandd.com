@@ -1,0 +1,15 @@
+www.thetandd.com
+circulars.thetandd.com
+m.thetandd.com
+thetandd.com
+www.thetandd.com
+contest.thetandd.com
+ee.thetandd.com
+li.thetandd.com
+local.thetandd.com
+m.thetandd.com
+mobile.thetandd.com
+m.portal.thetandd.com
+portal.thetandd.com
+www.portal.thetandd.com
+salesevents.thetandd.com

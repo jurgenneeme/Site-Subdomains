@@ -1,0 +1,16 @@
+www.edisonresearch.com
+dgital.edisonresearch.com
+launchpad.edisonresearch.com
+launchpad.edisonresearch.com
+survey.edisonresearch.com
+weighting.edisonresearch.com
+dgital.edisonresearch.com
+www.dgital.edisonresearch.com
+eds.edisonresearch.com
+eds.edisonresearch.com
+www.eds.edisonresearch.com
+hr.edisonresearch.com
+launchpad.edisonresearch.com
+mail.edisonresearch.com
+netilla.edisonresearch.com
+sslvpn.edisonresearch.com

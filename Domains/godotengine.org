@@ -1,0 +1,7 @@
+www.godotengine.org
+docs.godotengine.org
+op.godotengine.org
+godotengine.org
+www.godotengine.org
+test.godotengine.org
+wekan.godotengine.org

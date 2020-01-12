@@ -1,0 +1,13 @@
+www.jilsander.com
+secure.store.jilsander.com
+store.jilsander.com
+jilsander.com
+www.jilsander.com
+webmail.foro.jilsander.com
+mail.jilsander.com
+sasportal.jilsander.com
+store.jilsander.com
+secure.store.jilsander.com
+webmail.umbria.jilsander.com
+vpn.jilsander.com
+webmail.jilsander.com

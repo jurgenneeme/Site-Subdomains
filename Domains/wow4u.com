@@ -1,0 +1,13 @@
+www.wow4u.com
+cdn.wow4u.com
+cdn-0.wow4u.com
+cdn-1.wow4u.com
+cdn-2.wow4u.com
+cdn-3.wow4u.com
+cdn-4.wow4u.com
+cdn-5.wow4u.com
+cdn-6.wow4u.com
+cdn-7.wow4u.com
+cf-ez-middleton.wow4u.com
+wow4u.com
+www.wow4u.com

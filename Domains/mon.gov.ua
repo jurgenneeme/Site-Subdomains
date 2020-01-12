@@ -1,0 +1,9 @@
+www.mon.gov.ua
+donnu.mon.gov.ua
+www.donnu.mon.gov.ua
+kis.mon.gov.ua
+news.mon.gov.ua
+old.mon.gov.ua
+mon.gov.ua
+www.mon.gov.ua
+ulif.mon.gov.ua

@@ -1,0 +1,16 @@
+www.dailypuppy.com
+bit.dailypuppy.com
+cdn-www.dailypuppy.com
+cdnwww.dailypuppy.com
+dailypuppy.com
+www.dailypuppy.com
+cdn-www.dailypuppy.com
+www.dailypuppy.com
+dogcare.dailypuppy.com
+www.dailypuppy.com
+dogcare.dailypuppy.com
+mail.dailypuppy.com
+www.mail.dailypuppy.com
+click1.mail.dailypuppy.com
+staging.dailypuppy.com
+t.dailypuppy.com

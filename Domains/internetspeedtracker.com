@@ -1,0 +1,7 @@
+www.internetspeedtracker.com
+anx.internetspeedtracker.com
+download.internetspeedtracker.com
+free.internetspeedtracker.com
+internetspeedtracker.com
+www.internetspeedtracker.com
+free.internetspeedtracker.com

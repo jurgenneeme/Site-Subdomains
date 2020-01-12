@@ -1,0 +1,10 @@
+www.venatusmedia.com
+adstxt.venatusmedia.com
+d.venatusmedia.com
+www.d.venatusmedia.com
+info.venatusmedia.com
+pbs.venatusmedia.com
+test.venatusmedia.com
+track.venatusmedia.com
+track-xprmntl.venatusmedia.com
+ui.venatusmedia.com

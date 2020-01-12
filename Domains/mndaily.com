@@ -1,0 +1,14 @@
+www.mndaily.com
+mndaily.com
+www.mndaily.com
+dig.mndaily.com
+dig.mndaily.com
+www.dig.mndaily.com
+helpdesk.mndaily.com
+mail.mndaily.com
+autodiscover.mndaily.com
+mail.mndaily.com
+starscream.mndaily.com
+www.mail.mndaily.com
+mydaily.mndaily.com
+www.mydaily.mndaily.com

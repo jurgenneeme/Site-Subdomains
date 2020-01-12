@@ -1,0 +1,9 @@
+www.designmom.com
+autodiscover.designmom.com
+autodiscover.designmom.com
+mail.designmom.com
+webdisk.designmom.com
+host.designmom.com
+m.designmom.com
+mail.designmom.com
+webdisk.designmom.com

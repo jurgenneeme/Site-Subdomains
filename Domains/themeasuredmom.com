@@ -1,0 +1,11 @@
+www.themeasuredmom.com
+cdn.themeasuredmom.com
+cdn2.themeasuredmom.com
+cdnphx1.themeasuredmom.com
+cdnqc1.themeasuredmom.com
+cdnphx1.themeasuredmom.com
+cdnqc1.themeasuredmom.com
+cdn.themeasuredmom.com
+themeasuredmom.com
+www.themeasuredmom.com
+membership.themeasuredmom.com

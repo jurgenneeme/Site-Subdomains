@@ -1,0 +1,11 @@
+www.niketalk.com
+cdn.niketalk.com
+cdn.niketalk.com
+niketalk.com
+statich.niketalk.com
+static.niketalk.com
+www.niketalk.com
+email.niketalk.com
+files.niketalk.com
+static.niketalk.com
+statich.niketalk.com
