@@ -1,0 +1,14 @@
+www.lanacion.com.py
+apps.lanacion.com.py
+beta.lanacion.com.py
+clientes.lanacion.com.py
+mail.clientes.lanacion.com.py
+www.clientes.lanacion.com.py
+data.lanacion.com.py
+mail.data.lanacion.com.py
+www.data.lanacion.com.py
+especiales.lanacion.com.py
+ojo.lanacion.com.py
+lanacion.com.py
+mail.lanacion.com.py
+team.lanacion.com.py

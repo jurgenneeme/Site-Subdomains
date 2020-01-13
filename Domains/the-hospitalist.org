@@ -1,0 +1,11 @@
+www.the-hospitalist.org
+community.the-hospitalist.org
+ssl.o.the-hospitalist.org
+bcpp.the-hospitalist.org
+the-hospitalist.org
+www.the-hospitalist.org
+the-hospitalist.org
+www.the-hospitalist.org
+proclivity.the-hospitalist.org
+test.the-hospitalist.org
+uat.the-hospitalist.org

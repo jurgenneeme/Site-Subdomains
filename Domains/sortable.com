@@ -1,0 +1,11 @@
+www.sortable.com
+ads.sortable.com
+analytics.sortable.com
+blog.sortable.com
+clients.sortable.com
+docs.sortable.com
+hoard.sortable.com
+lb1.sortable.com
+rt.sortable.com
+static.sortable.com
+team.sortable.com

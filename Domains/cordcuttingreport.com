@@ -1,0 +1,14 @@
+www.cordcuttingreport.com
+cordcuttingreport.com
+www.cordcuttingreport.com
+staging3.sgtest.cordcuttingreport.com
+www.staging3.sgtest.cordcuttingreport.com
+staging1.cordcuttingreport.com
+staging1.cordcuttingreport.com
+www.staging1.cordcuttingreport.com
+www.staging2.cordcuttingreport.com
+staging2.cordcuttingreport.com
+www.staging2.cordcuttingreport.com
+www.staging3.cordcuttingreport.com
+staging4.cordcuttingreport.com
+www.staging4.cordcuttingreport.com

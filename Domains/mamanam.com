@@ -1,0 +1,11 @@
+www.mamanam.com
+mamanam.com
+www.mamanam.com
+mamanam.com
+static.mamanam.com
+www.mamanam.com
+mamanam.com
+tools.mamanam.com
+www.mamanam.com
+go.mamanam.com
+lahezat.mamanam.com

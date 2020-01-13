@@ -1,0 +1,11 @@
+www.u-mama.ru
+beta.u-mama.ru
+capsula.u-mama.ru
+i.u-mama.ru
+i0.u-mama.ru
+i1.u-mama.ru
+mail.u-mama.ru
+passport.u-mama.ru
+r.u-mama.ru
+u-mama.ru
+www.u-mama.ru

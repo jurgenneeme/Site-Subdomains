@@ -1,0 +1,10 @@
+www.drmcdougall.com
+mail.drmcdougall.com
+pop.drmcdougall.com
+smtp.drmcdougall.com
+drmcdougall.com
+www.drmcdougall.com
+server2.drmcdougall.com
+starterkit.drmcdougall.com
+www1.drmcdougall.com
+www2.drmcdougall.com

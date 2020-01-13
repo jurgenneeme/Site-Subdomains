@@ -1,0 +1,9 @@
+www.soundpacks.com
+cdn.soundpacks.com
+soundpacks.com
+www.soundpacks.com
+community.soundpacks.com
+dev.soundpacks.com
+shop.soundpacks.com
+store.soundpacks.com
+submit.soundpacks.com

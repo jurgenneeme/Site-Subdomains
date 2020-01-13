@@ -1,0 +1,10 @@
+www.mobifriends.com
+app.mobifriends.com
+blog.mobifriends.com
+mobifriends.com
+www.mobifriends.com
+im.mobifriends.com
+im.mobifriends.com
+www.im.mobifriends.com
+m.mobifriends.com
+mail.mobifriends.com

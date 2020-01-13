@@ -1,0 +1,15 @@
+www.zatznotfunny.com
+zatznotfunny.com
+cdn-0.zatznotfunny.com
+cdn-1.zatznotfunny.com
+cdn-2.zatznotfunny.com
+cdn-3.zatznotfunny.com
+cdn-4.zatznotfunny.com
+cdn-5.zatznotfunny.com
+cdn-6.zatznotfunny.com
+cdn-7.zatznotfunny.com
+cdn.zatznotfunny.com
+www.zatznotfunny.com
+zatznotfunny.com
+www.zatznotfunny.com
+mail.zatznotfunny.com

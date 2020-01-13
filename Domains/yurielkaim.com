@@ -1,0 +1,12 @@
+www.yurielkaim.com
+yurielkaim.com
+www.yurielkaim.com
+maxtest.yurielkaim.com
+www.maxtest.yurielkaim.com
+shop.yurielkaim.com
+shop.yurielkaim.com
+www.shop.yurielkaim.com
+staging.yurielkaim.com
+www.staging.yurielkaim.com
+workoutvault.yurielkaim.com
+www.workoutvault.yurielkaim.com

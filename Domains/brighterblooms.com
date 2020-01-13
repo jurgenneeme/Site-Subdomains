@@ -1,0 +1,12 @@
+www.brighterblooms.com
+cdn-bb.brighterblooms.com
+brighterblooms.com
+www.brighterblooms.com
+dev.brighterblooms.com
+development.brighterblooms.com
+e.brighterblooms.com
+eimages.brighterblooms.com
+imfhie.brighterblooms.com
+origin.brighterblooms.com
+search.brighterblooms.com
+staging.brighterblooms.com

@@ -1,0 +1,17 @@
+www.originalstitch.com
+blog.originalstitch.com
+originalstitch.com
+www.originalstitch.com
+contests.originalstitch.com
+dev-shop.originalstitch.com
+develop.originalstitch.com
+f7g3wxaiq4wq.originalstitch.com
+i.originalstitch.com
+ja-jp.originalstitch.com
+live.originalstitch.com
+o1.mailer.originalstitch.com
+pokemon.originalstitch.com
+shop.originalstitch.com
+starwars.originalstitch.com
+v2.originalstitch.com
+v2api.originalstitch.com

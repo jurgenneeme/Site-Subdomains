@@ -1,0 +1,12 @@
+www.flagma.ru
+img01.flagma.ru
+img02.flagma.ru
+flagma.ru
+www.flagma.ru
+2psk.ruwww.flagma.ru
+samara.flagma.ru
+vyborg.flagma.ru
+web2.flagma.ru
+web3.flagma.ru
+web8.flagma.ru
+web9.flagma.ru

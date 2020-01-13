@@ -1,0 +1,9 @@
+viasatprovider.com
+www.viasatprovider.com
+autodiscover.viasatprovider.com
+cpanel.viasatprovider.com
+mail.viasatprovider.com
+viasatprovider.com
+webdisk.viasatprovider.com
+webmail.viasatprovider.com
+www.viasatprovider.com

@@ -1,0 +1,13 @@
+www.next-television.com
+ads.next-television.com
+next-television.com
+www.next-television.com
+next-television.com
+webmail.next-television.com
+www.next-television.com
+demo.next-television.com
+diamma.next-television.com
+live.next-television.com
+portal.next-television.com
+reklama.next-television.com
+video.next-television.com

@@ -1,0 +1,14 @@
+www.applevis.com
+applevis.com
+www.applevis.com
+applevis.com
+mail.applevis.com
+www.applevis.com
+host.applevis.com
+host.applevis.com
+www.host.applevis.com
+ns1.applevis.com
+ns2.applevis.com
+ns3.applevis.com
+ns4.applevis.com
+ns5.applevis.com

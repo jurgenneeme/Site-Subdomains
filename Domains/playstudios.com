@@ -1,0 +1,10 @@
+www.playstudios.com
+bjmobile.playstudios.com
+cdn.playstudios.com
+playstudios.com
+www.playstudios.com
+konami-slots.playstudios.com
+mobile.playstudios.com
+mvmx.playstudios.com
+myprofile.playstudios.com
+playmyvegas.playstudios.com

@@ -1,0 +1,17 @@
+www.fileskachat.com
+fileskachat.com
+www.fileskachat.com
+mail.fileskachat.com
+mobile.fileskachat.com
+static.fileskachat.com
+static2.fileskachat.com
+static3.fileskachat.com
+static4.fileskachat.com
+static5.fileskachat.com
+static6.fileskachat.com
+static6tmp.fileskachat.com
+static7.fileskachat.com
+static8.fileskachat.com
+test.fileskachat.com
+test.fileskachat.com
+www.test.fileskachat.com

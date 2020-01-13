@@ -1,0 +1,12 @@
+www.fsdatacentre.com
+beta.fsdatacentre.com
+p1.fsdatacentre.com
+p10.fsdatacentre.com
+p2.fsdatacentre.com
+p3.fsdatacentre.com
+p4.fsdatacentre.com
+p5.fsdatacentre.com
+p6.fsdatacentre.com
+p7.fsdatacentre.com
+p8.fsdatacentre.com
+p9.fsdatacentre.com

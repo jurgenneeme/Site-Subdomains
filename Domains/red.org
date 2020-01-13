@@ -1,0 +1,11 @@
+www.red.org
+assets.red.org
+blog.red.org
+es.red.org
+fr.red.org
+red.org
+www.red.org
+securedev.red.org
+stg.red.org
+stg-cms.red.org
+webmail.red.org

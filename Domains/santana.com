@@ -1,0 +1,15 @@
+www.santana.com
+fanclub.santana.com
+fanclubstore.santana.com
+fanclubstore.santana.com
+www.fanclubstore.santana.com
+ftp.santana.com
+guitarfish.santana.com
+lists.santana.com
+mail.santana.com
+search.santana.com
+store.santana.com
+tour.santana.com
+tour.santana.com
+www.tour.santana.com
+wedgefish.santana.com

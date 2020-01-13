@@ -1,0 +1,12 @@
+www.fas.st
+abuse.fas.st
+api.fas.st
+fas.st
+www.fas.st
+abuse.fas.st
+fas.st
+www.fas.st
+abuse.fas.st
+api.fas.st
+fas.st
+www.fas.st

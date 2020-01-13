@@ -1,0 +1,14 @@
+www.yorokobu.es
+yorokobu.es
+www.yorokobu.es
+cdn.yorokobu.es
+cdn1.yorokobu.es
+cdn2.yorokobu.es
+cdn5.yorokobu.es
+cdn6.yorokobu.es
+dev.yorokobu.es
+dev.yorokobu.es
+www.dev.yorokobu.es
+mail.yorokobu.es
+tienda.yorokobu.es
+webmail.yorokobu.es

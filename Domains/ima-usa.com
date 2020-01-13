@@ -1,0 +1,14 @@
+www.ima-usa.com
+cdn.ima-usa.com
+cdn1.ima-usa.com
+de.ima-usa.com
+enews.ima-usa.com
+es.ima-usa.com
+fr.ima-usa.com
+it.ima-usa.com
+ja.ima-usa.com
+media.ima-usa.com
+omx.ima-usa.com
+omxdev.ima-usa.com
+pt.ima-usa.com
+ru.ima-usa.com

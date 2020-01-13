@@ -1,0 +1,11 @@
+www.breakpoint.org
+archive.breakpoint.org
+autodiscover.breakpoint.org
+blog.breakpoint.org
+email.breakpoint.org
+help.breakpoint.org
+landing.breakpoint.org
+breakpoint.org
+www.breakpoint.org
+store.breakpoint.org
+thepoint.breakpoint.org

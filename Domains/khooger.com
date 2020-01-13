@@ -1,0 +1,16 @@
+www.khooger.com
+aban.khooger.com
+ftp.aban.khooger.com
+mail.aban.khooger.com
+pop.aban.khooger.com
+smtp.aban.khooger.com
+www.aban.khooger.com
+mail.khooger.com
+webmail.khooger.com
+khooger.com
+www.khooger.com
+ga.khooger.com
+new.khooger.com
+ns1.khooger.com
+ns2.khooger.com
+piwik.khooger.com

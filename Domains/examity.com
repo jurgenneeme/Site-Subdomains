@@ -1,0 +1,10 @@
+www.examity.com
+examity.com
+www.examity.com
+go.examity.com
+new.examity.com
+www.new.examity.com
+old.examity.com
+www.old.examity.com
+on.examity.com
+prod.examity.com

@@ -1,0 +1,10 @@
+www.maglite.com
+autodiscover.maglite.com
+maglite.com
+mail.maglite.com
+maglite.com
+www.maglite.com
+flashlight.maglite.com
+new.maglite.com
+promo.maglite.com
+www.promo.maglite.com

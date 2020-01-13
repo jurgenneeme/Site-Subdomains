@@ -1,0 +1,9 @@
+www.verdadesbiblicas.org.ec
+verdadesbiblicas.org.ec
+www.verdadesbiblicas.org.ec
+autodiscover.verdadesbiblicas.org.ec
+cpanel.verdadesbiblicas.org.ec
+verdadesbiblicas.org.ec
+webdisk.verdadesbiblicas.org.ec
+webmail.verdadesbiblicas.org.ec
+www.verdadesbiblicas.org.ec

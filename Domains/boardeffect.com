@@ -1,0 +1,17 @@
+www.boardeffect.com
+autodiscover.boardeffect.com
+boardeffect.com
+www.boardeffect.com
+demo.dev.boardeffect.com
+dev.boardeffect.com
+multi-tour.dev.boardeffect.com
+test1.dev.boardeffect.com
+tour.dev.boardeffect.com
+www.dev.boardeffect.com
+em.boardeffect.com
+go.boardeffect.com
+help.boardeffect.com
+helpcenter.boardeffect.com
+helpcenter.boardeffect.com
+www.helpcenter.boardeffect.com
+ideas.boardeffect.com

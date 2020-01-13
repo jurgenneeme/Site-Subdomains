@@ -1,0 +1,15 @@
+www.partnerstack.com
+admin.partnerstack.com
+api.partnerstack.com
+app.partnerstack.com
+application.partnerstack.com
+www.application.partnerstack.com
+blog.partnerstack.com
+canary.partnerstack.com
+dash.partnerstack.com
+docs.partnerstack.com
+company.preview.partnerstack.com
+partner.preview.partnerstack.com
+preview-app.partnerstack.com
+preview-dash.partnerstack.com
+support.partnerstack.com

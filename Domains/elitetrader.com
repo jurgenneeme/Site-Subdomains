@@ -1,0 +1,9 @@
+www.elitetrader.com
+ads.elitetrader.com
+adserve.elitetrader.com
+beta.elitetrader.com
+beta.elitetrader.com
+elitetrader.com
+www.elitetrader.com
+cp.elitetrader.com
+links.elitetrader.com

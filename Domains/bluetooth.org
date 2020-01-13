@@ -1,0 +1,5 @@
+www.bluetooth.org
+developer.bluetooth.org
+programs.bluetooth.org
+qualweb.bluetooth.org
+web.bluetooth.org

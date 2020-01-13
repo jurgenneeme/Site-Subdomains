@@ -1,0 +1,11 @@
+www.warcraftpets.com
+beta.warcraftpets.com
+cdn.warcraftpets.com
+cdn2.warcraftpets.com
+warcraftpets.com
+www.warcraftpets.com
+staging.warcraftpets.com
+staging2.warcraftpets.com
+tools.warcraftpets.com
+tools2.warcraftpets.com
+www2.warcraftpets.com

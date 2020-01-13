@@ -1,0 +1,10 @@
+www.claro.com.do
+bloqueo1.claro.com.do
+contenido.claro.com.do
+dedicatorias.claro.com.do
+api.mi.claro.com.do
+miclaro.claro.com.do
+prepagoenlinea2.claro.com.do
+soporte.claro.com.do
+soporteempresas.claro.com.do
+tiendaenlinea.claro.com.do

@@ -1,0 +1,10 @@
+m.yumasun.com
+www.yumasun.com
+yumasun.com
+www.yumasun.com
+contest.yumasun.com
+games.yumasun.com
+m.yumasun.com
+mail.yumasun.com
+sitelife.yumasun.com
+varsity.yumasun.com

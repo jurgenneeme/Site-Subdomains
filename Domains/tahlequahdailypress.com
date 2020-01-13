@@ -1,0 +1,4 @@
+www.tahlequahdailypress.com
+circulars.tahlequahdailypress.com
+findnsave.tahlequahdailypress.com
+m.tahlequahdailypress.com

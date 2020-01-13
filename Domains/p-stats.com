@@ -1,0 +1,17 @@
+login.p-stats.com
+p-stats.com
+www.p-stats.com
+login.p-stats.com
+p-stats.com
+s03.p-stats.com
+bindwi.p-stats.com
+forum.p-stats.com
+git.p-stats.com
+mail.p-stats.com
+s01.p-stats.com
+svn.p-stats.com
+endof.p-stats.com
+s02.p-stats.com
+s03.p-stats.com
+s04.p-stats.com
+s05.p-stats.com

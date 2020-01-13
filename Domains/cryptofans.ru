@@ -1,0 +1,9 @@
+www.cryptofans.ru
+beta.cryptofans.ru
+board.cryptofans.ru
+earn.cryptofans.ru
+fund.cryptofans.ru
+land.cryptofans.ru
+metric.cryptofans.ru
+pwa.cryptofans.ru
+rb.cryptofans.ru

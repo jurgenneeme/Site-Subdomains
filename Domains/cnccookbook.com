@@ -1,0 +1,10 @@
+www.cnccookbook.com
+blog.cnccookbook.com
+cdn.cnccookbook.com
+blog.cnccookbook.com
+cnccookbook.com
+www.cnccookbook.com
+mail.cnccookbook.com
+s3.cnccookbook.com
+shop.cnccookbook.com
+support.cnccookbook.com

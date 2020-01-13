@@ -1,0 +1,4 @@
+docs.python-guide.org
+python-guide.org
+docs.python-guide.org
+install.python-guide.org

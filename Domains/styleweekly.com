@@ -1,0 +1,11 @@
+activate.styleweekly.com
+www.activate.styleweekly.com
+admin.styleweekly.com
+a.styleweekly.com
+m.styleweekly.com
+posting.styleweekly.com
+p.styleweekly.com
+styleweekly.com
+www.styleweekly.com
+local.styleweekly.com
+m.styleweekly.com

@@ -1,0 +1,9 @@
+www.cordaroys.com
+blog.cordaroys.com
+calendar.cordaroys.com
+cdn.cordaroys.com
+cordaroys.com
+www.cordaroys.com
+dev.cordaroys.com
+test.cordaroys.com
+www.test.cordaroys.com

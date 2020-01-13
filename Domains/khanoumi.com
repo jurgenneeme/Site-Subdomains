@@ -1,0 +1,11 @@
+www.khanoumi.com
+ads.khanoumi.com
+www.ads.khanoumi.com
+adssite.khanoumi.com
+www.adssite.khanoumi.com
+khanoumi.com
+www.khanoumi.com
+khanoumi.com
+webmail.khanoumi.com
+www.khanoumi.com
+newt.khanoumi.com

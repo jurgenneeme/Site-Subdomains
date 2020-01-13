@@ -1,0 +1,11 @@
+www.victorypassport.com
+vpn.aws.victorypassport.com
+client.vpn.aws.victorypassport.com
+victorypassport.com
+www.victorypassport.com
+give.victorypassport.com
+mystique.int.victorypassport.com
+my.victorypassport.com
+mystique.victorypassport.com
+return.victorypassport.com
+secure.victorypassport.com

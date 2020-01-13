@@ -1,0 +1,13 @@
+www.patmcgrath.com
+patmcgrath.com
+www.patmcgrath.com
+click.email.patmcgrath.com
+cloud.email.patmcgrath.com
+image.email.patmcgrath.com
+view.email.patmcgrath.com
+mail.patmcgrath.com
+www.mail.patmcgrath.com
+pmg.patmcgrath.com
+server.patmcgrath.com
+server.patmcgrath.com
+www.server.patmcgrath.com

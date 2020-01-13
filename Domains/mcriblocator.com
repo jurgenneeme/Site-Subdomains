@@ -1,0 +1,12 @@
+www.mcriblocator.com
+cpanel.mcriblocator.com
+mail.mcriblocator.com
+mcriblocator.com
+www.mcriblocator.com
+autodiscover.mcriblocator.com
+cpanel.mcriblocator.com
+mail.mcriblocator.com
+mcriblocator.com
+webdisk.mcriblocator.com
+webmail.mcriblocator.com
+www.mcriblocator.com

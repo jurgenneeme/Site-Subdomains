@@ -1,0 +1,15 @@
+www.xlr8r.com
+xlr8r.com
+www.xlr8r.com
+cdn.xlr8r.com
+cdn.xlr8r.com
+www.cdn.xlr8r.com
+dev.xlr8r.com
+dev.xlr8r.com
+www.dev.xlr8r.com
+feeds.xlr8r.com
+images.xlr8r.com
+media.xlr8r.com
+staging.xlr8r.com
+www2.xlr8r.com
+www.www2.xlr8r.com

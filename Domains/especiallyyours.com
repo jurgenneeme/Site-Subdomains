@@ -1,0 +1,13 @@
+www.especiallyyours.com
+blog.especiallyyours.com
+especiallyyours.com
+www.especiallyyours.com
+ii.especiallyyours.com
+www.especiallyyours.com
+ecommerce.especiallyyours.com
+ecommerce.especiallyyours.com
+www.ecommerce.especiallyyours.com
+email.especiallyyours.com
+enews.especiallyyours.com
+ii.especiallyyours.com
+media.especiallyyours.com

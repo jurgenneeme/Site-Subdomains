@@ -1,0 +1,11 @@
+www.makeymakey.com
+apps.makeymakey.com
+blog.makeymakey.com
+makeymakey.com
+www.makeymakey.com
+labz.makeymakey.com
+landing.makeymakey.com
+www.landing.makeymakey.com
+shop.makeymakey.com
+shop.makeymakey.com
+www.shop.makeymakey.com

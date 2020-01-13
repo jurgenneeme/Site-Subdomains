@@ -1,0 +1,9 @@
+www.userty.com
+cdn.userty.com
+userty.com
+www.userty.com
+fb-logo.userty.com
+session-recorder.userty.com
+survey.userty.com
+uba-detector.userty.com
+uba-tracking.userty.com

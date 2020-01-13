@@ -1,0 +1,11 @@
+www.h5p.org
+api.h5p.org
+auth.h5p.org
+fab.h5p.org
+h5pcon-2018.h5p.org
+h5pcon-2020.h5p.org
+labs.h5p.org
+the.future.of.h5p.org
+h5p.org
+www.h5p.org
+staging.h5p.org

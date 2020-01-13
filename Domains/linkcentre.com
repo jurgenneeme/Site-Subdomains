@@ -1,0 +1,15 @@
+www.linkcentre.com
+billing.linkcentre.com
+linkcentre.com
+www.linkcentre.com
+demo.linkcentre.com
+demo.linkcentre.com
+www.demo.linkcentre.com
+dev.linkcentre.com
+dev.linkcentre.com
+www.dev.linkcentre.com
+helpdesk.linkcentre.com
+images.linkcentre.com
+secure.linkcentre.com
+secure.linkcentre.com
+www.secure.linkcentre.com

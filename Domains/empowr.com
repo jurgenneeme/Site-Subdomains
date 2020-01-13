@@ -1,0 +1,15 @@
+www.empowr.com
+blogs.empowr.com
+fanboxblogs.empowr.com
+fbim.empowr.com
+fbstatic.empowr.com
+join.empowr.com
+join.empowr.com
+www.join.empowr.com
+mobile.empowr.com
+p.empowr.com
+photos.empowr.com
+posts.empowr.com
+profile.empowr.com
+secure.empowr.com
+support.empowr.com

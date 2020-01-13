@@ -1,0 +1,15 @@
+www.quickflirt.com
+m.quickflirt.com
+quickflirt.com
+www.quickflirt.com
+quickflirt.com
+www.quickflirt.com
+app.quickflirt.com
+f.quickflirt.com
+m.quickflirt.com
+quickflirt.com
+w.quickflirt.com
+www.quickflirt.com
+m.quickflirt.com
+www.quickflirt.com
+m.quickflirt.com

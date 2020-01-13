@@ -1,0 +1,9 @@
+www.wpfastestcache.com
+cpanel.wpfastestcache.com
+mail.wpfastestcache.com
+webdisk.wpfastestcache.com
+webmail.wpfastestcache.com
+wpfastestcache.com
+www.wpfastestcache.com
+wpfastestcache.com
+www.wpfastestcache.com

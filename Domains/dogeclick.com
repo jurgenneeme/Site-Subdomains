@@ -1,0 +1,12 @@
+www.dogeclick.com
+bch.dogeclick.com
+dogeclick.com
+www.dogeclick.com
+bch.dogeclick.com
+dogeclick.com
+ltc.dogeclick.com
+www.dogeclick.com
+dev.dogeclick.com
+doge.dogeclick.com
+ltc.dogeclick.com
+scdn.dogeclick.com

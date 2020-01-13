@@ -1,0 +1,3 @@
+www.contrepoints.org
+archives.contrepoints.org
+staging.contrepoints.org

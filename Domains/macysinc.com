@@ -1,0 +1,17 @@
+www.macysinc.com
+c2c.macysinc.com
+c2c.macysinc.com
+www.c2c.macysinc.com
+investors.macysinc.com
+macysinc.com
+www.macysinc.com
+macysinc.com
+www.macysinc.com
+cosmetics.macysinc.com
+investors.macysinc.com
+photos.macysinc.com
+pressroom.macysinc.com
+shopforacause.macysinc.com
+workshop.macysinc.com
+workshop.macysinc.com
+www.workshop.macysinc.com

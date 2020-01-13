@@ -1,0 +1,12 @@
+www.jpgmag.com
+avatars.jpgmag.com
+box.jpgmag.com
+jpgmag.com
+www.jpgmag.com
+dev-troy.jpgmag.com
+li.jpgmag.com
+photos.jpgmag.com
+8020.photos.jpgmag.com
+printedart.jpgmag.com
+printedart-dev.jpgmag.com
+shop.jpgmag.com

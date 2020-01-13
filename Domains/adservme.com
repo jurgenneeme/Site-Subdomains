@@ -1,0 +1,9 @@
+www.adservme.com
+ads.adservme.com
+ads.adservme.com
+www.ads.adservme.com
+loginx.adservme.com
+rtb.adservme.com
+rtb-g.adservme.com
+static.adservme.com
+xml.adservme.com

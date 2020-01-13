@@ -1,0 +1,11 @@
+www.schlockmercenary.com
+Store.schlockmercenary.com
+schlockmercenary.com
+www.schlockmercenary.com
+schlockmercenary.com
+static.schlockmercenary.com
+www.schlockmercenary.com
+ovalkwiki.schlockmercenary.com
+shop.schlockmercenary.com
+skunktwo.schlockmercenary.com
+store.schlockmercenary.com

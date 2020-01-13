@@ -1,0 +1,10 @@
+www.emcitv.com
+audio.emcitv.com
+dl.emcitv.com
+img.emcitv.com
+preprod.emcitv.com
+staging.emcitv.com
+stream.emcitv.com
+temoignage.emcitv.com
+temoignages.emcitv.com
+wpdev.emcitv.com

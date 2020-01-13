@@ -1,0 +1,15 @@
+www.publika.md
+admin.publika.md
+assets.publika.md
+en.publika.md
+forum.publika.md
+livebeta.publika.md
+mail.publika.md
+media.publika.md
+ns4.publika.md
+rss.publika.md
+ru.publika.md
+vox.publika.md
+web1.publika.md
+www2.publika.md
+www.www2.publika.md

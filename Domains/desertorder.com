@@ -1,0 +1,17 @@
+www.desertorder.com
+1.desertorder.com
+www.1.desertorder.com
+2.desertorder.com
+www.2.desertorder.com
+a.desertorder.com
+www.a.desertorder.com
+b.desertorder.com
+b.desertorder.com
+www.b.desertorder.com
+desertorder.com
+webmail.desertorder.com
+www.desertorder.com
+help.desertorder.com
+hilfe.desertorder.com
+testuni123.desertorder.com
+www.testuni123.desertorder.com

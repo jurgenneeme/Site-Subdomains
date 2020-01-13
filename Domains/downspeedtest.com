@@ -1,0 +1,9 @@
+www.downspeedtest.com
+anx.downspeedtest.com
+downspeedtest.com
+www.downspeedtest.com
+download.downspeedtest.com
+downspeedtest.com
+free.downspeedtest.com
+www.downspeedtest.com
+httpwww.downspeedtest.com

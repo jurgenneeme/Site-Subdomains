@@ -1,0 +1,13 @@
+www.mycounter.ua
+get.mycounter.ua
+get.mycounter.ua
+www.get.mycounter.ua
+giza.mycounter.ua
+memphis.mycounter.ua
+memphis2.mycounter.ua
+ra.mycounter.ua
+scripts.mycounter.ua
+sphynx.mycounter.ua
+static.mycounter.ua
+mycounter.ua
+www.mycounter.ua

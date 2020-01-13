@@ -1,0 +1,11 @@
+www.thehuddle.com
+thehuddle.com
+www.thehuddle.com
+forums.thehuddle.com
+ftp.thehuddle.com
+mail.thehuddle.com
+podcast.thehuddle.com
+repdata.thehuddle.com
+srepdata.thehuddle.com
+tools.thehuddle.com
+win.thehuddle.com

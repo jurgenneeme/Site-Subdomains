@@ -1,0 +1,17 @@
+www.getgist.com
+app.getgist.com
+getgist.com
+www.getgist.com
+data.getgist.com
+docs.getgist.com
+ideas.getgist.com
+josh.getgist.com
+learn.getgist.com
+messenger.getgist.com
+partners.getgist.com
+paulina.getgist.com
+status.getgist.com
+track.getgist.com
+university.getgist.com
+updates.getgist.com
+widget.getgist.com

@@ -1,0 +1,10 @@
+www.wnct.com
+v1-1.api.wnct.com
+www.v1-1.api.wnct.com
+wnct.com
+www.wnct.com
+horizon.wnct.com
+link.wnct.com
+media.wnct.com
+on.wnct.com
+www2.wnct.com

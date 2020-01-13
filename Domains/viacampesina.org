@@ -1,0 +1,10 @@
+www.viacampesina.org
+autoconfig.viacampesina.org
+cloud.viacampesina.org
+mail.viacampesina.org
+mail.viacampesina.org
+www.mail.viacampesina.org
+viacampesina.org
+www.viacampesina.org
+piwigo.viacampesina.org
+tv.viacampesina.org

@@ -1,0 +1,15 @@
+www.gyu-kaku.com
+gyu-kaku.com
+www.gyu-kaku.com
+email.gyu-kaku.com
+www.franchisees.gyu-kaku.com
+franchisees.gyu-kaku.com
+www.franchisees.gyu-kaku.com
+www.hq.gyu-kaku.com
+hq.gyu-kaku.com
+www.hq.gyu-kaku.com
+staging1.gyu-kaku.com
+staging1.gyu-kaku.com
+www.staging1.gyu-kaku.com
+staging2.gyu-kaku.com
+www.staging2.gyu-kaku.com

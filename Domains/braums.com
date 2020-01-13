@@ -1,0 +1,15 @@
+www.braums.com
+automation.braums.com
+app-api.braums.com
+app-api-staging.braums.com
+braums.com
+www.braums.com
+corp11.braums.com
+meet.braums.com
+misentry1.braums.com
+mivsp.braums.com
+nxb.braums.com
+orders.braums.com
+orders-staging.braums.com
+unifi.braums.com
+webmail.braums.com

@@ -1,0 +1,9 @@
+www.osdev.org
+blog.osdev.org
+forum.osdev.org
+files.osdev.org
+forum.osdev.org
+wiki.osdev.org
+www.osdev.org
+smtp.osdev.org
+wiki.osdev.org

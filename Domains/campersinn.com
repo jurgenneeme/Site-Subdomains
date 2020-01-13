@@ -1,0 +1,16 @@
+www.campersinn.com
+blog.campersinn.com
+autodiscover.campersinn.com
+campersinn.com
+mail.campersinn.com
+campersinn.com
+remote.campersinn.com
+info.campersinn.com
+autodiscover.campersinn.com
+campersinn.com
+mail.campersinn.com
+www.mail.campersinn.com
+mail.campersinn.com
+www.mail.campersinn.com
+remote.campersinn.com
+www.remote.campersinn.com

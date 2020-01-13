@@ -1,0 +1,13 @@
+www.badgerbadgerbadger.com
+badgerbadgerbadger.com
+www.badgerbadgerbadger.com
+badgerbadgerbadger.com
+mail.badgerbadgerbadger.com
+www.badgerbadgerbadger.com
+autodiscover.badgerbadgerbadger.com
+badgerbadgerbadger.com
+cpanel.badgerbadgerbadger.com
+mail.badgerbadgerbadger.com
+webdisk.badgerbadgerbadger.com
+webmail.badgerbadgerbadger.com
+www.badgerbadgerbadger.com

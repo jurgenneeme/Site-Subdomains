@@ -1,0 +1,12 @@
+www.serverless.com
+api.serverless.com
+blog.serverless.com
+dashboard.serverless.com
+platform.serverless.com
+serverless.com
+www.serverless.com
+dashboard.serverless.com
+docs.serverless.com
+forum.serverless.com
+local.serverless.com
+raffle.serverless.com

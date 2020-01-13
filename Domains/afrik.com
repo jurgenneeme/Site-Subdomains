@@ -1,0 +1,16 @@
+www.afrik.com
+beaute.afrik.com
+afrik.com
+test.afrik.com
+www.afrik.com
+afrik.com
+m.afrik.com
+test.afrik.com
+www.afrik.com
+afrik.com
+m.afrik.com
+maj.afrik.com
+test.afrik.com
+www.afrik.com
+en.afrik.com
+test.afrik.com

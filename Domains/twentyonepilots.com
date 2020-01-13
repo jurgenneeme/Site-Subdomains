@@ -1,0 +1,12 @@
+www.twentyonepilots.com
+apps.twentyonepilots.com
+cliquephotobooth.twentyonepilots.com
+store.twentyonepilots.com
+store.twentyonepilots.com
+www.store.twentyonepilots.com
+toponspotify.twentyonepilots.com
+tourphotos.twentyonepilots.com
+tumblrform.twentyonepilots.com
+ukhandshakecomp.twentyonepilots.com
+yourplatform.twentyonepilots.com
+yourshow.twentyonepilots.com

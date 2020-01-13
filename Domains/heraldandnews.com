@@ -1,0 +1,14 @@
+www.heraldandnews.com
+ads.heraldandnews.com
+heraldandnews.com
+m.heraldandnews.com
+www.heraldandnews.com
+homes.heraldandnews.com
+jobs.heraldandnews.com
+local.heraldandnews.com
+m.heraldandnews.com
+mail.heraldandnews.com
+promotions.heraldandnews.com
+selfserve.heraldandnews.com
+selfserve.heraldandnews.com
+www.selfserve.heraldandnews.com

@@ -1,0 +1,16 @@
+www.lockportjournal.com
+celebrations.lockportjournal.com
+circulars.lockportjournal.com
+lockportjournal.com
+m.lockportjournal.com
+www.lockportjournal.com
+coupons.lockportjournal.com
+findnsave.lockportjournal.com
+login.lockportjournal.com
+m.lockportjournal.com
+marketplace.lockportjournal.com
+modules.lockportjournal.com
+newspaperads.lockportjournal.com
+notices.lockportjournal.com
+obituaries.lockportjournal.com
+photos.lockportjournal.com

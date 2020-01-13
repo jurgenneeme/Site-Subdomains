@@ -1,0 +1,12 @@
+www.nflonlocation.com
+international-series.nflonlocation.com
+internationalgames.nflonlocation.com
+mail.nflonlocation.com
+marketing.nflonlocation.com
+pro-bowl.nflonlocation.com
+profootballhof.nflonlocation.com
+superbowl.nflonlocation.com
+tickets.nflonlocation.com
+travel.nflonlocation.com
+users.nflonlocation.com
+wwww.nflonlocation.com

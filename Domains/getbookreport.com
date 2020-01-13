@@ -1,0 +1,11 @@
+www.getbookreport.com
+app.getbookreport.com
+app.getbookreport.com
+www.app.getbookreport.com
+beta.getbookreport.com
+betaapp.getbookreport.com
+app2.getbookreport.com
+app.getbookreport.com
+getbookreport.com
+www.getbookreport.com
+support.getbookreport.com

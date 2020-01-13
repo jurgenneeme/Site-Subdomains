@@ -1,0 +1,13 @@
+www.phpcomposer.com
+packagist.phpcomposer.com
+phpcomposer.com
+www.phpcomposer.com
+docs.phpcomposer.com
+files.phpcomposer.com
+image.phpcomposer.com
+install.phpcomposer.com
+jx.phpcomposer.com
+meta.phpcomposer.com
+packagist.phpcomposer.com
+packagist2.phpcomposer.com
+pkg.phpcomposer.com

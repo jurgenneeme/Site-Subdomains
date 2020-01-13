@@ -1,0 +1,3 @@
+www.naturalmedicinejournal.com
+naturalmedicinejournal.com
+www.naturalmedicinejournal.com

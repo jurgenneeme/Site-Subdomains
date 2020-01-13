@@ -1,0 +1,6 @@
+www.docbook.org
+cdn.docbook.org
+docbook.org
+www.docbook.org
+tdg.docbook.org
+wiki.docbook.org

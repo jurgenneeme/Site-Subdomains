@@ -1,0 +1,11 @@
+www.goodcheapeats.com
+goodcheapeats.com
+www.goodcheapeats.com
+autodiscover.goodcheapeats.com
+cpanel.goodcheapeats.com
+goodcheapeats.com
+mail.goodcheapeats.com
+webdisk.goodcheapeats.com
+webmail.goodcheapeats.com
+www.goodcheapeats.com
+dev.goodcheapeats.com

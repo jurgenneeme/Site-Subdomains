@@ -1,0 +1,15 @@
+www.ppt.ru
+img.ppt.ru
+img.ppt.ru
+www.img.ppt.ru
+m.ppt.ru
+m.ppt.ru
+www.m.ppt.ru
+mystat.ppt.ru
+reg.ppt.ru
+ppt.ru
+www.ppt.ru
+www.yakassa.ppt.ru
+yakassa.ppt.ru
+kadr.ppt.ru
+ppt.ru

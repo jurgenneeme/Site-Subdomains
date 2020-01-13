@@ -1,0 +1,15 @@
+www.cdandlp.com
+bideetmusique.cdandlp.com
+blog.cdandlp.com
+cdandlp.cdandlp.com
+cdandlp1.cdandlp.com
+cdandlp3.cdandlp.com
+cdandlp4.cdandlp.com
+content.cdandlp.com
+img.cdandlp.com
+mymp.cdandlp.com
+ring.cdandlp.com
+secure.cdandlp.com
+www.secure.cdandlp.com
+sellers.cdandlp.com
+stream.cdandlp.com

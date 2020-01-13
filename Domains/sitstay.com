@@ -1,0 +1,9 @@
+www.sitstay.com
+blog.sitstay.com
+sitstay.com
+www.sitstay.com
+info.sitstay.com
+secure.sitstay.com
+secure.sitstay.com
+www.secure.sitstay.com
+sitebrand.sitstay.com

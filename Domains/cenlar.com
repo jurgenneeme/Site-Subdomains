@@ -1,0 +1,14 @@
+www.cenlar.com
+VCSE.cenlar.com
+api.cenlar.com
+bcp.api.cenlar.com
+sd.api.cenlar.com
+api-qa.cenlar.com
+cenlar.com
+VCSE.cenlar.com
+api-qa.cenlar.com
+bkapi-qa.cenlar.com
+cenlar.com
+exchange.cenlar.com
+cenlar.com
+www.cenlar.com

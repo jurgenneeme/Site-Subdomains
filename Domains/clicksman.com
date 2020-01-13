@@ -1,0 +1,17 @@
+www.clicksman.com
+bis.clicksman.com
+bis.clicksman.com
+bis-ssl.clicksman.com
+adserver.clicksman.com
+server.clicksman.com
+server-ssl.clicksman.com
+clicksman.com
+www.clicksman.com
+cor.clicksman.com
+inventory.clicksman.com
+pl.clicksman.com
+proxy.clicksman.com
+server.clicksman.com
+server2.clicksman.com
+static.clicksman.com
+stream.clicksman.com

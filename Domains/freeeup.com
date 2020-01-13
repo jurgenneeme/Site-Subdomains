@@ -1,0 +1,11 @@
+www.freeeup.com
+api.freeeup.com
+freeeup.com
+www.freeeup.com
+info.freeeup.com
+site.freeeup.com
+staging.freeeup.com
+timeclock.freeeup.com
+timeclock.freeeup.com
+www.timeclock.freeeup.com
+timeclock-stg.freeeup.com

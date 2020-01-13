@@ -1,0 +1,9 @@
+www.saastr.com
+saastr.com
+www.saastr.com
+preferences.saastr.com
+quora.saastr.com
+subscribe.saastr.com
+topvideos.saastr.com
+traction.saastr.com
+vpsales.saastr.com

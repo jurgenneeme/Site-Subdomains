@@ -1,0 +1,10 @@
+www.medical-news.org
+cdn.medical-news.org
+dev.medical-news.org
+cdn.dev.medical-news.org
+dev.medical-news.org
+medical-news.org
+www.medical-news.org
+cdn.medical-news.org
+medical-news.org
+www.medical-news.org

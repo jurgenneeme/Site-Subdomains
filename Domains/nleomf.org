@@ -1,0 +1,8 @@
+www.nleomf.org
+gp.nleomf.org
+www.gp.nleomf.org
+mail.nleomf.org
+autodiscover.nleomf.org
+mail.nleomf.org
+wave.nleomf.org
+wtcp.nleomf.org

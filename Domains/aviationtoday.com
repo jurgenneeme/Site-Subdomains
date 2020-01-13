@@ -1,0 +1,13 @@
+www.aviationtoday.com
+beta.aviationtoday.com
+bounce.aviationtoday.com
+cdn.aviationtoday.com
+aviationtoday.com
+www.aviationtoday.com
+deals.aviationtoday.com
+go.aviationtoday.com
+interactive.aviationtoday.com
+jobs.aviationtoday.com
+lp.aviationtoday.com
+old-interactive.aviationtoday.com
+www2.aviationtoday.com

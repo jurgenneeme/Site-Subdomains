@@ -1,0 +1,16 @@
+www.klubok.com
+api.klubok.com
+api.klubok.com
+www.api.klubok.com
+blog.klubok.com
+img.klubok.com
+static.klubok.com
+klubok.com
+www.klubok.com
+help.klubok.com
+img.klubok.com
+img.klubok.com
+www.img.klubok.com
+static.klubok.com
+static.klubok.com
+www.static.klubok.com

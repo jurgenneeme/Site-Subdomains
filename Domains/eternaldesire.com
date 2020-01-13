@@ -1,0 +1,12 @@
+www.eternaldesire.com
+access.eternaldesire.com
+fhg.eternaldesire.com
+m.eternaldesire.com
+members.eternaldesire.com
+protected.eternaldesire.com
+protected.eternaldesire.com
+www.protected.eternaldesire.com
+pull.eternaldesire.com
+pull-www.eternaldesire.com
+static.eternaldesire.com
+static-fhg.eternaldesire.com

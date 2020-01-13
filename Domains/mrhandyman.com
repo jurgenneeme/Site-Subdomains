@@ -1,0 +1,15 @@
+www.mrhandyman.com
+autodiscover.mrhandyman.com
+blog.mrhandyman.com
+franchise.mrhandyman.com
+mrhandyman.com
+www.mrhandyman.com
+mrhandyman.com
+www.mrhandyman.com
+edit.mrhandyman.com
+www.edit.mrhandyman.com
+franchise.mrhandyman.com
+info.franchise.mrhandyman.com
+jobs.mrhandyman.com
+mail.mrhandyman.com
+thefix.mrhandyman.com

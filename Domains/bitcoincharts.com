@@ -1,0 +1,14 @@
+www.bitcoincharts.com
+api.bitcoincharts.com
+api-aws.bitcoincharts.com
+bitcoind02.bitcoincharts.com
+charts01.bitcoincharts.com
+charts04.bitcoincharts.com
+bitcoincharts.com
+www.bitcoincharts.com
+api.bitcoincharts.com
+bitcoincharts.com
+www.bitcoincharts.com
+mail.bitcoincharts.com
+orders.bitcoincharts.com
+pro.bitcoincharts.com

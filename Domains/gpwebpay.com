@@ -1,0 +1,10 @@
+www.gpwebpay.com
+3dsecure.gpwebpay.com
+dev.3dsecure.gpwebpay.com
+test.3dsecure.gpwebpay.com
+mpi.gpwebpay.com
+mpin.gpwebpay.com
+portal.gpwebpay.com
+test.portal.gpwebpay.com
+mpi.test.gpwebpay.com
+mpin.test.gpwebpay.com

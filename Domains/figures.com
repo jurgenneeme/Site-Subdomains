@@ -1,0 +1,9 @@
+action--figures.com
+www.action--figures.com
+www.figures.com
+ads2.figures.com
+ads2.figures.com
+www.ads2.figures.com
+figures.com
+www.figures.com
+lyncdiscover.figures.com

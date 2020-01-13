@@ -1,0 +1,17 @@
+www.geometria.ru
+api.geometria.ru
+files.geometria.ru
+files2.geometria.ru
+kharkov.geometria.ru
+msk.geometria.ru
+nnov.geometria.ru
+perm.geometria.ru
+geometria.ru
+www.geometria.ru
+api.geometria.ru
+geometria.ru
+oauth2.geometria.ru
+www.geometria.ru
+rzn.geometria.ru
+tver.geometria.ru
+yota.geometria.ru

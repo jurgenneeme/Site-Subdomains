@@ -1,0 +1,11 @@
+www.emailaptitude.com
+analytics.emailaptitude.com
+api.emailaptitude.com
+clients.emailaptitude.com
+www.clients.emailaptitude.com
+images.emailaptitude.com
+pro.emailaptitude.com
+www.pro.emailaptitude.com
+tracker.emailaptitude.com
+tracker.emailaptitude.com
+www.tracker.emailaptitude.com

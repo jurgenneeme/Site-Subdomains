@@ -1,0 +1,17 @@
+www.setgame.com
+facilitate.setgame.com
+puzzles.setgame.com
+setgame.com
+www.setgame.com
+facilitate.setgame.com
+setgame.com
+www.setgame.com
+puzzles.setgame.com
+setgame.com
+www.setgame.com
+setgame.com
+www.setgame.com
+puzzles.setgame.com
+www.puzzles.setgame.com
+puzzles.setgame.com
+www.puzzles.setgame.com

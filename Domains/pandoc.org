@@ -1,0 +1,6 @@
+www.pandoc.org
+mail.pandoc.org
+pandoc.org
+try.pandoc.org
+www.pandoc.org
+try.pandoc.org

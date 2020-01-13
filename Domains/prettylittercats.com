@@ -1,0 +1,10 @@
+www.prettylittercats.com
+buy.prettylittercats.com
+checkout.prettylittercats.com
+prettylittercats.com
+www.prettylittercats.com
+scoop.prettylittercats.com
+signup.prettylittercats.com
+try.prettylittercats.com
+try.prettylittercats.com
+www.try.prettylittercats.com

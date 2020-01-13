@@ -1,0 +1,16 @@
+www.indicative.com
+api.indicative.com
+api-gzbjse0df8.indicative.com
+api-move.indicative.com
+api-segment.indicative.com
+api-test.indicative.com
+app.indicative.com
+blog.indicative.com
+cdn.indicative.com
+get.indicative.com
+support.indicative.com
+url2629.indicative.com
+url8697.indicative.com
+web.indicative.com
+wordpress.indicative.com
+www-wp.indicative.com

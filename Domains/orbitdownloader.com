@@ -1,0 +1,9 @@
+www.orbitdownloader.com
+dl.orbitdownloader.com
+dlup.orbitdownloader.com
+dtboot.orbitdownloader.com
+forum.orbitdownloader.com
+hash.orbitdownloader.com
+obupdate.orbitdownloader.com
+obvideo.orbitdownloader.com
+uu1.orbitdownloader.com

@@ -1,0 +1,16 @@
+www.sanbi.org
+bgis.sanbi.org
+bgisviewer.sanbi.org
+biodiversityadvisor.sanbi.org
+dev.sanbi.org
+www.dev.sanbi.org
+flora.sanbi.org
+mail.sanbi.org
+opus.sanbi.org
+sanbi.org
+www.sanbi.org
+posa.sanbi.org
+pza.sanbi.org
+redlist.sanbi.org
+sibis.sanbi.org
+transcribe.sanbi.org

@@ -1,0 +1,10 @@
+www.deeranddeerhunting.com
+blog.deeranddeerhunting.com
+deals.deeranddeerhunting.com
+forum.deeranddeerhunting.com
+learn.deeranddeerhunting.com
+register.deeranddeerhunting.com
+subscriptions.deeranddeerhunting.com
+tv.deeranddeerhunting.com
+video.deeranddeerhunting.com
+wwwcdn.deeranddeerhunting.com

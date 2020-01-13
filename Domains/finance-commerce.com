@@ -1,0 +1,12 @@
+www.finance-commerce.com
+autodiscover.finance-commerce.com
+classifieds.finance-commerce.com
+finance-commerce.com
+www.finance-commerce.com
+myaccount.finance-commerce.com
+news.finance-commerce.com
+publicnotices.finance-commerce.com
+register.finance-commerce.com
+renew.finance-commerce.com
+staging.finance-commerce.com
+subscribe.finance-commerce.com

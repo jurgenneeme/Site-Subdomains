@@ -1,0 +1,5 @@
+www.ltsp.org
+irclogs.ltsp.org
+pastebot.ltsp.org
+server.ltsp.org
+wiki.ltsp.org

@@ -1,0 +1,13 @@
+www.khanesarmaye.com
+cloud.khanesarmaye.com
+khanesarmaye.com
+www.khanesarmaye.com
+dl.khanesarmaye.com
+khanesarmaye.com
+www.khanesarmaye.com
+khanesarmaye.com
+www.khanesarmaye.com
+dl.khanesarmaye.com
+dl.khanesarmaye.com
+www.dl.khanesarmaye.com
+stream.khanesarmaye.com

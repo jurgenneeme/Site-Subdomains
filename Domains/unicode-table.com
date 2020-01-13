@@ -1,0 +1,10 @@
+www.unicode-table.com
+e.unicode-table.com
+m.unicode-table.com
+stat.unicode-table.com
+s.unicode-table.com
+unicode-table.com
+www.unicode-table.com
+dev.unicode-table.com
+m.unicode-table.com
+s.unicode-table.com

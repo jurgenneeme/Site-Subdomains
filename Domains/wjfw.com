@@ -1,0 +1,11 @@
+www.wjfw.com
+mobile.wjfw.com
+wjfw.com
+www.wjfw.com
+wjfw.com
+www.wjfw.com
+hosts.wjfw.com
+mail.wjfw.com
+mobile.wjfw.com
+spotreport.wjfw.com
+webmail.wjfw.com

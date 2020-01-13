@@ -1,0 +1,5 @@
+www.scallywagandvagabond.com
+amp.scallywagandvagabond.com
+cdn.scallywagandvagabond.com
+scallywagandvagabond.com
+www.scallywagandvagabond.com

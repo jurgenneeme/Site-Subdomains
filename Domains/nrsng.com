@@ -1,0 +1,10 @@
+www.nrsng.com
+academy.nrsng.com
+go.nrsng.com
+legacy.nrsng.com
+lp.nrsng.com
+medmastercourse.nrsng.com
+sales.nrsng.com
+scrubcheatsapi.nrsng.com
+sendy.nrsng.com
+training.nrsng.com

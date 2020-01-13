@@ -1,0 +1,10 @@
+www.palletsprojects.com
+click.palletsprojects.com
+palletsprojects.com
+www.palletsprojects.com
+flask.palletsprojects.com
+flask-sqlalchemy.palletsprojects.com
+itsdangerous.palletsprojects.com
+jinja.palletsprojects.com
+markupsafe.palletsprojects.com
+werkzeug.palletsprojects.com

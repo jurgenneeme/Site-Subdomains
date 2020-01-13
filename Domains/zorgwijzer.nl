@@ -1,0 +1,10 @@
+www.zorgwijzer.nl
+zorgwijzer.nl
+www.zorgwijzer.nl
+api.zorgwijzer.nl
+cdn.zorgwijzer.nl
+jsab.zorgwijzer.nl
+jsbb.zorgwijzer.nl
+jsh.zorgwijzer.nl
+out.zorgwijzer.nl
+ww.zorgwijzer.nl

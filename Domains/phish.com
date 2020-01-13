@@ -1,0 +1,11 @@
+www.phish.com
+curveball.phish.com
+drygoods.phish.com
+drygoods.phish.com
+www.drygoods.phish.com
+magnaball.phish.com
+mail.phish.com
+mailadmin.phish.com
+tickets.phish.com
+static.tickets.phish.com
+webmail.phish.com

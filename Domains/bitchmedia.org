@@ -1,0 +1,13 @@
+www.bitchmedia.org
+dev.bitchmedia.org
+www.dev.bitchmedia.org
+direct.bitchmedia.org
+drupal7.bitchmedia.org
+duplicate.bitchmedia.org
+images.bitchmedia.org
+mirror1.bitchmedia.org
+mirror2.bitchmedia.org
+bitchmedia.org
+www.bitchmedia.org
+pantheon.bitchmedia.org
+secure.bitchmedia.org

@@ -1,0 +1,10 @@
+www.99ranch.com
+99stg.99ranch.com
+app.99ranch.com
+app.99ranch.com
+www.app.99ranch.com
+99ranch.com
+www.99ranch.com
+emarketing.99ranch.com
+prod.99ranch.com
+samplesrv.99ranch.com

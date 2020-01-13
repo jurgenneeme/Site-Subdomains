@@ -1,0 +1,14 @@
+www.travelsmith.com
+chat.travelsmith.com
+dtm.travelsmith.com
+dtmc.travelsmith.com
+email.travelsmith.com
+f.email.travelsmith.com
+images.travelsmith.com
+li.travelsmith.com
+livechat.travelsmith.com
+m.travelsmith.com
+reviews.travelsmith.com
+svopn.travelsmith.com
+tgs.travelsmith.com
+ugc.travelsmith.com

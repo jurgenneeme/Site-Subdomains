@@ -1,0 +1,12 @@
+www.physoc.org
+ep.physoc.org
+journals.physoc.org
+hwmaint.journals.physoc.org
+jp.physoc.org
+physoc.org
+www.physoc.org
+events.physoc.org
+portal.physoc.org
+www.portal.physoc.org
+services.physoc.org
+static.physoc.org

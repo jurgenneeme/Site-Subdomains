@@ -1,0 +1,9 @@
+www.lyx.org
+bugzilla.lyx.org
+ftp.devel.lyx.org
+ftp.lyx.org
+git.lyx.org
+lyx.org
+wiki.lyx.org
+www.lyx.org
+wiki.lyx.org

@@ -1,0 +1,12 @@
+www.monetizemore.com
+analytics.monetizemore.com
+ci.monetizemore.com
+monetizemore.com
+www.monetizemore.com
+f.monetizemore.com
+footer.monetizemore.com
+rundeck.monetizemore.com
+sentry.monetizemore.com
+tmp.monetizemore.com
+tools.monetizemore.com
+www.tools.monetizemore.com

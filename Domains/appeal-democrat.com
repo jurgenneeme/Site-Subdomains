@@ -1,0 +1,15 @@
+www.appeal-democrat.com
+analytics.appeal-democrat.com
+bestof.appeal-democrat.com
+classifieds.appeal-democrat.com
+appeal-democrat.com
+m.appeal-democrat.com
+www.appeal-democrat.com
+games.appeal-democrat.com
+local.appeal-democrat.com
+m.appeal-democrat.com
+mobile.appeal-democrat.com
+mx.appeal-democrat.com
+obits.appeal-democrat.com
+sitelife.appeal-democrat.com
+yellowpages.appeal-democrat.com

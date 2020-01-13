@@ -1,0 +1,17 @@
+www.paciellogroup.com
+blog.paciellogroup.com
+paciellogroup.com
+www.paciellogroup.com
+dev.paciellogroup.com
+dev.paciellogroup.com
+www.dev.paciellogroup.com
+developer.paciellogroup.com
+developer.paciellogroup.com
+www.developer.paciellogroup.com
+files.paciellogroup.com
+files.paciellogroup.com
+www.files.paciellogroup.com
+helpdesk.paciellogroup.com
+mysql.paciellogroup.com
+slides.paciellogroup.com
+webmail.paciellogroup.com

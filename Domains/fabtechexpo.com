@@ -1,0 +1,12 @@
+www.fabtechexpo.com
+ads.fabtechexpo.com
+blog.fabtechexpo.com
+campaigns.fabtechexpo.com
+canada.fabtechexpo.com
+cdn.fabtechexpo.com
+canada.fabtechexpo.com
+fabtechexpo.com
+mexico.fabtechexpo.com
+www.fabtechexpo.com
+mexico.fabtechexpo.com
+www.mexico.fabtechexpo.com

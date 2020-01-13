@@ -1,0 +1,11 @@
+www.visitbend.com
+blog.visitbend.com
+visitbend.com
+www.visitbend.com
+exchange.visitbend.com
+exchange.visitbend.com
+www.exchange.visitbend.com
+mail.visitbend.com
+www.mail.visitbend.com
+secure.visitbend.com
+stage.visitbend.com

@@ -1,0 +1,15 @@
+www.aapcc.org
+esubmitter.aapcc.org
+esubmitter.aapcc.org
+www.esubmitter.aapcc.org
+mail.aapcc.org
+aapcc.org
+www.aapcc.org
+portal.aapcc.org
+webmail.aapcc.org
+autodiscover.aapcc.org
+legacy.aapcc.org
+mail.aapcc.org
+remote.aapcc.org
+webmail.aapcc.org
+www.webmail.aapcc.org

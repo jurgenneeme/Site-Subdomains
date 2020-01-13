@@ -1,0 +1,8 @@
+autodiscover.sodeliciousdairyfree.com
+mail.sodeliciousdairyfree.com
+connect.sodeliciousdairyfree.com
+myconnect.sodeliciousdairyfree.com
+sodeliciousdairyfree.com
+www.sodeliciousdairyfree.com
+mail.sodeliciousdairyfree.com
+staging.sodeliciousdairyfree.com

@@ -1,0 +1,9 @@
+www.cardcow.com
+blog.cardcow.com
+cardcow.com
+www.cardcow.com
+cardcow.com
+downloads.cardcow.com
+www.cardcow.com
+i.cardcow.com
+test2.cardcow.com

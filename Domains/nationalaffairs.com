@@ -1,0 +1,16 @@
+www.nationalaffairs.com
+dev.nationalaffairs.com
+prototype.nationalaffairs.com
+staging.nationalaffairs.com
+nationalaffairs.com
+www.nationalaffairs.com
+nationalaffairs.com
+staging.nationalaffairs.com
+www.nationalaffairs.com
+dev.nationalaffairs.com
+live.nationalaffairs.com
+nationalaffairs.com
+prototype.nationalaffairs.com
+staging.nationalaffairs.com
+www.nationalaffairs.com
+staging.nationalaffairs.com

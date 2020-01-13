@@ -1,0 +1,12 @@
+www.egehaberleri.com
+egehaberleri.com
+www.egehaberleri.com
+cpanel.egehaberleri.com
+egehaberleri.com
+mail.egehaberleri.com
+webdisk.egehaberleri.com
+webmail.egehaberleri.com
+www.egehaberleri.com
+m.egehaberleri.com
+m.egehaberleri.com
+www.m.egehaberleri.com

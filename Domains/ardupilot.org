@@ -1,0 +1,16 @@
+www.ardupilot.org
+ads.ardupilot.org
+autotest.ardupilot.org
+dev.ardupilot.org
+discuss.ardupilot.org
+download.ardupilot.org
+echo.ardupilot.org
+firmware.ardupilot.org
+moin.ardupilot.org
+ardupilot.org
+www.ardupilot.org
+plot.ardupilot.org
+rover.ardupilot.org
+sand.ardupilot.org
+shop.ardupilot.org
+thor.ardupilot.org

@@ -1,0 +1,10 @@
+www.tech-wd.com
+mail.tech-wd.com
+tech-wd.com
+www.tech-wd.com
+tech-wd.com
+www.tech-wd.com
+dev.tech-wd.com
+www.dev.tech-wd.com
+hkahx.tech-wd.com
+server2.tech-wd.com

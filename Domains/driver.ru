@@ -1,0 +1,12 @@
+www.driver.ru
+d2.driver.ru
+d2b.driver.ru
+d3.driver.ru
+d3b.driver.ru
+d4.driver.ru
+d4b.driver.ru
+download.driver.ru
+driverhub.driver.ru
+forum.driver.ru
+mail.driver.ru
+static.driver.ru

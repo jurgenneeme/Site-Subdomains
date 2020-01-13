@@ -1,0 +1,10 @@
+autodiscover.healthynewage.com
+healthynewage.com
+www.healthynewage.com
+autodiscover.healthynewage.com
+cpanel.healthynewage.com
+healthynewage.com
+mail.healthynewage.com
+webdisk.healthynewage.com
+webmail.healthynewage.com
+www.healthynewage.com

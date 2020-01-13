@@ -1,0 +1,13 @@
+www.ma-bimbo.com
+ma-bimbo.com
+static.ma-bimbo.com
+www.ma-bimbo.com
+static.ma-bimbo.com
+www.ma-bimbo.com
+cortex.ma-bimbo.com
+front2.ma-bimbo.com
+front3.ma-bimbo.com
+photo.ma-bimbo.com
+preprod.ma-bimbo.com
+static.ma-bimbo.com
+tofs.ma-bimbo.com

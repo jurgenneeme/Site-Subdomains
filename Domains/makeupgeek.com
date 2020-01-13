@@ -1,0 +1,10 @@
+www.makeupgeek.com
+affiliate.makeupgeek.com
+cdn.makeupgeek.com
+makeupgeek.com
+www.makeupgeek.com
+js.makeupgeek.com
+localmarket.makeupgeek.com
+media.makeupgeek.com
+phame.makeupgeek.com
+popup.makeupgeek.com

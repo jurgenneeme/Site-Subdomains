@@ -1,0 +1,11 @@
+www.tvweek.com
+blogs.tvweek.com
+tvweek.com
+www.tvweek.com
+forum.tvweek.com
+forums.tvweek.com
+home.tvweek.com
+home.tvweek.com
+www.home.tvweek.com
+smetrics.tvweek.com
+www.smetrics.tvweek.com

@@ -1,0 +1,10 @@
+www.lagarconne.com
+cdn.lagarconne.com
+cdn2.lagarconne.com
+images.lagarconne.com
+oldsite.lagarconne.com
+posserver.lagarconne.com
+lagarconne.com
+www.lagarconne.com
+returns.lagarconne.com
+static.lagarconne.com

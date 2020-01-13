@@ -1,0 +1,13 @@
+www.mizzenandmain.com
+mizzenandmain.com
+www.mizzenandmain.com
+experience.mizzenandmain.com
+ftp.mizzenandmain.com
+gifts.mizzenandmain.com
+www.go.mizzenandmain.com
+proxi.mizzenandmain.com
+qa-gifts.mizzenandmain.com
+returns.mizzenandmain.com
+samplesale.mizzenandmain.com
+shop.mizzenandmain.com
+try.mizzenandmain.com

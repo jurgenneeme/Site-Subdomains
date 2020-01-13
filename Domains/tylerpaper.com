@@ -1,0 +1,10 @@
+www.tylerpaper.com
+autos.tylerpaper.com
+celebrations.tylerpaper.com
+tylerpaper.com
+www.tylerpaper.com
+local.tylerpaper.com
+marketing.tylerpaper.com
+obituaries.tylerpaper.com
+secure.tylerpaper.com
+shopping.tylerpaper.com

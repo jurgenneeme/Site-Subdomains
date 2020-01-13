@@ -1,0 +1,12 @@
+www.whizzco.com
+api.whizzco.com
+cdn.whizzco.com
+cpanel.whizzco.com
+mail.whizzco.com
+webdisk.whizzco.com
+webmail.whizzco.com
+whizzco.com
+www.whizzco.com
+whizzco.com
+www.whizzco.com
+feed.whizzco.com

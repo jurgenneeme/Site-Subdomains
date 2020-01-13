@@ -1,0 +1,16 @@
+www.xen.org
+blog.xen.org
+downloads.xen.org
+etherpad.xen.org
+lists.xen.org
+mail.xen.org
+new-wiki.xen.org
+ns0.xc.ns.xen.org
+old-list-archives.xen.org
+downloads.xen.org
+mail.xen.org
+blog.xen.org
+downloads.xen.org
+mail.xen.org
+wiki.xen.org
+xenbits.xen.org

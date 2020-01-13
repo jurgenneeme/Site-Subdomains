@@ -1,0 +1,11 @@
+www.capecod.com
+ccssl.capecod.com
+www.ccssl.capecod.com
+cdn.capecod.com
+cloudflare.capecod.com
+capecod.com
+www.capecod.com
+mail.capecod.com
+old.capecod.com
+sales.capecod.com
+staging.capecod.com

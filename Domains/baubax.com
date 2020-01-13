@@ -1,0 +1,15 @@
+www.baubax.com
+au.baubax.com
+www.au.baubax.com
+backers.baubax.com
+www.backers.baubax.com
+ca.baubax.com
+www.ca.baubax.com
+eu.baubax.com
+fr.baubax.com
+hk.baubax.com
+jp.baubax.com
+row.baubax.com
+www.row.baubax.com
+shop.baubax.com
+uk.baubax.com

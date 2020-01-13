@@ -1,0 +1,12 @@
+www.dimbuy.com
+blog.dimbuy.com
+autodiscover.dimbuy.com
+exchange.dimbuy.com
+dimbuy.com
+www.dimbuy.com
+dollar.dimbuy.com
+hr.dimbuy.com
+logistics.dimbuy.com
+uat-logistics.dimbuy.com
+uat-manager.dimbuy.com
+webform.dimbuy.com

@@ -1,0 +1,12 @@
+www.betseyjohnson.com
+assets.betseyjohnson.com
+autodiscover.betseyjohnson.com
+betseyjohnson.com
+www.betseyjohnson.com
+e.betseyjohnson.com
+ebm.e.betseyjohnson.com
+f.e.betseyjohnson.com
+inet.betseyjohnson.com
+www.inet.betseyjohnson.com
+returns.betseyjohnson.com
+services.betseyjohnson.com

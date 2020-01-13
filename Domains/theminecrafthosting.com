@@ -1,0 +1,12 @@
+www.theminecrafthosting.com
+mail.theminecrafthosting.com
+theminecrafthosting.com
+www.theminecrafthosting.com
+theminecrafthosting.com
+www.theminecrafthosting.com
+mc1.theminecrafthosting.com
+server.theminecrafthosting.com
+www.server.theminecrafthosting.com
+test.theminecrafthosting.com
+us121.theminecrafthosting.com
+zeus.theminecrafthosting.com

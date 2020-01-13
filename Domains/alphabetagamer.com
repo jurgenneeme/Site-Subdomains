@@ -1,0 +1,10 @@
+www.alphabetagamer.com
+alphabetagamer.com
+www.alphabetagamer.com
+alphabetagamer.com
+cpanel.alphabetagamer.com
+mail.alphabetagamer.com
+webdisk.alphabetagamer.com
+webmail.alphabetagamer.com
+whm.alphabetagamer.com
+www.alphabetagamer.com

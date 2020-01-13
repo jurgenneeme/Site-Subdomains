@@ -1,0 +1,10 @@
+www.kicad-pcb.org
+docs.kicad-pcb.org
+downloads.kicad-pcb.org
+kicad-pcb.org
+www.kicad-pcb.org
+kicad-pcb.org
+mail.kicad-pcb.org
+www.kicad-pcb.org
+test.kicad-pcb.org
+www.test.kicad-pcb.org

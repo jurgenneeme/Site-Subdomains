@@ -1,0 +1,17 @@
+www.listoffreeware.com
+cdn1.listoffreeware.com
+cdn2.listoffreeware.com
+cdn3.listoffreeware.com
+cdn4.listoffreeware.com
+cdn.dev.listoffreeware.com
+dev.listoffreeware.com
+cdn.listoffreeware.com
+listoffreeware.com
+static.listoffreeware.com
+www.listoffreeware.com
+listoffreeware.com
+static.listoffreeware.com
+www.listoffreeware.com
+dev.listoffreeware.com
+cdn.dev.listoffreeware.com
+static.listoffreeware.com

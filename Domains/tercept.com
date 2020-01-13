@@ -1,0 +1,13 @@
+www.tercept.com
+analytics.tercept.com
+analytics2.tercept.com
+api.tercept.com
+b-s.tercept.com
+cdn.tercept.com
+tercept.com
+www.tercept.com
+demo.tercept.com
+monitor.tercept.com
+optimize.tercept.com
+serve.tercept.com
+trial.tercept.com

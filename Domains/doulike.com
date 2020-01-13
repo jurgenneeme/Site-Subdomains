@@ -1,8 +1,11 @@
 www.doulike.com
 cms.doulike.com
-mail2.doulike.com<BR>mail.doulike.com
-mail3.doulike.com<BR>mail.doulike.com
-doulike.com<BR>www.doulike.com
+mail2.doulike.com
+mail.doulike.com
+mail3.doulike.com
+mail.doulike.com
+doulike.com
+www.doulike.com
 fr.doulike.com
 mail.doulike.com
 mail2.doulike.com

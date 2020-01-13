@@ -1,0 +1,9 @@
+www.traditionalmedicinals.com
+ca.traditionalmedicinals.com
+fb2596.traditionalmedicinals.com
+fr.traditionalmedicinals.com
+locator.traditionalmedicinals.com
+shop.traditionalmedicinals.com
+shop.traditionalmedicinals.com
+www.shop.traditionalmedicinals.com
+staging.traditionalmedicinals.com

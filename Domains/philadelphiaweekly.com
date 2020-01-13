@@ -1,0 +1,12 @@
+www.philadelphiaweekly.com
+blogs.philadelphiaweekly.com
+philadelphiaweekly.com
+www.philadelphiaweekly.com
+enews.philadelphiaweekly.com
+lust.philadelphiaweekly.com
+mail.philadelphiaweekly.com
+www.mail.philadelphiaweekly.com
+media.philadelphiaweekly.com
+oascentral.philadelphiaweekly.com
+trouble.philadelphiaweekly.com
+willdo.philadelphiaweekly.com

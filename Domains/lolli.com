@@ -1,0 +1,10 @@
+www.lolli.com
+beta.lolli.com
+blog.lolli.com
+lolli.com
+www.lolli.com
+img.mail.lolli.com
+r.mail.lolli.com
+try.lolli.com
+img.txmail.lolli.com
+r.txmail.lolli.com

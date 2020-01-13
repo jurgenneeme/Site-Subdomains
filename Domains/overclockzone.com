@@ -1,0 +1,10 @@
+www.overclockzone.com
+ads.overclockzone.com
+cdn.overclockzone.com
+overclockzone.com
+www.overclockzone.com
+forums.overclockzone.com
+forumsbk.overclockzone.com
+oldweb.overclockzone.com
+picpost.overclockzone.com
+web.overclockzone.com

@@ -1,0 +1,10 @@
+www.customizedgirl.com
+dev.customizedgirl.com
+jay.customizedgirl.com
+customizedgirl.com
+www.customizedgirl.com
+dev.customizedgirl.com
+email.customizedgirl.com
+jay.customizedgirl.com
+qa.customizedgirl.com
+static.customizedgirl.com

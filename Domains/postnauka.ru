@@ -1,0 +1,17 @@
+www.postnauka.ru
+ads.postnauka.ru
+assets0.postnauka.ru
+author.postnauka.ru
+a1.deploy.postnauka.ru
+dev-flow.postnauka.ru
+dev-new.postnauka.ru
+flow.postnauka.ru
+git.postnauka.ru
+img.postnauka.ru
+mail.postnauka.ru
+new.postnauka.ru
+rabbit.postnauka.ru
+postnauka.ru
+www.postnauka.ru
+specials.postnauka.ru
+stats.postnauka.ru

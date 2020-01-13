@@ -1,0 +1,10 @@
+www.palaisdetokyo.com
+archives.palaisdetokyo.com
+palaisdetokyo.com
+www.palaisdetokyo.com
+emailing.palaisdetokyo.com
+mail.palaisdetokyo.com
+www.mail.palaisdetokyo.com
+newsletter.palaisdetokyo.com
+www.newsletter.palaisdetokyo.com
+preprod.palaisdetokyo.com

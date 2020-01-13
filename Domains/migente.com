@@ -1,0 +1,11 @@
+www.migente.com
+fs.migente.com
+fs1.migente.com
+guestbook.migente.com
+mail.migente.com
+mailer.migente.com
+members.migente.com
+members4.migente.com
+qa-static.migente.com
+vs.migente.com
+w.migente.com

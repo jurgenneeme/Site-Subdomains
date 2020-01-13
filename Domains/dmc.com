@@ -1,0 +1,15 @@
+www.dmc.com
+es.dmc.com
+forum.dmc.com
+it.dmc.com
+mx1.dmc.com
+mx2.dmc.com
+ovation.dmc.com
+support.dmc.com
+www.dmc.com
+www.laboutiquedmc.com
+www.latiendadedmc.com
+www.alojadadmc.com
+www.dmc.com
+www.laboutiquedmc.com
+www.latiendadedmc.com

@@ -1,0 +1,17 @@
+www.awwapp.com
+beta.awwapp.com
+blog.awwapp.com
+awwapp.com
+www.awwapp.com
+api.awwapp.com
+app.awwapp.com
+awwapp.com
+blog.awwapp.com
+www.awwapp.com
+commbox.awwapp.com
+converter.awwapp.com
+dev.awwapp.com
+monitoring.awwapp.com
+static.awwapp.com
+test.awwapp.com
+video.awwapp.com

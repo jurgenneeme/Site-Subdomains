@@ -1,0 +1,10 @@
+www.animalbehaviorcollege.com
+animalbehaviorcollege.com
+www.animalbehaviorcollege.com
+dev.animalbehaviorcollege.com
+ppc.animalbehaviorcollege.com
+promo.animalbehaviorcollege.com
+rdp.animalbehaviorcollege.com
+rdp.animalbehaviorcollege.com
+www.rdp.animalbehaviorcollege.com
+staging1.animalbehaviorcollege.com

@@ -1,0 +1,15 @@
+www.thecourier.com
+aristotle.thecourier.com
+barracuda.thecourier.com
+circulars.thecourier.com
+classifieds.thecourier.com
+dealers.thecourier.com
+www.dealers.thecourier.com
+dev.thecourier.com
+ecourier.thecourier.com
+holidaycheer.thecourier.com
+holidaycheers.thecourier.com
+old.thecourier.com
+related.thecourier.com
+shop.thecourier.com
+updates.thecourier.com

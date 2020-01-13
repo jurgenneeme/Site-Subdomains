@@ -1,0 +1,15 @@
+cpanel.yourmomhatesthis.com
+mail.yourmomhatesthis.com
+webdisk.yourmomhatesthis.com
+webmail.yourmomhatesthis.com
+whm.yourmomhatesthis.com
+www.yourmomhatesthis.com
+yourmomhatesthis.com
+mail.yourmomhatesthis.com
+www.yourmomhatesthis.com
+yourmomhatesthis.com
+www.yourmomhatesthis.com
+images.yourmomhatesthis.com
+images.yourmomhatesthis.com
+www.images.yourmomhatesthis.com
+mail.yourmomhatesthis.com

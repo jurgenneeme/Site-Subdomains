@@ -1,0 +1,11 @@
+www.piperclassics.com
+blog.piperclassics.com
+catalog.piperclassics.com
+piperclassics.com
+www.piperclassics.com
+content.piperclassics.com
+email.piperclassics.com
+host.piperclassics.com
+host.piperclassics.com
+www.host.piperclassics.com
+oldsite.piperclassics.com

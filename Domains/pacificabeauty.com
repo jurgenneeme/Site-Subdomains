@@ -1,0 +1,12 @@
+www.pacificabeauty.com
+autodiscover.pacificabeauty.com
+campaigns.pacificabeauty.com
+erpapp001.pacificabeauty.com
+erpaux001.pacificabeauty.com
+pacificabeauty.com
+www.pacificabeauty.com
+pacificabeauty.com
+www.pacificabeauty.com
+offers.pacificabeauty.com
+pacificalife.pacificabeauty.com
+www.pacificalife.pacificabeauty.com

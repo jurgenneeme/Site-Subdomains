@@ -1,0 +1,10 @@
+www.psychologos.ru
+archive.psychologos.ru
+b.psychologos.ru
+lp.psychologos.ru
+postmaster.psychologos.ru
+psychologos.ru
+www.psychologos.ru
+sprint.psychologos.ru
+subscribe.psychologos.ru
+task.psychologos.ru

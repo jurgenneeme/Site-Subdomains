@@ -1,0 +1,11 @@
+www.epicreads.com
+epicreads.com
+www.epicreads.com
+epicreads.com
+go.epicreads.com
+www.epicreads.com
+go.epicreads.com
+insiders.epicreads.com
+login.epicreads.com
+profile.epicreads.com
+staging-go.epicreads.com

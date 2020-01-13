@@ -1,0 +1,13 @@
+www.pna.gov.ph
+files.pna.gov.ph
+media.pna.gov.ph
+files.pna.gov.ph
+media.pna.gov.ph
+ngs.pna.gov.ph
+pna.gov.ph
+wp01.pna.gov.ph
+www.pna.gov.ph
+sd01.pna.gov.ph
+sp01.pna.gov.ph
+wd01.pna.gov.ph
+wp01.pna.gov.ph

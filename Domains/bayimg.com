@@ -1,0 +1,16 @@
+bayimg.com
+image.bayimg.com
+bayimg.com
+image.bayimg.com
+static.bayimg.com
+thumbs.bayimg.com
+bayimg.com
+image.bayimg.com
+www.bayimg.com
+bayimg.com
+image.bayimg.com
+static.bayimg.com
+thumbs.bayimg.com
+www.bayimg.com
+image.bayimg.com
+thumbs.bayimg.com

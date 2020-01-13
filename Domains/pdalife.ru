@@ -1,0 +1,16 @@
+www.pdalife.ru
+2017.pdalife.ru
+2017.pdalife.ru
+www.2017.pdalife.ru
+cp.pdalife.ru
+cp.pdalife.ru
+www.cp.pdalife.ru
+files.pdalife.ru
+pdalife.ru
+www.pdalife.ru
+u.pdalife.ru
+u2.pdalife.ru
+u3.pdalife.ru
+u4.pdalife.ru
+u5.pdalife.ru
+u6.pdalife.ru

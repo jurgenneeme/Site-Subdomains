@@ -1,0 +1,9 @@
+www.mytwintiers.com
+beta.mytwintiers.com
+mytwintiers.com
+www.mytwintiers.com
+finance.mytwintiers.com
+m.mytwintiers.com
+media.mytwintiers.com
+shareit.mytwintiers.com
+sports.mytwintiers.com

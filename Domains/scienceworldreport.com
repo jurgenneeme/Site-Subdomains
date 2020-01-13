@@ -1,0 +1,5 @@
+assets.scienceworldreport.com
+contentvideo.scienceworldreport.com
+images.scienceworldreport.com
+mail.scienceworldreport.com
+stat.scienceworldreport.com

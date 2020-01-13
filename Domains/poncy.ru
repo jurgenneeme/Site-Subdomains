@@ -1,0 +1,14 @@
+www.poncy.ru
+anagram.poncy.ru
+anagram.poncy.ru
+api.poncy.ru
+cars.poncy.ru
+chords.poncy.ru
+logist.poncy.ru
+monitor.poncy.ru
+pifagor.poncy.ru
+poncy.ru
+rifma.poncy.ru
+sonnik.poncy.ru
+statist.poncy.ru
+www.poncy.ru

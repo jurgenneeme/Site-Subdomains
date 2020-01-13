@@ -1,0 +1,10 @@
+www.seascanner.com
+ccc.seascanner.com
+seascanner.com
+www.seascanner.com
+img.infos.seascanner.com
+track.infos.seascanner.com
+mx0.seascanner.com
+secure.seascanner.com
+stage.seascanner.com
+club.stage.seascanner.com

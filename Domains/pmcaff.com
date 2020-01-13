@@ -1,0 +1,15 @@
+www.pmcaff.com
+api.pmcaff.com
+pmcaff.com
+www.pmcaff.com
+nework.cs.pmcaff.com
+api.dophin.pmcaff.com
+img.dophin.pmcaff.com
+download-cdn.pmcaff.com
+img.pmcaff.com
+img-designer.pmcaff.com
+api.m.pmcaff.com
+a.mp.pmcaff.com
+t.mp.pmcaff.com
+nework-img.pmcaff.com
+wxapp.pmcaff.com

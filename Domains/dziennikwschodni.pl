@@ -1,0 +1,10 @@
+www.dziennikwschodni.pl
+cdn01.dziennikwschodni.pl
+cdn01js.dziennikwschodni.pl
+forum.dziennikwschodni.pl
+www.forum.dziennikwschodni.pl
+dziennikwschodni.pl
+www.dziennikwschodni.pl
+hity.redblog.dziennikwschodni.pl
+strefabiznesu.dziennikwschodni.pl
+www.strefabiznesu.dziennikwschodni.pl

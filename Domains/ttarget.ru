@@ -1,0 +1,10 @@
+www.ttarget.ru
+crm.ttarget.ru
+new.ttarget.ru
+new.ttarget.ru
+www.new.ttarget.ru
+ttarget.ru
+www.ttarget.ru
+tt.ttarget.ru
+tt.ttarget.ru
+www.tt.ttarget.ru

@@ -1,0 +1,15 @@
+www.mrshappyhomemaker.com
+cpanel.mrshappyhomemaker.com
+mrshappyhomemaker.com
+www.mrshappyhomemaker.com
+mrshappyhomemaker.com
+www.mrshappyhomemaker.com
+cpanel.mrshappyhomemaker.com
+mail.mrshappyhomemaker.com
+mrshappyhomemaker.com
+webdisk.mrshappyhomemaker.com
+webmail.mrshappyhomemaker.com
+www.mrshappyhomemaker.com
+staging.mrshappyhomemaker.com
+staging.mrshappyhomemaker.com
+www.staging.mrshappyhomemaker.com

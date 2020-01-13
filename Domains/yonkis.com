@@ -1,0 +1,11 @@
+www.yonkis.com
+yonkis.com
+www.yonkis.com
+ads.yonkis.com
+www.ads.yonkis.com
+adv.yonkis.com
+fotomaton.yonkis.com
+imagenes.yonkis.com
+mail.yonkis.com
+www.series.yonkis.com
+sexshop.yonkis.com

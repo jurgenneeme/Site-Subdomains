@@ -1,0 +1,5 @@
+www.personalityjunkie.com
+personalityjunkie.com
+www.personalityjunkie.com
+rethinkingpain.personalityjunkie.com
+www.rethinkingpain.personalityjunkie.com

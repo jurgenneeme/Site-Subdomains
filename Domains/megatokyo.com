@@ -1,0 +1,10 @@
+www.megatokyo.com
+cloud.megatokyo.com
+code.megatokyo.com
+megatokyo.com
+www.megatokyo.com
+yumemi.megatokyo.com
+forums.megatokyo.com
+vn.megatokyo.com
+hg.vn.megatokyo.com
+yumemi.megatokyo.com

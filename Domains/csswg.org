@@ -1,0 +1,13 @@
+www.csswg.org
+api.csswg.org
+drafts.csswg.org
+hg.csswg.org
+log.csswg.org
+logs.csswg.org
+ns2.csswg.org
+ns3.csswg.org
+ns4.csswg.org
+ns5.csswg.org
+smtp.csswg.org
+test.csswg.org
+wiki.csswg.org

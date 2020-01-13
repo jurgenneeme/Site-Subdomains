@@ -1,0 +1,17 @@
+www.parcelmonkey.com
+admin.parcelmonkey.com
+staging.admin.parcelmonkey.com
+2015.parcelmonkey.com
+legacyusa.parcelmonkey.com
+parcelmonkey.com
+www.parcelmonkey.com
+logs.parcelmonkey.com
+email.mg.parcelmonkey.com
+partners.parcelmonkey.com
+www.smiths.parcelmonkey.com
+admin.smiths.parcelmonkey.com
+admin.smithsproduction.parcelmonkey.com
+smithsproduction.parcelmonkey.com
+www.smithsproduction.parcelmonkey.com
+staging.parcelmonkey.com
+www.staging.parcelmonkey.com

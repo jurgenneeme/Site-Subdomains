@@ -1,0 +1,9 @@
+www.ngemu.com
+ngemu.com
+www.ngemu.com
+dafreak.ngemu.com
+files.ngemu.com
+forums.ngemu.com
+oldcms.ngemu.com
+vba.ngemu.com
+vba-m.ngemu.com

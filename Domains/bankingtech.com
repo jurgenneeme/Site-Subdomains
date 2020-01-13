@@ -1,0 +1,15 @@
+www.bankingtech.com
+awards.bankingtech.com
+awards.bankingtech.com
+www.awards.bankingtech.com
+beta.bankingtech.com
+awards.bankingtech.com
+forum.bankingtech.com
+bankingtech.com
+www.bankingtech.com
+directory.bankingtech.com
+forum.bankingtech.com
+www.forum.bankingtech.com
+paytechawards.bankingtech.com
+stg.bankingtech.com
+uat.bankingtech.com

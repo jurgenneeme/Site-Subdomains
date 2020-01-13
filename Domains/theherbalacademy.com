@@ -1,0 +1,9 @@
+www.theherbalacademy.com
+cloudflare.theherbalacademy.com
+theherbalacademy.com
+www.theherbalacademy.com
+theherbalacademy.com
+www.theherbalacademy.com
+email.theherbalacademy.com
+herbarium.theherbalacademy.com
+staging.theherbalacademy.com

@@ -1,0 +1,15 @@
+www.mr7.ru
+i.mr7.ru
+info.mr7.ru
+konkurs.mr7.ru
+m.mr7.ru
+msk.mr7.ru
+old.mr7.ru
+print.mr7.ru
+rng.mr7.ru
+admin.mr7.ru
+i.mr7.ru
+m.mr7.ru
+mr7.ru
+print.mr7.ru
+www.mr7.ru

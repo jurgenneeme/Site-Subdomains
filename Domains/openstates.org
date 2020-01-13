@@ -1,0 +1,16 @@
+www.openstates.org
+beta.openstates.org
+blog.openstates.org
+blog.openstates.org
+www.blog.openstates.org
+bobsled.openstates.org
+discourse.openstates.org
+docs.openstates.org
+in-proxy.openstates.org
+openstates.org
+www.openstates.org
+beta.openstates.org
+openstates.org
+www.openstates.org
+s.openstates.org
+static.openstates.org

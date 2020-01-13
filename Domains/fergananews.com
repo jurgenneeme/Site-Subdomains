@@ -1,0 +1,10 @@
+www.fergananews.com
+fergananews.com
+www.fergananews.com
+enews.fergananews.com
+fr.fergananews.com
+news.fergananews.com
+om.fergananews.com
+om.fergananews.com
+www.om.fergananews.com
+uzbek.fergananews.com

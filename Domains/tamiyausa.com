@@ -1,0 +1,9 @@
+www.tamiyausa.com
+blog.tamiyausa.com
+tamiyausa.com
+www.tamiyausa.com
+dealers.tamiyausa.com
+ns1.tamiyausa.com
+ns2.tamiyausa.com
+remote.tamiyausa.com
+ww.tamiyausa.com

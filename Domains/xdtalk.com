@@ -1,0 +1,9 @@
+www.xdtalk.com
+xdtalk.com
+www.xdtalk.com
+email.gcpdev.xdtalk.com
+gcpdev.xdtalk.com
+email.xdtalk.com
+gcpdev.xdtalk.com
+email.gcpdev.xdtalk.com
+img.xdtalk.com

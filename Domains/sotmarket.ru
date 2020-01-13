@@ -1,0 +1,17 @@
+www.sotmarket.ru
+billing.sotmarket.ru
+bitrix.sotmarket.ru
+www.bitrix.sotmarket.ru
+files.sotmarket.ru
+forum.sotmarket.ru
+front-02.sotmarket.ru
+img.sotmarket.ru
+ns2.sotmarket.ru
+oldpartner.sotmarket.ru
+img.sotmarket.ru
+sotmarket.ru
+www.sotmarket.ru
+sotmarket.ru
+www.sotmarket.ru
+shop.sotmarket.ru
+unsubscribe.sotmarket.ru

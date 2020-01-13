@@ -1,0 +1,9 @@
+www.needpix.com
+api.needpix.com
+www.api.needpix.com
+needpix.com
+www.needpix.com
+storage.needpix.com
+www.storage.needpix.com
+storage.needpix.com
+www.storage.needpix.com

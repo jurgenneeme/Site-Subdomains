@@ -1,0 +1,10 @@
+www.milwaukeemag.com
+autodiscover.milwaukeemag.com
+lyncdiscoverinternal.milwaukeemag.com
+lyncdiscover.milwaukeemag.com
+sip.milwaukeemag.com
+milwaukeemag.com
+www.milwaukeemag.com
+edit.milwaukeemag.com
+reports.milwaukeemag.com
+www.reports.milwaukeemag.com

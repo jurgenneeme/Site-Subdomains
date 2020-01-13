@@ -1,0 +1,9 @@
+www.gamatotv1.com
+gamatotv1.com
+www.gamatotv1.com
+cpanel.gamatotv1.com
+gamatotv1.com
+mail.gamatotv1.com
+webdisk.gamatotv1.com
+webmail.gamatotv1.com
+www.gamatotv1.com

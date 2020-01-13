@@ -1,0 +1,14 @@
+www.mianbao99.com
+1.mianbao99.com
+2.mianbao99.com
+a.mianbao99.com
+ajax.mianbao99.com
+mianbao99.com
+www.mianbao99.com
+find.mianbao99.com
+gb.mianbao99.com
+i.mianbao99.com
+img.mianbao99.com
+mzanpian.mianbao99.com
+redirect.mianbao99.com
+uc.mianbao99.com

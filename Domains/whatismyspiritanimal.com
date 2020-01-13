@@ -1,0 +1,3 @@
+www.whatismyspiritanimal.com
+whatismyspiritanimal.com
+www.whatismyspiritanimal.com

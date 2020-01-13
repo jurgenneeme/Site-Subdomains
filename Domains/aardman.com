@@ -1,0 +1,16 @@
+www.aardman.com
+aardspace.aardman.com
+beta.aardman.com
+autodiscover.aardman.com
+legacy.aardman.com
+webmail2.aardman.com
+webmail.aardman.com
+aardman.com
+www.aardman.com
+devomatic.aardman.com
+gfrftps.aardman.com
+gitomatic.aardman.com
+projects.aardman.com
+ptfaspex.aardman.com
+styleguides.aardman.com
+webmail.aardman.com

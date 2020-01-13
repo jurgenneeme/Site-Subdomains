@@ -1,0 +1,14 @@
+www.quayaustralia.com
+quayaustralia.com
+www.quayaustralia.com
+ftp.quayaustralia.com
+www.ftp.quayaustralia.com
+helpdesk.quayaustralia.com
+quayrxdev.quayaustralia.com
+quayrx.quayaustralia.com
+www.quayrx.quayaustralia.com
+quayrx.quayaustralia.com
+www.quayrx.quayaustralia.com
+qysql1.quayaustralia.com
+www.qysql1.quayaustralia.com
+support.quayaustralia.com

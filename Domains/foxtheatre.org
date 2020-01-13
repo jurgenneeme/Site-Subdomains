@@ -1,0 +1,8 @@
+www.foxtheatre.org
+api.foxtheatre.org
+archives.foxtheatre.org
+foxtheatre.org
+www.foxtheatre.org
+remoteapp.foxtheatre.org
+vip.foxtheatre.org
+webmail.foxtheatre.org

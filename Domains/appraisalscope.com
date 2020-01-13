@@ -1,0 +1,14 @@
+www.appraisalscope.com
+appraisalnation.appraisalscope.com
+bancorpsouth.appraisalscope.com
+class.appraisalscope.com
+appraisalscope.com
+www.appraisalscope.com
+evp.appraisalscope.com
+imap.appraisalscope.com
+mail.appraisalscope.com
+ncsecu.appraisalscope.com
+oldecity.appraisalscope.com
+pop3.appraisalscope.com
+tcvaluations.appraisalscope.com
+vpn.appraisalscope.com

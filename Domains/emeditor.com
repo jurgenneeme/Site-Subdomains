@@ -1,0 +1,13 @@
+www.emeditor.com
+cdn.emeditor.com
+cdn5.emeditor.com
+de.emeditor.com
+files.emeditor.com
+jp.emeditor.com
+ko.emeditor.com
+ru.emeditor.com
+shop.emeditor.com
+support.emeditor.com
+updates.emeditor.com
+zh-cn.emeditor.com
+zh-tw.emeditor.com

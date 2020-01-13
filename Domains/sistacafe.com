@@ -1,0 +1,14 @@
+www.sistacafe.com
+business.sistacafe.com
+sistacafe.com
+www.sistacafe.com
+dev.sistacafe.com
+cache.gmo2.sistacafe.com
+cache.gmo2.sistacafe.com
+hispeed02.cache.gmo2.sistacafe.com
+hispeed02.cache.gmo2.sistacafe.com
+influencer.sistacafe.com
+ml.sistacafe.com
+reviews.sistacafe.com
+cache.s3.sistacafe.com
+test.sistacafe.com

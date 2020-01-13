@@ -1,0 +1,16 @@
+www.ilovetheupperwestside.com
+ilovetheupperwestside.com
+www.ilovetheupperwestside.com
+autodiscover.ilovetheupperwestside.com
+cpanel.ilovetheupperwestside.com
+ilovetheupperwestside.com
+mail.ilovetheupperwestside.com
+webdisk.ilovetheupperwestside.com
+webmail.ilovetheupperwestside.com
+www.ilovetheupperwestside.com
+staging1.ilovetheupperwestside.com
+www.staging1.ilovetheupperwestside.com
+staging2.ilovetheupperwestside.com
+www.staging2.ilovetheupperwestside.com
+staging2019.ilovetheupperwestside.com
+www.staging2019.ilovetheupperwestside.com

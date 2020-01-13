@@ -1,0 +1,10 @@
+www.field59.com
+cdn.field59.com
+kmvt.cdn.field59.com
+r.l.field59.com
+live.field59.com
+player.field59.com
+redirect.field59.com
+swfs.field59.com
+vod.field59.com
+vod-qa.field59.com

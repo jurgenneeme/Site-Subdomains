@@ -1,0 +1,16 @@
+www.pinehurst.com
+V1API.pinehurst.com
+pinehurst.com
+www.pinehurst.com
+go.pinehurst.com
+home.pinehurst.com
+remac.pinehurst.com
+remdac.pinehurst.com
+reservations.pinehurst.com
+reservations.pinehurst.com
+www.reservations.pinehurst.com
+shop.pinehurst.com
+tournamentregistration.pinehurst.com
+tournamentregistration.pinehurst.com
+www.tournamentregistration.pinehurst.com
+vpn.pinehurst.com

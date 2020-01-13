@@ -1,0 +1,9 @@
+www.amoursucre.com
+api3.amoursucre.com
+assets3.amoursucre.com
+beta.amoursucre.com
+amoursucre.com
+api3.amoursucre.com
+assets3.amoursucre.com
+takeover.amoursucre.com
+www.amoursucre.com

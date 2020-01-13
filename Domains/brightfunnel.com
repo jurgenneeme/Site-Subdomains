@@ -1,0 +1,10 @@
+www.brightfunnel.com
+api.brightfunnel.com
+app.brightfunnel.com
+dev.brightfunnel.com
+help.brightfunnel.com
+info.brightfunnel.com
+munchkin.brightfunnel.com
+p1.brightfunnel.com
+pages.brightfunnel.com
+resources.brightfunnel.com

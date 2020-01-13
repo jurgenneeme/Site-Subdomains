@@ -1,0 +1,9 @@
+www.hanfordsentinel.com
+circulars.hanfordsentinel.com
+hanfordsentinel.com
+m.hanfordsentinel.com
+www.hanfordsentinel.com
+li.hanfordsentinel.com
+m.hanfordsentinel.com
+mobile.hanfordsentinel.com
+portal.hanfordsentinel.com

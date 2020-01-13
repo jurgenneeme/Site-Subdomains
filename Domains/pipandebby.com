@@ -1,0 +1,9 @@
+www.pipandebby.com
+autodiscover.pipandebby.com
+cpanel.pipandebby.com
+mail.pipandebby.com
+webdisk.pipandebby.com
+webmail.pipandebby.com
+forum.pipandebby.com
+mail.pipandebby.com
+pipebbyapp.pipandebby.com

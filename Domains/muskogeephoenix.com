@@ -1,0 +1,10 @@
+www.muskogeephoenix.com
+circulars.muskogeephoenix.com
+m.muskogeephoenix.com
+muskogeephoenix.com
+www.muskogeephoenix.com
+findnsave.muskogeephoenix.com
+login.muskogeephoenix.com
+m.muskogeephoenix.com
+photos.muskogeephoenix.com
+topagents.muskogeephoenix.com

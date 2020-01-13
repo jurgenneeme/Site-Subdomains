@@ -1,0 +1,11 @@
+www.airnow.com
+adserving.airnow.com
+api.airnow.com
+beta.airnow.com
+dashboard.airnow.com
+docs.airnow.com
+js-tag.airnow.com
+proxy.js-tag.airnow.com
+rules.airnow.com
+security.airnow.com
+sngl.xyz.airnow.com

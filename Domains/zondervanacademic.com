@@ -1,0 +1,17 @@
+www.zondervanacademic.com
+zondervanacademic.com
+production.zondervanacademic.com
+www.zondervanacademic.com
+zondervanacademic.com
+production.zondervanacademic.com
+zondervanacademic.com
+www.zondervanacademic.com
+production.zondervanacademic.com
+www.zondervanacademic.com
+courses.zondervanacademic.com
+www.courses.zondervanacademic.com
+development.zondervanacademic.com
+learn.zondervanacademic.com
+masterlectures.zondervanacademic.com
+production.zondervanacademic.com
+staging.zondervanacademic.com

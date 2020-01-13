@@ -1,0 +1,4 @@
+www.themilitarywifeandmom.com
+themilitarywifeandmom.com
+www.themilitarywifeandmom.com
+shop.themilitarywifeandmom.com

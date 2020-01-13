@@ -1,0 +1,16 @@
+www.dev7studios.com
+caroufredsel.dev7studios.com
+cdn.dev7studios.com
+cloudfront.dev7studios.com
+codebyte.dev7studios.com
+dev7studios.com
+www.dev7studios.com
+demo.dev7studios.com
+docs.dev7studios.com
+email.dev7studios.com
+nivo.dev7studios.com
+nivogallery.dev7studios.com
+nivozoom.dev7studios.com
+pico.dev7studios.com
+sendy.dev7studios.com
+support.dev7studios.com

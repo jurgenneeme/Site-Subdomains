@@ -1,0 +1,13 @@
+www.americannursetoday.com
+advisor.americannursetoday.com
+americannursetoday.com
+www.americannursetoday.com
+dev.americannursetoday.com
+dev01.americannursetoday.com
+dev2.americannursetoday.com
+go.americannursetoday.com
+new.americannursetoday.com
+resourcecenter.americannursetoday.com
+sandbox.americannursetoday.com
+sites.americannursetoday.com
+workforce.americannursetoday.com

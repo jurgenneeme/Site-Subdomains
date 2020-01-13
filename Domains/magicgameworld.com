@@ -1,0 +1,17 @@
+www.magicgameworld.com
+magicgameworld.com
+mail.magicgameworld.com
+www.magicgameworld.com
+magicgameworld.com
+webmail.magicgameworld.com
+www.magicgameworld.com
+de.magicgameworld.com
+en.magicgameworld.com
+www.en.magicgameworld.com
+en.magicgameworld.com
+www.en.magicgameworld.com
+guides.magicgameworld.com
+ns1.magicgameworld.com
+ns2.magicgameworld.com
+tr.magicgameworld.com
+webmail.magicgameworld.com

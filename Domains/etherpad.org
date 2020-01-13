@@ -1,0 +1,9 @@
+www.etherpad.org
+beta.etherpad.org
+blog.etherpad.org
+codepad.etherpad.org
+draw.etherpad.org
+beta.etherpad.org
+static.etherpad.org
+static.etherpad.org
+v.etherpad.org

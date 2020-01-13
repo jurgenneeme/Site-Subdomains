@@ -1,0 +1,13 @@
+www.cooktoria.com
+cooktoria.com
+www.cooktoria.com
+cooktoria.com
+mail.cooktoria.com
+www.cooktoria.com
+autodiscover.cooktoria.com
+cooktoria.com
+cpanel.cooktoria.com
+mail.cooktoria.com
+webdisk.cooktoria.com
+webmail.cooktoria.com
+www.cooktoria.com

@@ -1,0 +1,12 @@
+www.entheosweb.com
+blog.entheosweb.com
+shop.blog.entheosweb.com
+www.shop.blog.entheosweb.com
+entheosweb.com
+www.entheosweb.com
+shop.entheosweb.com
+staging.entheosweb.com
+templates.entheosweb.com
+templates.entheosweb.com
+webmail.templates.entheosweb.com
+www.templates.entheosweb.com

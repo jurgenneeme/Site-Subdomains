@@ -1,0 +1,16 @@
+www.newgistics.com
+admin.newgistics.com
+api.newgistics.com
+az1jenkins1.newgistics.com
+az1jenkins1.newgistics.com
+azjz1.newgistics.com
+newgistics.com
+www.newgistics.com
+email.newgistics.com
+go.newgistics.com
+mail.newgistics.com
+nethawkpilot.newgistics.com
+www.nethawkpilot.newgistics.com
+tracking.preview.newgistics.com
+smartlabelplus.newgistics.com
+tracking.newgistics.com

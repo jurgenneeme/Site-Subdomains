@@ -1,0 +1,17 @@
+www.lifehappens.org
+api.lifehappens.org
+app.lifehappens.org
+api.app.lifehappens.org
+compliancemonitor.app.lifehappens.org
+beta.lifehappens.org
+dev.lifehappens.org
+api.dev.lifehappens.org
+cm.dev.lifehappens.org
+go.lifehappens.org
+liam.lifehappens.org
+mail.lifehappens.org
+new.lifehappens.org
+lifehappens.org
+www.lifehappens.org
+shiny.lifehappens.org
+widgets.lifehappens.org

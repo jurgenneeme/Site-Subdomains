@@ -1,0 +1,11 @@
+www.activelylearn.com
+api.activelylearn.com
+ecourse.activelylearn.com
+files.activelylearn.com
+go.activelylearn.com
+help.activelylearn.com
+mathproduct.activelylearn.com
+read.activelylearn.com
+readback.activelylearn.com
+texts.activelylearn.com
+try.activelylearn.com

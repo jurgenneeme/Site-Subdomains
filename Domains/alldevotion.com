@@ -1,0 +1,15 @@
+www.alldevotion.com
+assets.alldevotion.com
+assets-staging.alldevotion.com
+blog.alldevotion.com
+alldevotion.com
+fb.alldevotion.com
+www.alldevotion.com
+fb.alldevotion.com
+www.alldevotion.com
+fb-staging.alldevotion.com
+www-staging.alldevotion.com
+o1.email1.alldevotion.com
+o2.email1.alldevotion.com
+fb.alldevotion.com
+www-staging.alldevotion.com

@@ -1,0 +1,3 @@
+www.artinamericamagazine.com
+artinamericamagazine.com
+www.artinamericamagazine.com

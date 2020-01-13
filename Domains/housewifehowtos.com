@@ -1,0 +1,17 @@
+www.housewifehowtos.com
+autodiscover.housewifehowtos.com
+cpanel.housewifehowtos.com
+mail.housewifehowtos.com
+webmail.housewifehowtos.com
+cpanel.housewifehowtos.com
+mail.housewifehowtos.com
+webdisk.housewifehowtos.com
+webmail.housewifehowtos.com
+housewifehowtos.com
+www.housewifehowtos.com
+cpanel.housewifehowtos.com
+housewifehowtos.com
+mail.housewifehowtos.com
+webdisk.housewifehowtos.com
+webmail.housewifehowtos.com
+www.housewifehowtos.com

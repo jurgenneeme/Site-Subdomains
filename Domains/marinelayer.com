@@ -1,0 +1,9 @@
+www.marinelayer.com
+marinelayer.com
+www.marinelayer.com
+checkout.marinelayer.com
+www.marinelayer.com
+custom.marinelayer.com
+email.marinelayer.com
+returns.marinelayer.com
+svopn.marinelayer.com

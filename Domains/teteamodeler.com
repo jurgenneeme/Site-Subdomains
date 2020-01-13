@@ -1,0 +1,16 @@
+www.teteamodeler.com
+boutique.teteamodeler.com
+www.boutique.teteamodeler.com
+beta2.teteamodeler.com
+teteamodeler.com
+www.teteamodeler.com
+beta2.teteamodeler.com
+static.teteamodeler.com
+teteamodeler.com
+www.teteamodeler.com
+beta2.teteamodeler.com
+beta3.teteamodeler.com
+static.teteamodeler.com
+teteamodeler.com
+www.teteamodeler.com
+static.teteamodeler.com

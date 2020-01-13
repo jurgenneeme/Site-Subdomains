@@ -1,0 +1,10 @@
+www.universityherald.com
+assets.universityherald.com
+images.universityherald.com
+image.universityherald.com
+contentvideo.universityherald.com
+images.universityherald.com
+mail.universityherald.com
+player.universityherald.com
+stat.universityherald.com
+videoimages.universityherald.com

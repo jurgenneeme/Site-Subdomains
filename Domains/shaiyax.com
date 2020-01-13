@@ -1,0 +1,10 @@
+www.shaiyax.com
+shaiyax.com
+www.shaiyax.com
+cpanel.shaiyax.com
+mail.shaiyax.com
+shaiyax.com
+webdisk.shaiyax.com
+webmail.shaiyax.com
+www.shaiyax.com
+forum.shaiyax.com

@@ -1,0 +1,15 @@
+www.informator.ua
+100pudivka.informator.ua
+3september.informator.ua
+avto.informator.ua
+bitrix.informator.ua
+dengi.informator.ua
+dp.informator.ua
+geek.informator.ua
+kiev.informator.ua
+kr.informator.ua
+nikopol.informator.ua
+tech.informator.ua
+ticket.informator.ua
+informator.ua
+www.informator.ua

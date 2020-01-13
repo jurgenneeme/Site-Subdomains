@@ -1,0 +1,13 @@
+www.demandgenreport.com
+beta.mediakit.demandgenreport.com
+mediakit.demandgenreport.com
+demandgenreport.com
+www.demandgenreport.com
+dev.demandgenreport.com
+eml.demandgenreport.com
+mediakit.demandgenreport.com
+beta.mediakit.demandgenreport.com
+webinars.demandgenreport.com
+www1.demandgenreport.com
+www3.demandgenreport.com
+www4.demandgenreport.com

@@ -1,0 +1,14 @@
+www.botick.com
+botick.com
+www.botick.com
+es.botick.com
+fandogh.botick.com
+files.botick.com
+files.botick.com
+www.files.botick.com
+files2.botick.com
+files2.botick.com
+www.files2.botick.com
+minio.botick.com
+recommender.botick.com
+redash.botick.com

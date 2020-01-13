@@ -1,0 +1,16 @@
+www.wp-puzzle.com
+wp-puzzle.com
+www.wp-puzzle.com
+demo.wp-puzzle.com
+www.demo.wp-puzzle.com
+relinpro.demo.wp-puzzle.com
+theurban.demo.wp-puzzle.com
+design.wp-puzzle.com
+old.wp-puzzle.com
+support.wp-puzzle.com
+support.wp-puzzle.com
+www.support.wp-puzzle.com
+test.wp-puzzle.com
+www.test.wp-puzzle.com
+themes.wp-puzzle.com
+updates.wp-puzzle.com

@@ -1,0 +1,11 @@
+www.dsnews.com
+admin.dsnews.com
+admin.dsnews.com
+forward.dsnews.com
+link.dsnews.com
+dsnews.com
+www.dsnews.com
+digital.dsnews.com
+forward.dsnews.com
+link.dsnews.com
+upload.dsnews.com

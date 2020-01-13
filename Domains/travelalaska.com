@@ -1,0 +1,10 @@
+www.travelalaska.com
+travelalaska.com
+www.travelalaska.com
+secure.travelalaska.com
+www.travelalaska.com
+email.travelalaska.com
+german.travelalaska.com
+get.travelalaska.com
+secure.travelalaska.com
+test.travelalaska.com

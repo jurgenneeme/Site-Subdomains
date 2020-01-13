@@ -1,0 +1,15 @@
+www.websitehostingrating.com
+websitehostingrating.com
+www.websitehostingrating.com
+member.websitehostingrating.com
+www.member.websitehostingrating.com
+siteground-test-site.websitehostingrating.com
+www.siteground-test-site.websitehostingrating.com
+staging1.websitehostingrating.com
+www.staging1.websitehostingrating.com
+staging2.websitehostingrating.com
+www.staging2.websitehostingrating.com
+staging3.websitehostingrating.com
+www.staging3.websitehostingrating.com
+static.websitehostingrating.com
+test.websitehostingrating.com

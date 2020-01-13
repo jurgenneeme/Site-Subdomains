@@ -1,0 +1,11 @@
+www.retailwire.com
+new.retailwire.com
+retailwire.com
+www.retailwire.com
+retailwire.com
+www.retailwire.com
+dev.retailwire.com
+l.retailwire.com
+m.retailwire.com
+mpapers.retailwire.com
+new.retailwire.com

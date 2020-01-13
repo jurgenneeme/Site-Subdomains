@@ -1,0 +1,9 @@
+www.fevte.com
+7jinyang.fevte.com
+bbs.fevte.com
+fevte.com
+www.fevte.com
+home.fevte.com
+old.fevte.com
+uc.fevte.com
+vip.fevte.com

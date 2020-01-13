@@ -1,0 +1,9 @@
+www.nahnews.org
+backend.nahnews.org
+cl.nahnews.org
+lenta.nahnews.org
+news.nahnews.org
+nahnews.org
+www.nahnews.org
+social.nahnews.org
+static.nahnews.org

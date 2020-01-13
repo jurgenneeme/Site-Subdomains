@@ -1,0 +1,17 @@
+www.ich.org
+admin.ich.org
+admin.ich.org
+www.admin.ich.org
+database.ich.org
+database.ich.org
+www.database.ich.org
+estri.ich.org
+groups.ich.org
+mail.ich.org
+mx.ich.org
+ich.org
+share.ich.org
+ich.org
+www.ich.org
+private.ich.org
+share.ich.org

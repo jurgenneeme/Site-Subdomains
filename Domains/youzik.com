@@ -1,0 +1,12 @@
+www.youzik.com
+youzik.com
+www.youzik.com
+a.youzik.com
+b.youzik.com
+blog.youzik.com
+c.youzik.com
+cdn.youzik.com
+d.youzik.com
+dl.youzik.com
+e.youzik.com
+f.youzik.com

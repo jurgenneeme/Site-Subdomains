@@ -1,0 +1,10 @@
+www.worldsoccertalk.com
+worldsoccertalk.com
+www.worldsoccertalk.com
+email.worldsoccertalk.com
+es.worldsoccertalk.com
+forums.worldsoccertalk.com
+m.worldsoccertalk.com
+mlspodcast.worldsoccertalk.com
+pages.worldsoccertalk.com
+video.worldsoccertalk.com

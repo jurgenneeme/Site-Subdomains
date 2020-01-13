@@ -1,0 +1,13 @@
+www.weartesters.com
+cdn.weartesters.com
+box.weartesters.com
+weartesters.com
+www.weartesters.com
+mail.weartesters.com
+weartesters.com
+www.weartesters.com
+weartesters.com
+www.weartesters.com
+go.weartesters.com
+mail.weartesters.com
+notifications.weartesters.com

@@ -1,0 +1,9 @@
+www.mojewypieki.com
+dev.mojewypieki.com
+m.mojewypieki.com
+mojewypieki.com
+static.mojewypieki.com
+www.mojewypieki.com
+mail.mojewypieki.com
+refwkk.mojewypieki.com
+static.mojewypieki.com

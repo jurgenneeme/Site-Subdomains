@@ -1,0 +1,12 @@
+www.deutschegrammophon.com
+album.deutschegrammophon.com
+app.deutschegrammophon.com
+buylinks.deutschegrammophon.com
+discovery.deutschegrammophon.com
+email.deutschegrammophon.com
+games.deutschegrammophon.com
+history.deutschegrammophon.com
+mail.deutschegrammophon.com
+my.deutschegrammophon.com
+press.deutschegrammophon.com
+store.deutschegrammophon.com

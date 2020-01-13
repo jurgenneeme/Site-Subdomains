@@ -1,0 +1,14 @@
+www.cititrends.com
+checkout.cititrends.com
+cititrends.com
+www.cititrends.com
+ir.cititrends.com
+jobsearch.cititrends.com
+locations.cititrends.com
+mail.cititrends.com
+vpn2.cititrends.com
+www.vpn2.cititrends.com
+webmail.cititrends.com
+webmail-ny.cititrends.com
+webmail-ny.cititrends.com
+www.webmail-ny.cititrends.com

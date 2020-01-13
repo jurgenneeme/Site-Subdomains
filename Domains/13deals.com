@@ -1,0 +1,9 @@
+13deals.com
+www.13deals.com
+images.13deals.com
+pets.13deals.com
+www.pets.13deals.com
+specials.13deals.com
+specials.13deals.com
+www.specials.13deals.com
+style.13deals.com

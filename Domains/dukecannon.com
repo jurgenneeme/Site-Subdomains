@@ -1,0 +1,12 @@
+www.dukecannon.com
+catalog.dukecannon.com
+dukecannon.com
+www.dukecannon.com
+link.dukecannon.com
+mail.dukecannon.com
+orders.dukecannon.com
+pos.dukecannon.com
+reps.dukecannon.com
+shop.dukecannon.com
+todo.dukecannon.com
+wholesale.dukecannon.com

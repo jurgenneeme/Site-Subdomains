@@ -1,0 +1,11 @@
+dev.publisher-news.com
+publisher-news.com
+click.publisher-news.com
+click.publisher-news.com
+go.publisher-news.com
+click.publisher-news.com
+dev.publisher-news.com
+go.publisher-news.com
+publisher-news.com
+www.publisher-news.com
+dev.publisher-news.com

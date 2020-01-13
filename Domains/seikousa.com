@@ -1,0 +1,15 @@
+www.seikousa.com
+ananta.seikousa.com
+www.ananta.seikousa.com
+seikousa.com
+www.seikousa.com
+hxbgxi.seikousa.com
+mail.seikousa.com
+scaappt.seikousa.com
+www.scaappt.seikousa.com
+scamdm.seikousa.com
+www.scamdm.seikousa.com
+scawifi.seikousa.com
+www.scawifi.seikousa.com
+sportura.seikousa.com
+www.sportura.seikousa.com

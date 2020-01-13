@@ -1,0 +1,11 @@
+www.nhnieuws.nl
+media.nhnieuws.nl
+nhnieuws.nl
+www.nhnieuws.nl
+staging.nhnieuws.nl
+uat.nhnieuws.nl
+www.nhnieuws.nl
+uat.nhnieuws.nl
+www.nhnieuws.nl
+rss.nhnieuws.nl
+staging.nhnieuws.nl

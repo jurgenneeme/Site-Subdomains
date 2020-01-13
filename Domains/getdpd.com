@@ -1,0 +1,15 @@
+www.getdpd.com
+api.getdpd.com
+api.getdpd.com
+www.api.getdpd.com
+app.getdpd.com
+www.app.getdpd.com
+blog.getdpd.com
+www.blog.getdpd.com
+getdpd.com
+www.getdpd.com
+ftp.getdpd.com
+status.getdpd.com
+status.getdpd.com
+www.status.getdpd.com
+support.getdpd.com

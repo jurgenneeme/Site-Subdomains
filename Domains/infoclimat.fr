@@ -1,0 +1,17 @@
+www.infoclimat.fr
+asso.infoclimat.fr
+chat.infoclimat.fr
+forum.infoclimat.fr
+forums.infoclimat.fr
+mobile.infoclimat.fr
+mobile-api.infoclimat.fr
+secure.infoclimat.fr
+secure.infoclimat.fr
+www.secure.infoclimat.fr
+server1.infoclimat.fr
+server5.infoclimat.fr
+server6.infoclimat.fr
+server7.infoclimat.fr
+srx-nginx-2.infoclimat.fr
+www3.infoclimat.fr
+www3v5.infoclimat.fr

@@ -1,0 +1,16 @@
+www.wxpython.org
+wxpython.org
+www.wxpython.org
+buildbot.wxpython.org
+discuss.wxpython.org
+discuss.wxpython.org
+www.discuss.wxpython.org
+docs.wxpython.org
+docs.wxpython.org
+www.docs.wxpython.org
+extras.wxpython.org
+extras.wxpython.org
+www.extras.wxpython.org
+wiki.wxpython.org
+wiki.wxpython.org
+www.wiki.wxpython.org
