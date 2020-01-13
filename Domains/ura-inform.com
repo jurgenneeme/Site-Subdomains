@@ -1,0 +1,11 @@
+www.ura-inform.com
+box.ura-inform.com
+crimea.ura-inform.com
+en.ura-inform.com
+football.ura-inform.com
+img.ura-inform.com
+mail.ura-inform.com
+nut.ura-inform.com
+onion.ura-inform.com
+pepper.ura-inform.com
+yalta.ura-inform.com

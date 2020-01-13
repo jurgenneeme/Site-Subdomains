@@ -1,0 +1,4 @@
+www.rpm.org
+ftp.rpm.org
+lists.rpm.org
+wiki.rpm.org

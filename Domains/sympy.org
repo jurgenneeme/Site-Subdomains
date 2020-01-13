@@ -1,0 +1,8 @@
+www.sympy.org
+docs.sympy.org
+empathy.sympy.org
+gamma.sympy.org
+live.sympy.org
+planet.sympy.org
+reviews.sympy.org
+wiki.sympy.org

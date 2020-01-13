@@ -1,0 +1,10 @@
+www.openpgp.org
+keys.openpgp.org
+edge.keys.openpgp.org
+mail.keys.openpgp.org
+monitor.keys.openpgp.org
+mta-sts.keys.openpgp.org
+testing.keys.openpgp.org
+testing2.keys.openpgp.org
+openpgp.org
+www.openpgp.org

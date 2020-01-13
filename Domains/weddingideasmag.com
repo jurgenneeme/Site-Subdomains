@@ -1,0 +1,12 @@
+www.weddingideasmag.com
+blog.weddingideasmag.com
+weddingideasmag.com
+www.weddingideasmag.com
+blog.weddingideasmag.com
+weddingideasmag.com
+www.blog.weddingideasmag.com
+www.weddingideasmag.com
+fahmta.weddingideasmag.com
+venues.weddingideasmag.com
+venues.weddingideasmag.com
+www.venues.weddingideasmag.com

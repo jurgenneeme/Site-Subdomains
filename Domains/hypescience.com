@@ -1,0 +1,12 @@
+www.hypescience.com
+hypescience.com
+www.hypescience.com
+dev.hypescience.com
+www.dev.hypescience.com
+host.hypescience.com
+www.host.hypescience.com
+host2.hypescience.com
+www.host2.hypescience.com
+shop.hypescience.com
+shop.hypescience.com
+www.shop.hypescience.com

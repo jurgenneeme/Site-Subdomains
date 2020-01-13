@@ -1,0 +1,14 @@
+www.klangoo.com
+cdn.klangoo.com
+connect.klangoo.com
+magnetapi.klangoo.com
+magnetrack.klangoo.com
+support.klangoo.com
+connect.klangoo.com
+demo.klangoo.com
+ftps.klangoo.com
+magnetapi.klangoo.com
+magnetapi2.klangoo.com
+magnetrack.klangoo.com
+support.klangoo.com
+videodemo.klangoo.com

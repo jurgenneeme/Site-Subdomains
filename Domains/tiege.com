@@ -1,0 +1,15 @@
+www.tiege.com
+checkout.tiege.com
+tiege.com
+www.tiege.com
+get.tiege.com
+www.get.tiege.com
+hq.tiege.com
+hq.tiege.com
+www.hq.tiege.com
+hqdev.tiege.com
+hqdev.tiege.com
+www.hqdev.tiege.com
+rs.tiege.com
+support.tiege.com
+woocomm.tiege.com

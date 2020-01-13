@@ -1,0 +1,11 @@
+www.ezega.com
+businessguide.ezega.com
+businesstest.ezega.com
+ezega.com
+www.ezega.com
+host1.ezega.com
+host1.ezega.com
+www.host1.ezega.com
+lists.ezega.com
+mail.ezega.com
+webmail.ezega.com

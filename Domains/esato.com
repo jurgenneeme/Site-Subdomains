@@ -1,0 +1,14 @@
+www.esato.com
+blog.esato.com
+esato.com
+www.esato.com
+d.esato.com
+graph.esato.com
+members.esato.com
+mobile.esato.com
+pagead2.esato.com
+smtp.esato.com
+static.esato.com
+wap.esato.com
+www.wap.esato.com
+xxx.esato.com

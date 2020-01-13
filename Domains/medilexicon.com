@@ -1,0 +1,14 @@
+app.medilexicon.com
+medilexicon.com
+www.medilexicon.com
+app.medilexicon.com
+app.medilexicon.com
+medilexicon.com
+www.medilexicon.com
+medilexicon.com
+www.medilexicon.com
+app.medilexicon.com
+cdn.medilexicon.com
+secure.medilexicon.com
+www.medilexicon.com
+staging.medilexicon.com

@@ -1,0 +1,2 @@
+www.thecornerstoneforteachers.com
+devotions.thecornerstoneforteachers.com

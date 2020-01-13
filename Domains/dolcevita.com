@@ -1,0 +1,10 @@
+www.dolcevita.com
+assets.dolcevita.com
+autodiscover.dolcevita.com
+dolcevita.com
+www.dolcevita.com
+live.dolcevita.com
+secure.dolcevita.com
+shop.dolcevita.com
+www.dolcevita.com
+services.dolcevita.com

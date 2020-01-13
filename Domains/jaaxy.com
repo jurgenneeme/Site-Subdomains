@@ -1,0 +1,15 @@
+www.jaaxy.com
+admin.jaaxy.com
+my.jaaxy.com
+order.jaaxy.com
+admin.jaaxy.com
+jaaxy.com
+my.jaaxy.com
+order.jaaxy.com
+www.jaaxy.com
+jaaxy.com
+my.jaaxy.com
+order.jaaxy.com
+www.jaaxy.com
+my.jaaxy.com
+order.jaaxy.com

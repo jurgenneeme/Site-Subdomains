@@ -1,0 +1,8 @@
+www.quicktemplatefinder.com
+anx.quicktemplatefinder.com
+download.quicktemplatefinder.com
+free.quicktemplatefinder.com
+quicktemplatefinder.com
+www.quicktemplatefinder.com
+download.quicktemplatefinder.com
+free.quicktemplatefinder.com

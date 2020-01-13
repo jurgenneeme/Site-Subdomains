@@ -1,0 +1,16 @@
+www.xxxymovies.com
+xxxymovies.com
+mob.xxxymovies.com
+m.xxxymovies.com
+www.xxxymovies.com
+xxxymovies.com
+m.xxxymovies.com
+www.xxxymovies.com
+xxxymovies.com
+www.xxxymovies.com
+cdn5.xxxymovies.com
+cdn6.xxxymovies.com
+cdn5.xxxymovies.com
+cdn6.xxxymovies.com
+m.xxxymovies.com
+mx.xxxymovies.com

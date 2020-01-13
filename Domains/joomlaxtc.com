@@ -1,0 +1,14 @@
+www.joomlaxtc.com
+joomlaxtc.com
+www.joomlaxtc.com
+joomlaxtc.com
+mail.joomlaxtc.com
+www.joomlaxtc.com
+demo.joomlaxtc.com
+demo.joomlaxtc.com
+www.demo.joomlaxtc.com
+demo.joomlaxtc.com
+mail.demo.joomlaxtc.com
+www.demo.joomlaxtc.com
+email.joomlaxtc.com
+www.email.joomlaxtc.com

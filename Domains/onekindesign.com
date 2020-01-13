@@ -1,0 +1,9 @@
+www.onekindesign.com
+cdn.onekindesign.com
+cdn.dev.onekindesign.com
+dev.onekindesign.com
+cdn.onekindesign.com
+onekindesign.com
+www.onekindesign.com
+dev.onekindesign.com
+cdn.dev.onekindesign.com

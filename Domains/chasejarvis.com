@@ -1,0 +1,14 @@
+www.chasejarvis.com
+blog.chasejarvis.com
+blogpics.chasejarvis.com
+clients.chasejarvis.com
+dev.chasejarvis.com
+iphone.chasejarvis.com
+pdf.chasejarvis.com
+podcast.chasejarvis.com
+press.chasejarvis.com
+s100.chasejarvis.com
+www.s100.chasejarvis.com
+shop.chasejarvis.com
+sp.chasejarvis.com
+staging.chasejarvis.com

@@ -1,0 +1,16 @@
+www.mshanken.com
+geo.api.mshanken.com
+mobile.wine.api.mshanken.com
+assets.mshanken.com
+events.mshanken.com
+help.mshanken.com
+illy.mshanken.com
+img.mshanken.com
+newsletters.mshanken.com
+outbound-email.mshanken.com
+portal.mshanken.com
+portal.mshanken.com
+www.portal.mshanken.com
+remote.mshanken.com
+www.remote.mshanken.com
+video.mshanken.com

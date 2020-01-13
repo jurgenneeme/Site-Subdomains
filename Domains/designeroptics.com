@@ -1,0 +1,10 @@
+www.designeroptics.com
+blog.designeroptics.com
+designeroptics.com
+www.designeroptics.com
+inventory.designeroptics.com
+ns1.designeroptics.com
+www.ns1.designeroptics.com
+shop.designeroptics.com
+shop.designeroptics.com
+www.shop.designeroptics.com

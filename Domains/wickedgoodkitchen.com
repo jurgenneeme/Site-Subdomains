@@ -1,0 +1,13 @@
+www.wickedgoodkitchen.com
+autodiscover.wickedgoodkitchen.com
+cpanel.wickedgoodkitchen.com
+mail.wickedgoodkitchen.com
+staging.wickedgoodkitchen.com
+webdisk.wickedgoodkitchen.com
+webmail.wickedgoodkitchen.com
+wickedgoodkitchen.com
+www.staging.wickedgoodkitchen.com
+www.wickedgoodkitchen.com
+wic.wickedgoodkitchen.com
+wic.wickedgoodkitchen.com
+www.wic.wickedgoodkitchen.com

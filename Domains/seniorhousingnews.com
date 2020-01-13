@@ -1,0 +1,13 @@
+www.seniorhousingnews.com
+build.seniorhousingnews.com
+info.seniorhousingnews.com
+resources.seniorhousingnews.com
+seniorhousingnews.com
+www.seniorhousingnews.com
+dished.seniorhousingnews.com
+info.seniorhousingnews.com
+innovation.seniorhousingnews.com
+jobs.seniorhousingnews.com
+leadership.seniorhousingnews.com
+resources.seniorhousingnews.com
+summit.seniorhousingnews.com

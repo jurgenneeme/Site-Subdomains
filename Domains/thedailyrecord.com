@@ -1,0 +1,15 @@
+www.thedailyrecord.com
+autodiscover.thedailyrecord.com
+classifieds.thedailyrecord.com
+thedailyrecord.com
+www.thedailyrecord.com
+foreclosures.thedailyrecord.com
+myaccount.thedailyrecord.com
+news.thedailyrecord.com
+news.thedailyrecord.com
+www.news.thedailyrecord.com
+publicnotices.thedailyrecord.com
+register.thedailyrecord.com
+renew.thedailyrecord.com
+staging.thedailyrecord.com
+subscribe.thedailyrecord.com

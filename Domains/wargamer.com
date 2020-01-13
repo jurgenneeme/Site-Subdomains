@@ -1,0 +1,16 @@
+www.wargamer.com
+ad.wargamer.com
+wargamer.com
+www.wargamer.com
+www.cossacks2.wargamer.com
+www.crusaderkings.wargamer.com
+devel.wargamer.com
+www.e3.wargamer.com
+ftp.wargamer.com
+hosted.wargamer.com
+mail.wargamer.com
+old.wargamer.com
+www.old.wargamer.com
+schwerpunkt.wargamer.com
+www.schwerpunkt.wargamer.com
+stage.wargamer.com

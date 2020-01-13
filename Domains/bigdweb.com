@@ -1,0 +1,15 @@
+www.bigdweb.com
+blog.bigdweb.com
+blog.bigdweb.com
+www.blog.bigdweb.com
+bigdweb.com
+m1x1.bigdweb.com
+bigdweb.com
+www.bigdweb.com
+ii.bigdweb.com
+www.bigdweb.com
+emails.bigdweb.com
+enews.bigdweb.com
+horse.bigdweb.com
+ii.bigdweb.com
+m1x1.bigdweb.com

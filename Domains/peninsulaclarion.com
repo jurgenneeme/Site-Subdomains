@@ -1,0 +1,11 @@
+www.peninsulaclarion.com
+circulars.peninsulaclarion.com
+customer.peninsulaclarion.com
+eedition.peninsulaclarion.com
+events.peninsulaclarion.com
+featuredemployer.peninsulaclarion.com
+local.peninsulaclarion.com
+login.peninsulaclarion.com
+realestate.peninsulaclarion.com
+static.peninsulaclarion.com
+subscribers.peninsulaclarion.com

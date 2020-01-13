@@ -1,0 +1,14 @@
+www.remedygames.com
+autodiscover.remedygames.com
+dialin.remedygames.com
+lyncdiscover.remedygames.com
+meet.remedygames.com
+sip.remedygames.com
+remedygames.com
+www.remedygames.com
+community.remedygames.com
+ext-ns.remedygames.com
+investors.remedygames.com
+lyncdiscover.remedygames.com
+meet.remedygames.com
+sip.remedygames.com

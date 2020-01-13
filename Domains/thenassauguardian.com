@@ -1,0 +1,12 @@
+assets.thenassauguardian.com
+thenassauguardian.com
+www.thenassauguardian.com
+assets.thenassauguardian.com
+cdn.thenassauguardian.com
+assets.thenassauguardian.com
+thenassauguardian.com
+www.thenassauguardian.com
+thenassauguardian.com
+www.thenassauguardian.com
+qa.thenassauguardian.com
+www.qa.thenassauguardian.com

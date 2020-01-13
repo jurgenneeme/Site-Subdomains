@@ -1,0 +1,9 @@
+www.wickedthemusical.com
+mobile.wickedthemusical.com
+wickedthemusical.com
+www.wickedthemusical.com
+wickedthemusical.com
+www.wickedthemusical.com
+gifs.wickedthemusical.com
+media.wickedthemusical.com
+mobile.wickedthemusical.com

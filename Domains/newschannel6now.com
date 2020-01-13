@@ -1,0 +1,9 @@
+www.newschannel6now.com
+newschannel6now.com
+www.newschannel6now.com
+m.newschannel6now.com
+www.newschannel6now.com
+dub.newschannel6now.com
+link.newschannel6now.com
+m.newschannel6now.com
+sixpix.newschannel6now.com

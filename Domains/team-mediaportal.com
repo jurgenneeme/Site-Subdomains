@@ -1,0 +1,16 @@
+www.team-mediaportal.com
+team-mediaportal.com
+www.team-mediaportal.com
+dl.team-mediaportal.com
+forum.team-mediaportal.com
+install.team-mediaportal.com
+issues.team-mediaportal.com
+logomanager.team-mediaportal.com
+mantis.team-mediaportal.com
+promotion.team-mediaportal.com
+svn.team-mediaportal.com
+teamcity.team-mediaportal.com
+tvengine3.team-mediaportal.com
+wiki.team-mediaportal.com
+xf2.team-mediaportal.com
+xf21.team-mediaportal.com

@@ -1,0 +1,16 @@
+www.hourdetroit.com
+autodiscover.hourdetroit.com
+AutoDiscover.hourdetroit.com
+hdexchange.hourdetroit.com
+autodiscover.hourdetroit.com
+hdexchange.hourdetroit.com
+hourdetroit.com
+www.hourdetroit.com
+hdexchange.hourdetroit.com
+hostmaster.hourdetroit.com
+info.hourdetroit.com
+interjet.hourdetroit.com
+mail.hourdetroit.com
+ns1.hourdetroit.com
+ns2.hourdetroit.com
+rivista-cdn.hourdetroit.com

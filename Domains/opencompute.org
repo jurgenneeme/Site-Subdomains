@@ -1,0 +1,12 @@
+www.opencompute.org
+files.opencompute.org
+lists.opencompute.org
+mail.opencompute.org
+mirror.opencompute.org
+onie.opencompute.org
+pad.opencompute.org
+registration.opencompute.org
+registration.opencompute.org
+www.registration.opencompute.org
+staging.opencompute.org
+summit.opencompute.org

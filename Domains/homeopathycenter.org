@@ -1,0 +1,5 @@
+www.homeopathycenter.org
+dev.homeopathycenter.org
+homeopathycenter.org
+www.homeopathycenter.org
+staging.homeopathycenter.org

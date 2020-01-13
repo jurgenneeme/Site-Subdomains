@@ -1,0 +1,10 @@
+www.samatak.com
+mail.samatak.com
+samatak.com
+www.samatak.com
+cpanel.samatak.com
+mail.samatak.com
+samatak.com
+webdisk.samatak.com
+webmail.samatak.com
+www.samatak.com

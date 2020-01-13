@@ -1,0 +1,14 @@
+www.zipbooks.com
+admin.zipbooks.com
+api.zipbooks.com
+app.zipbooks.com
+beta.zipbooks.com
+cloud-api.zipbooks.com
+developer.zipbooks.com
+help.zipbooks.com
+pros.zipbooks.com
+public.zipbooks.com
+public-beta.zipbooks.com
+public-stage.zipbooks.com
+sendgrid.zipbooks.com
+stage.zipbooks.com

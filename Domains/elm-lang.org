@@ -1,0 +1,13 @@
+www.elm-lang.org
+alpha.elm-lang.org
+debug.elm-lang.org
+discourse.elm-lang.org
+experiment.elm-lang.org
+foundation.elm-lang.org
+guide.elm-lang.org
+install.elm-lang.org
+elm-lang.org
+www.elm-lang.org
+package.elm-lang.org
+planet.elm-lang.org
+worker.elm-lang.org

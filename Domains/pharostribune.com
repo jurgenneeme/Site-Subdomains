@@ -1,0 +1,14 @@
+www.pharostribune.com
+circulars.pharostribune.com
+m.pharostribune.com
+pharostribune.com
+www.pharostribune.com
+coupons.pharostribune.com
+findnsave.pharostribune.com
+live.pharostribune.com
+login.pharostribune.com
+m.pharostribune.com
+marketplace.pharostribune.com
+newspaperads.pharostribune.com
+obituaries.pharostribune.com
+photos.pharostribune.com

@@ -1,0 +1,15 @@
+www.ata.org
+azwalk.ata.org
+bike.ata.org
+dev.ata.org
+donations.ata.org
+donations-staging.ata.org
+gw.ata.org
+mail.ata.org
+ns.ata.org
+oldsite.ata.org
+ata.org
+www.ata.org
+ringingears.ata.org
+secure.ata.org
+walk.ata.org

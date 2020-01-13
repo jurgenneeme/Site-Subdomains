@@ -1,0 +1,14 @@
+www.tdawgsworld.com
+autodiscover.tdawgsworld.com
+cpanel.tdawgsworld.com
+mail.tdawgsworld.com
+tdawgsworld.com
+webdisk.tdawgsworld.com
+webmail.tdawgsworld.com
+www.tdawgsworld.com
+cpanel.tdawgsworld.com
+mail.tdawgsworld.com
+tdawgsworld.com
+webdisk.tdawgsworld.com
+webmail.tdawgsworld.com
+www.tdawgsworld.com

@@ -1,0 +1,17 @@
+www.dica.gov.mm
+app.dica.gov.mm
+bo.dica.gov.mm
+bo.dica.gov.mm
+www.bo.dica.gov.mm
+ims.dica.gov.mm
+www.ims.dica.gov.mm
+mail.dica.gov.mm
+dica.gov.mm
+www.dica.gov.mm
+dica.gov.mm
+newsite.dica.gov.mm
+www.dica.gov.mm
+myco.dica.gov.mm
+www.myco.dica.gov.mm
+myco.dica.gov.mm
+www.myco.dica.gov.mm

@@ -1,0 +1,13 @@
+www.kalzumeus.com
+images1.kalzumeus.com
+images2.kalzumeus.com
+kalzumeus.com
+www.kalzumeus.com
+kalzumeus.com
+www.kalzumeus.com
+media.kalzumeus.com
+podcasts.kalzumeus.com
+training.kalzumeus.com
+training.kalzumeus.com
+www.training.kalzumeus.com
+utility.kalzumeus.com

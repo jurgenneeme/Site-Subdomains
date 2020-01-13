@@ -1,0 +1,17 @@
+www.laraveldaily.com
+laraveldaily.com
+www.laraveldaily.com
+courses.laraveldaily.com
+developerhourlyrate.laraveldaily.com
+mail.laraveldaily.com
+flightschool.staging.laraveldaily.com
+linksletter.staging.laraveldaily.com
+lms.staging.laraveldaily.com
+primecrm.staging.laraveldaily.com
+relaycrm.staging.laraveldaily.com
+test-asana.laraveldaily.com
+api.test-detrapm.laraveldaily.com
+test-kilian.laraveldaily.com
+api.test-kilian.laraveldaily.com
+test-kilian-api.laraveldaily.com
+test-saas.laraveldaily.com

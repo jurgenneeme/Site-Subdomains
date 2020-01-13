@@ -1,0 +1,13 @@
+www.laprogressive.com
+laprogressive.com
+www.laprogressive.com
+laprogressive.com
+maxcdn1.laprogressive.com
+maxcdn2.laprogressive.com
+maxcdn3.laprogressive.com
+maxcdn4.laprogressive.com
+www.laprogressive.com
+maxcdn1.laprogressive.com
+maxcdn2.laprogressive.com
+maxcdn3.laprogressive.com
+maxcdn4.laprogressive.com

@@ -1,0 +1,10 @@
+www.jewish.ru
+api.jewish.ru
+apps.jewish.ru
+apps.jewish.ru
+www.apps.jewish.ru
+root.jewish.ru
+stat.jewish.ru
+statws.jewish.ru
+jewish.ru
+www.jewish.ru

@@ -1,0 +1,9 @@
+www.bradblog.com
+bradblog.com
+www.bradblog.com
+bradblog.com
+greennews.bradblog.com
+www.bradblog.com
+greennews.bradblog.com
+mail.bradblog.com
+test.bradblog.com

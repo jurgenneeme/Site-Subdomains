@@ -1,0 +1,7 @@
+www.simpleisbetterthancomplex.com
+colossus.simpleisbetterthancomplex.com
+simpleisbetterthancomplex.com
+www.simpleisbetterthancomplex.com
+community.simpleisbetterthancomplex.com
+medium.simpleisbetterthancomplex.com
+www.medium.simpleisbetterthancomplex.com

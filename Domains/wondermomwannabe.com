@@ -1,0 +1,12 @@
+www.wondermomwannabe.com
+cdn.wondermomwannabe.com
+cdn-0.wondermomwannabe.com
+cdn-1.wondermomwannabe.com
+cdn-2.wondermomwannabe.com
+cdn-3.wondermomwannabe.com
+cdn-4.wondermomwannabe.com
+cdn-5.wondermomwannabe.com
+cdn-6.wondermomwannabe.com
+cdn-7.wondermomwannabe.com
+wondermomwannabe.com
+www.wondermomwannabe.com
