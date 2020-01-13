@@ -1,0 +1,9 @@
+www.wickedlasers.com
+ci.wickedlasers.com
+coffeelake.wickedlasers.com
+wickedlasers.com
+www.wickedlasers.com
+kabylake.wickedlasers.com
+m.wickedlasers.com
+production.wickedlasers.com
+support.wickedlasers.com

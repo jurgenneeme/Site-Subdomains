@@ -1,0 +1,12 @@
+www.andrewzimmern.com
+andrewzimmern.com
+www.andrewzimmern.com
+andrewzimmern.com
+cpanel.andrewzimmern.com
+mail.andrewzimmern.com
+webdisk.andrewzimmern.com
+webmail.andrewzimmern.com
+www.andrewzimmern.com
+shop.andrewzimmern.com
+www.shop.andrewzimmern.com
+vpn.andrewzimmern.com

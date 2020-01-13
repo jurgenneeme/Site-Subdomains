@@ -1,0 +1,10 @@
+www.haloscan.com
+haloscan.com
+mail.haloscan.com
+www.haloscan.com
+cpanel.haloscan.com
+haloscan.com
+mail.haloscan.com
+webdisk.haloscan.com
+webmail.haloscan.com
+www.haloscan.com

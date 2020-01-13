@@ -1,0 +1,10 @@
+www.godt.no
+cdn.godt.no
+cis.godt.no
+helios.godt.no
+id.godt.no
+id-pre.godt.no
+new.godt.no
+godt.no
+www.godt.no
+static.godt.no

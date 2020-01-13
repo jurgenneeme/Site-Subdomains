@@ -1,0 +1,13 @@
+www.loungeunderwear.com
+aus.loungeunderwear.com
+loungeunderwear.com
+www.loungeunderwear.com
+de.loungeunderwear.com
+eu.loungeunderwear.com
+fr.loungeunderwear.com
+helphub.loungeunderwear.com
+int.loungeunderwear.com
+try.loungeunderwear.com
+uk.loungeunderwear.com
+us.loungeunderwear.com
+usa.loungeunderwear.com

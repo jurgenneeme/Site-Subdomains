@@ -1,0 +1,14 @@
+www.frprn.com
+cdn1.frprn.com
+cdn1.frprn.com
+www.cdn1.frprn.com
+cdn2.frprn.com
+cdn2.frprn.com
+www.cdn2.frprn.com
+frprn.com
+www.frprn.com
+m.frprn.com
+www.m.frprn.com
+mail.frprn.com
+ns0.frprn.com
+ns1.frprn.com

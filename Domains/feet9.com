@@ -1,0 +1,17 @@
+www.feet9.com
+cdn.feet9.com
+cdn.feet9.com
+www.cdn.feet9.com
+feet9.com
+www.feet9.com
+fr.feet9.com
+fr.feet9.com
+www.fr.feet9.com
+hxltr.feet9.com
+www.live.feet9.com
+live.feet9.com
+www.live.feet9.com
+lives.feet9.com
+www.lives.feet9.com
+members.feet9.com
+thumbs.feet9.com

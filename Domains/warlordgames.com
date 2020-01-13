@@ -1,0 +1,12 @@
+www.warlordgames.com
+antares.warlordgames.com
+articles.warlordgames.com
+choose.warlordgames.com
+warlordgames.com
+www.warlordgames.com
+play.warlordgames.com
+shop.warlordgames.com
+store.warlordgames.com
+www.store.warlordgames.com
+support.warlordgames.com
+us-store.warlordgames.com

@@ -1,0 +1,10 @@
+www.golaravel.com
+docs.golaravel.com
+down.golaravel.com
+image.golaravel.com
+lumen.golaravel.com
+php.golaravel.com
+phptherightway.golaravel.com
+v3.golaravel.com
+v4.golaravel.com
+wenda.golaravel.com

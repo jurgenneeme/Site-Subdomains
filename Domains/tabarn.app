@@ -1,0 +1,12 @@
+www.tabarn.app
+tabarn.app
+www.tabarn.app
+cpanel.tabarn.app
+mail.tabarn.app
+tabarn.app
+webdisk.tabarn.app
+webmail.tabarn.app
+www.tabarn.app
+cdn.tabarn.app
+ds.tabarn.app
+go.tabarn.app

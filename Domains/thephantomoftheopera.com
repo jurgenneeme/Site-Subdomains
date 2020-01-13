@@ -1,0 +1,12 @@
+www.thephantomoftheopera.com
+cdn.thephantomoftheopera.com
+dev.thephantomoftheopera.com
+singforme.thephantomoftheopera.com
+static.thephantomoftheopera.com
+sweden.thephantomoftheopera.com
+tour.thephantomoftheopera.com
+uk.thephantomoftheopera.com
+uktour.thephantomoftheopera.com
+us.thephantomoftheopera.com
+ustour.thephantomoftheopera.com
+worldtour.thephantomoftheopera.com

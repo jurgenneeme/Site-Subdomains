@@ -1,0 +1,12 @@
+www.rochestercitynewspaper.com
+classifieds.rochestercitynewspaper.com
+admin.rochestercitynewspaper.com
+a.rochestercitynewspaper.com
+m.rochestercitynewspaper.com
+posting.rochestercitynewspaper.com
+p.rochestercitynewspaper.com
+rochestercitynewspaper.com
+www.rochestercitynewspaper.com
+m.rochestercitynewspaper.com
+p.rochestercitynewspaper.com
+posting.rochestercitynewspaper.com

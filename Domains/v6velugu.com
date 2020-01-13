@@ -1,0 +1,11 @@
+www.v6velugu.com
+v6velugu.com
+www.v6velugu.com
+cpanel.v6velugu.com
+mail.v6velugu.com
+v6velugu.com
+webdisk.v6velugu.com
+webmail.v6velugu.com
+www.v6velugu.com
+epaper.v6velugu.com
+m.v6velugu.com

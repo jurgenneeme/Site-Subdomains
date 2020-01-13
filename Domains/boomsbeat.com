@@ -1,0 +1,10 @@
+www.boomsbeat.com
+assets.boomsbeat.com
+contentvideo.boomsbeat.com
+data.boomsbeat.com
+images.boomsbeat.com
+jp.boomsbeat.com
+mail.boomsbeat.com
+player.boomsbeat.com
+stat.boomsbeat.com
+videoimages.boomsbeat.com

@@ -1,0 +1,12 @@
+www.burrisoptics.com
+ballistics.burrisoptics.com
+ballistics.burrisoptics.com
+www.ballistics.burrisoptics.com
+burrisoptics.com
+www.burrisoptics.com
+orders.burrisoptics.com
+www.orders.burrisoptics.com
+autodiscover.burrisoptics.com
+remote.burrisoptics.com
+www.remote.burrisoptics.com
+store.burrisoptics.com

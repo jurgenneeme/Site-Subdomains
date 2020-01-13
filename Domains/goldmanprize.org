@@ -1,0 +1,9 @@
+www.goldmanprize.org
+autodiscover.goldmanprize.org
+mail.goldmanprize.org
+vpn.goldmanprize.org
+www.goldmanprize.org
+www.mail.goldmanprize.org
+goldmanprize.org
+www.goldmanprize.org
+rsvp.goldmanprize.org

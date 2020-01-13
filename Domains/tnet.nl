@@ -1,0 +1,9 @@
+www.tnet.nl
+accounts.tnet.nl
+accounts.tnet.nl
+www.accounts.tnet.nl
+accounts-acc.tnet.nl
+www.accounts-acc.tnet.nl
+cd.tnet.nl
+dd.tnet.nl
+haystack-api.tnet.nl

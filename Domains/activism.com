@@ -1,0 +1,9 @@
+www.activism.com
+activism.com
+www.activism.com
+eww.activism.com
+petition.activism.com
+server.activism.com
+social.activism.com
+ww1.activism.com
+wws.activism.com

@@ -1,0 +1,10 @@
+www.daniellelaporte.com
+stage2.daniellelaporte.com
+stage3.daniellelaporte.com
+stage4.daniellelaporte.com
+stage.daniellelaporte.com
+daniellelaporte.com
+www.daniellelaporte.com
+mail.daniellelaporte.com
+shop.daniellelaporte.com
+stage.daniellelaporte.com

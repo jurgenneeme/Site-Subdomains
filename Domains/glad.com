@@ -1,0 +1,12 @@
+www.glad.com
+brand.glad.com
+coupon.glad.com
+dev.glad.com
+test.glad.com
+dev.glad.com
+test.glad.com
+glad.com
+www.glad.com
+links.em.glad.com
+facebook.glad.com
+lp.glad.com

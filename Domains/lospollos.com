@@ -1,0 +1,16 @@
+www.lospollos.com
+cdn.lospollos.com
+lospollos.com
+www.lospollos.com
+dns2.lospollos.com
+dns3.lospollos.com
+foobar.lospollos.com
+foobar2.lospollos.com
+getservice.lospollos.com
+mgrcdn.lospollos.com
+mx.lospollos.com
+mx.lospollos.com
+www.mx.lospollos.com
+newsletter.lospollos.com
+pix1.lospollos.com
+rocket.lospollos.com

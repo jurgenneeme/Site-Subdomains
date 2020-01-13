@@ -1,0 +1,13 @@
+www.klinkerapps.com
+article.klinkerapps.com
+article.klinkerapps.com
+www.article.klinkerapps.com
+blog.klinkerapps.com
+blog.klinkerapps.com
+www.blog.klinkerapps.com
+evolve.klinkerapps.com
+messenger.klinkerapps.com
+api.messenger.klinkerapps.com
+news.klinkerapps.com
+api.news.klinkerapps.com
+wear.klinkerapps.com

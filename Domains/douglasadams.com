@@ -1,0 +1,13 @@
+www.douglasadams.com
+babelfish.douglasadams.com
+douglasadams.com
+images.douglasadams.com
+douglasadams.com
+images.douglasadams.com
+mboard.douglasadams.com
+douglasadams.com
+images.douglasadams.com
+www.douglasadams.com
+mboard.douglasadams.com
+www.mboard.douglasadams.com
+shop.douglasadams.com

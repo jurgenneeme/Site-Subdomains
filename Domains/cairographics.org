@@ -1,0 +1,7 @@
+www.cairographics.org
+git.cairographics.org
+gitweb.cairographics.org
+lists.cairographics.org
+ns2.cairographics.org
+cairographics.org
+www.cairographics.org

@@ -1,0 +1,16 @@
+www.rpmfusion.org
+admin.rpmfusion.org
+bugzilla.rpmfusion.org
+buildsys.rpmfusion.org
+cvs.rpmfusion.org
+download0.rpmfusion.org
+download1.rpmfusion.org
+fas.rpmfusion.org
+id.rpmfusion.org
+koji.rpmfusion.org
+lists.rpmfusion.org
+mirrors.rpmfusion.org
+nonfree.rpmfusion.org
+rpmfusion.org
+www.rpmfusion.org
+pkgs.rpmfusion.org

@@ -1,0 +1,11 @@
+www.rapidtvnews.com
+rapidtvnews.com
+www.rapidtvnews.com
+de.rapidtvnews.com
+es.rapidtvnews.com
+in.rapidtvnews.com
+la.rapidtvnews.com
+mail.rapidtvnews.com
+mailer.rapidtvnews.com
+static.rapidtvnews.com
+staticfiles.rapidtvnews.com

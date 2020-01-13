@@ -1,0 +1,13 @@
+www.carpetexpress.com
+blog.carpetexpress.com
+blog.carpetexpress.com
+www.blog.carpetexpress.com
+carpetexpress.com
+www.carpetexpress.com
+carpetexpress.com
+cpanel.carpetexpress.com
+webdisk.carpetexpress.com
+webmail.carpetexpress.com
+www.carpetexpress.com
+host2.carpetexpress.com
+www.host2.carpetexpress.com

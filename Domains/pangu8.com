@@ -1,0 +1,11 @@
+www.pangu8.com
+apps.pangu8.com
+blog.pangu8.com
+pangu8.com
+www.pangu8.com
+files.pangu8.com
+install.pangu8.com
+m.pangu8.com
+mail.pangu8.com
+xabsi.pangu8.com
+zjailbreak.pangu8.com

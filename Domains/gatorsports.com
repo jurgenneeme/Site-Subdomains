@@ -1,0 +1,17 @@
+www.gatorsports.com
+blogs.gatorsports.com
+andreu.blogs.gatorsports.com
+brockway.blogs.gatorsports.com
+dooley.blogs.gatorsports.com
+editorsdesk.blogs.gatorsports.com
+progators.blogs.gatorsports.com
+recruiting.blogs.gatorsports.com
+forum.gatorsports.com
+forums.gatorsports.com
+m.gatorsports.com
+mprod.gatorsports.com
+newsletter.gatorsports.com
+recruits.gatorsports.com
+search.gatorsports.com
+stats.gatorsports.com
+video.gatorsports.com

@@ -1,0 +1,5 @@
+www.speedcheck.org
+cdn.speedcheck.org
+download.dsl.speedcheck.org
+speedcheck.org
+www.speedcheck.org

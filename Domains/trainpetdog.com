@@ -1,0 +1,12 @@
+www.trainpetdog.com
+affiliates.trainpetdog.com
+www.affiliates.trainpetdog.com
+edc.trainpetdog.com
+trainpetdog.com
+www.trainpetdog.com
+dogs.trainpetdog.com
+www.dogs.trainpetdog.com
+edc.trainpetdog.com
+fbm.trainpetdog.com
+go.trainpetdog.com
+staging.trainpetdog.com

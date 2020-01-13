@@ -1,0 +1,3 @@
+www.prisguiden.no
+img.prisguiden.no
+static.prisguiden.no

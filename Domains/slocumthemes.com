@@ -1,0 +1,17 @@
+slocumthemes.com
+www.slocumthemes.com
+demos.slocumthemes.com
+cpanel.demos.slocumthemes.com
+demos.slocumthemes.com
+mail.demos.slocumthemes.com
+webdisk.demos.slocumthemes.com
+webmail.demos.slocumthemes.com
+www.demos.slocumthemes.com
+email.slocumthemes.com
+testing.slocumthemes.com
+cpanel.testing.slocumthemes.com
+mail.testing.slocumthemes.com
+testing.slocumthemes.com
+webdisk.testing.slocumthemes.com
+webmail.testing.slocumthemes.com
+www.testing.slocumthemes.com

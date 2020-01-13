@@ -1,0 +1,10 @@
+www.gazetapraca.pl
+bi.gazetapraca.pl
+dodajonline.gazetapraca.pl
+ekstranet.gazetapraca.pl
+info.gazetapraca.pl
+kropka.info.gazetapraca.pl
+praca.gazetapraca.pl
+www.press.gazetapraca.pl
+static.gazetapraca.pl
+static-ats.gazetapraca.pl

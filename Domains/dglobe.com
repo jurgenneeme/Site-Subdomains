@@ -1,0 +1,9 @@
+www.dglobe.com
+dglobe.com
+www.dglobe.com
+fw.dglobe.com
+link.dglobe.com
+local.dglobe.com
+owa.dglobe.com
+www.owa.dglobe.com
+sections.dglobe.com

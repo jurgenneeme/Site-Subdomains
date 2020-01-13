@@ -1,0 +1,16 @@
+www.togoorder.com
+api.togoorder.com
+apiqa.togoorder.com
+arborcafe.togoorder.com
+biscuitlove.togoorder.com
+califchickencafe.togoorder.com
+gigiscupcakesusa.togoorder.com
+www.gigiscupcakesusa.togoorder.com
+juicys.togoorder.com
+ovloeats.togoorder.com
+qa.togoorder.com
+royalfarms.togoorder.com
+santamonicapizzakitchen.togoorder.com
+squires.togoorder.com
+thedoughroom.togoorder.com
+wiki.togoorder.com

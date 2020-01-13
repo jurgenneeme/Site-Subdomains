@@ -1,0 +1,17 @@
+www.clintonherald.com
+celebrations.clintonherald.com
+circulars.clintonherald.com
+clintonherald.com
+m.clintonherald.com
+www.clintonherald.com
+coupons.clintonherald.com
+findnsave.clintonherald.com
+live.clintonherald.com
+login.clintonherald.com
+m.clintonherald.com
+mail.clintonherald.com
+marketplace.clintonherald.com
+newspaperads.clintonherald.com
+obituaries.clintonherald.com
+photos.clintonherald.com
+videos.clintonherald.com
