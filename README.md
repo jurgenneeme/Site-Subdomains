@@ -7,6 +7,6 @@ Biggest list of subdomains in the WORLD !
 # Do you update the list ?
 * **Yes**! use ``git pull`` time to time.
 
-# Donate?
+---
 
-If you think that I saved you time, you can buy me a [coffee](https://www.paypal.me/bohrhadi)
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/bohrhadi)
